@@ -622,5 +622,311 @@
   "page": "https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever_-_black.jpg",
   "author": "Gunnandreassen",
   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "borzoi": {
+  "file": "Borzoi female.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Borzoi_female.jpg",
+  "author": "Taru T Torpström",
+  "license": "GFDL"
+ },
+ "wire-fox-terrier": {
+  "file": "Elias1červen2006.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Elias1%C4%8Derven2006.jpg",
+  "author": "Simona Nováková, owner",
+  "license": "Public domain"
+ },
+ "miniature-bull-terrier": {
+  "file": "Bull Terrier Miniature.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bull_Terrier_Miniature.jpg",
+  "author": "Desaix83, d'après le travail de Darmaninjl",
+  "license": "CC BY-SA 3.0"
+ },
+ "belgian-tervuren": {
+  "file": "Tervuren.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tervuren.jpg",
+  "author": "Patty Carlson",
+  "license": "CC BY 2.0"
+ },
+ "gordon-setter": {
+  "file": "Orrvilas enska w800px.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg",
+  "author": "Jukka Puro",
+  "license": "GFDL"
+ },
+ "silky-terrier": {
+  "file": "02 Australian Silky Terrier, Zack, spring 2012.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:02_Australian_Silky_Terrier%2C_Zack%2C_spring_2012.jpg",
+  "author": "island silks",
+  "license": "CC BY 2.0"
+ },
+ "norwich-terrier": {
+  "file": "Norwichterrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Norwichterrier.jpg",
+  "author": "H. Gisin",
+  "license": "GFDL"
+ },
+ "spinone-italiano": {
+  "file": "Spinone italiano Daisy.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Spinone_italiano_Daisy.JPG",
+  "author": null,
+  "license": "GFDL"
+ },
+ "japanese-chin": {
+  "file": "Japanese Chin adult.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Japanese_Chin_adult.jpg",
+  "author": "Trysha",
+  "license": "GFDL"
+ },
+ "welsh-terrier": {
+  "file": "Welshterrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Welshterrier.jpg",
+  "author": "Fotograf: Ebba Persson.",
+  "license": "CC BY-SA 2.5"
+ },
+ "toy-fox-terrier": {
+  "file": "Toy Fox Terrier 2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Toy_Fox_Terrier_2.jpg",
+  "author": "Terry Best",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "schipperke": {
+  "file": "Schipperke1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Schipperke1.jpg",
+  "author": "Mijobe",
+  "license": "GFDL"
+ },
+ "parson-russell-terrier": {
+  "file": "Parson Russell Terrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Parson_Russell_Terrier.jpg",
+  "author": "Ellen Levy Finch (:en:User:Elf)",
+  "license": "GFDL"
+ },
+ "pointer": {
+  "file": "English pointer.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:English_pointer.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "belgian-sheepdog": {
+  "file": "European Groenendael male.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:European_Groenendael_male.jpg",
+  "author": "Nachoferreyra",
+  "license": "GFDL"
+ },
+ "tibetan-spaniel": {
+  "file": "Tibetansk spaniel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tibetansk_spaniel.jpg",
+  "author": null,
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "american-eskimo-dog": {
+  "file": "American Eskimo Dog 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_1.jpg",
+  "author": "Christmas w/a K",
+  "license": "CC BY-SA 2.0"
+ },
+ "irish-terrier": {
+  "file": "Irish Terrier P1060074.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Irish_Terrier_P1060074.jpg",
+  "author": "Goldmull",
+  "license": "CC BY-SA 4.0"
+ },
+ "beauceron": {
+  "file": "BeauceronStand.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg",
+  "author": "Stefan Schmitz",
+  "license": "CC BY-SA 3.0"
+ },
+ "afghan-hound": {
+  "file": "AKC Helena Fall Dog Show 2011.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:AKC_Helena_Fall_Dog_Show_2011.jpg",
+  "author": "SheltieBoy",
+  "license": "CC BY 2.0"
+ },
+ "boerboel": {
+  "file": "Boerboel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Boerboel.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "smooth-fox-terrier": {
+  "file": "Terrier mix sh klaas.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Terrier_mix_sh_klaas.jpg",
+  "author": "Hans863",
+  "license": "GFDL"
+ },
+ "bearded-collie": {
+  "file": "Bearded Collie.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bearded_Collie.jpg",
+  "author": "marbla123",
+  "license": "CC BY 2.0"
+ },
+ "black-russian-terrier": {
+  "file": "Russianblack.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Russianblack.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "black-and-tan-coonhound": {
+  "file": "Black and Tan Coonhound.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_and_Tan_Coonhound.jpg",
+  "author": "Steffen Heinz (Caronna)",
+  "license": "CC BY-SA 2.5"
+ },
+ "welsh-springer-spaniel": {
+  "file": "Welsh Springer Spaniel 1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Welsh_Springer_Spaniel_1.jpg",
+  "author": "Udo Tjalsma",
+  "license": "CC0"
+ },
+ "american-hairless-terrier": {
+  "file": "American Hairless Terrier Adelor.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:American_Hairless_Terrier_Adelor.jpg",
+  "author": "Nyaah",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "norfolk-terrier": {
+  "file": "Charmonty Norfolkterrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Charmonty_Norfolkterrier.jpg",
+  "author": "Robin Wellmann",
+  "license": "Public domain"
+ },
+ "xoloitzcuintli": {
+  "file": "XoloLarge1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:XoloLarge1.jpg",
+  "author": "Canarian",
+  "license": "CC BY-SA 4.0"
+ },
+ "manchester-terrier-toy": {
+  "file": "Toy-manchester-terrier-weave.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Toy-manchester-terrier-weave.png",
+  "author": "User Coneslayer on en.wikipedia",
+  "license": "CC BY-SA 2.0"
+ },
+ "manchester-terrier-standard": {
+  "file": "Manchesterterrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Manchesterterrier.jpg",
+  "author": "|Date=2008-04-24",
+  "license": "CC BY 3.0, GFDL"
+ },
+ "kerry-blue-terrier": {
+  "file": "Kerry Blue Terrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg",
+  "author": "Peter Kumpert, Germany",
+  "license": "CC BY-SA 3.0"
+ },
+ "australian-terrier": {
+  "file": "Australian Terrier 002 U.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Australian_Terrier_002_U.jpg",
+  "author": "Lilly M",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "clumber-spaniel": {
+  "file": "Clumber spaniel glowa rybnik-kamien ppl.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Clumber_spaniel_glowa_rybnik-kamien_ppl.jpg",
+  "author": "Pleple2000",
+  "license": "GFDL"
+ },
+ "lakeland-terrier": {
+  "file": "Lakeland Terrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lakeland_Terrier.jpg",
+  "author": "sannse",
+  "license": "GFDL"
+ },
+ "bluetick-coonhound": {
+  "file": "BluetickCoonhound.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:BluetickCoonhound.jpg",
+  "author": "Mark Riordan (me)",
+  "license": "Public domain"
+ },
+ "english-toy-spaniel": {
+  "file": "King Charles Spaniel Mike 3.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:King_Charles_Spaniel_Mike_3.jpg",
+  "author": "Karelj",
+  "license": "Public domain"
+ },
+ "german-pinscher": {
+  "file": "German Pinscher.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:German_Pinscher.JPG",
+  "author": null,
+  "license": "GFDL"
+ },
+ "tibetan-mastiff": {
+  "file": "2013 Westminster Kennel Club Dog Show- Tibetan Mastiff GCH Sierras'Sasha-Yakone Nanuk (8469240739) (cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Tibetan_Mastiff_GCH_Sierras%27Sasha-Yakone_Nanuk_%288469240739%29_%28cropped%29.jpg",
+  "author": "Pets Adviser from Brooklyn, USA",
+  "license": "CC BY 2.0"
+ },
+ "bedlington-terrier": {
+  "file": "Bedlington terrier.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg",
+  "author": "David Owsiany",
+  "license": "GFDL"
+ },
+ "greyhound": {
+  "file": "GraceTheGreyhound.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg",
+  "author": "Neurodoc",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "puli": {
+  "file": "Puli 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Puli_600.jpg",
+  "author": "Sannse",
+  "license": "GFDL"
+ },
+ "saluki": {
+  "file": "Red Smooth Saluki.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_Smooth_Saluki.jpg",
+  "author": "r.",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "barbet": {
+  "file": "Chien de race Barbet.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Chien_de_race_Barbet.jpg",
+  "author": null,
+  "license": "Public domain"
+ },
+ "redbone-coonhound": {
+  "file": "Memphis the Redbone Coonhound (7 Nov 2004).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Memphis_the_Redbone_Coonhound_%287_Nov_2004%29.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "swedish-vallhund": {
+  "file": "SwedishVallhundAgility wb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SwedishVallhundAgility_wb.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "sealyham-terrier": {
+  "file": "SealyhamTerrier01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SealyhamTerrier01.jpg",
+  "author": "Dr. Sabine Schumann",
+  "license": "Public domain"
+ },
+ "spanish-water-dog": {
+  "file": "Perro agua.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Perro_agua.jpg",
+  "author": null,
+  "license": "Public domain"
+ },
+ "briard": {
+  "file": "Briard fauve.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Briard_fauve.JPG",
+  "author": "Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC))",
+  "license": "GFDL"
+ },
+ "berger-picard": {
+  "file": "Owczarek pikardyjski 63.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Owczarek_pikardyjski_63.jpg",
+  "author": null,
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "entlebucher-mountain-dog": {
+  "file": "Entlebucher sennenhond.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Entlebucher_sennenhond.jpg",
+  "author": "Entlebucher",
+  "license": "CC BY-SA 4.0"
  }
 }
