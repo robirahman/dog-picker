@@ -27,7 +27,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Labrador_Retriever",
   "image": "images/breeds/labrador-retriever.jpg",
   "commonsFile": "Yellow Labrador Retriever 2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Yellow Labrador Retriever 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Yellow_Labrador_Retriever_2.jpg",
+   "author": "SixtyWeb",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -79,7 +84,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/French_Bulldog",
   "image": "images/breeds/french-bulldog.jpg",
   "commonsFile": "Французские бульдоги 2013-09-02 11-36.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Французские бульдоги 2013-09-02 11-36.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3%D0%B8_2013-09-02_11-36.JPG",
+   "author": "Frosya a",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -131,7 +141,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/German_Shepherd",
   "image": "images/breeds/german-shepherd-dog.jpg",
   "commonsFile": "Pastor aleman a.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Pastor aleman a.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pastor_aleman_a.jpg",
+   "author": "Erick Drumss Hernández",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -183,7 +198,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Golden_Retriever",
   "image": "images/breeds/golden-retriever.jpg",
   "commonsFile": "Golden Retriever Dukedestiny01 drvd.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Golden Retriever Dukedestiny01 drvd.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
+   "author": "*Dukedestiny01.jpg: \"Janneke Vreugdenhil\"",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -235,7 +255,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bulldog",
   "image": "images/breeds/bulldog.jpg",
   "commonsFile": "Racibórz 2007 082.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Racibórz 2007 082.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Racib%C3%B3rz_2007_082.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -287,7 +312,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Poodle",
   "image": "images/breeds/poodle-toy.jpg",
   "commonsFile": "Miniature poodle.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Miniature poodle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Miniature_poodle.jpg",
+   "author": "Boxerista96",
+   "license": "CC BY 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -339,7 +369,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Poodle",
   "image": "images/breeds/poodle-miniature.jpg",
   "commonsFile": "Miniature poodle.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Miniature poodle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Miniature_poodle.jpg",
+   "author": "Boxerista96",
+   "license": "CC BY 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -391,7 +426,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Poodle",
   "image": "images/breeds/poodle-standard.jpg",
   "commonsFile": "Miniature poodle.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Miniature poodle.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Miniature_poodle.jpg",
+   "author": "Boxerista96",
+   "license": "CC BY 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -443,7 +483,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Beagle",
   "image": "images/breeds/beagle.jpg",
   "commonsFile": "MiloSmet.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "MiloSmet.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:MiloSmet.JPG",
+   "author": "Jonatan De Geest",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 5,
@@ -495,7 +540,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Rottweiler",
   "image": "images/breeds/rottweiler.jpg",
   "commonsFile": "Rottweiler Moletai May 2014.2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Rottweiler Moletai May 2014.2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rottweiler_Moletai_May_2014.2.jpg",
+   "author": "Томасина",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -547,7 +597,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
   "image": "images/breeds/german-shorthaired-pointer.jpg",
   "commonsFile": "Duitse staande korthaar 10-10-2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Duitse staande korthaar 10-10-2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Duitse_staande_korthaar_10-10-2.jpg",
+   "author": "Bonnie van den Born, http://www.bonfoto.nl",
+   "license": "CC BY-SA 2.5, CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -599,7 +654,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dachshund",
   "image": "images/breeds/dachshund.jpg",
   "commonsFile": "MiniDachshund1 wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "MiniDachshund1 wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:MiniDachshund1_wb.jpg",
+   "author": "Ellen Levy Finch (Elf)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -651,7 +711,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
   "image": "images/breeds/pembroke-welsh-corgi.jpg",
   "commonsFile": "Welsh Pembroke Corgi.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Welsh Pembroke Corgi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Welsh_Pembroke_Corgi.jpg",
+   "author": "Dog breed facts",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -703,7 +768,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Australian_Shepherd",
   "image": "images/breeds/australian-shepherd.jpg",
   "commonsFile": "Aussi.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Aussi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Aussi.jpg",
+   "author": "Christoph Aeschlimann",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 3,
@@ -755,7 +825,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
   "image": "images/breeds/yorkshire-terrier.jpg",
   "commonsFile": "Imageyorkie.png",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Imageyorkie.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Imageyorkie.png",
+   "author": "Gandalfelrojo2",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -807,7 +882,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Boxer_(dog_breed)",
   "image": "images/breeds/boxer.jpg",
   "commonsFile": "Boxer female brown.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Boxer female brown.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Boxer_female_brown.jpg",
+   "author": "Flickr user boxercab",
+   "license": "CC BY 2.0"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 3,
@@ -859,7 +939,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Great_Dane",
   "image": "images/breeds/great-dane.jpg",
   "commonsFile": "8675eds win.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "8675eds win.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:8675eds_win.jpg",
+   "author": "Original uploader was Markovade.pero at sr.wikipedia",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -911,7 +996,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Siberian_Husky",
   "image": "images/breeds/siberian-husky.jpg",
   "commonsFile": "Siberian Husky - Mika.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Siberian Husky - Mika.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Siberian_Husky_-_Mika.jpg",
+   "author": "ShonMichaeli",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -963,7 +1053,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
   "image": "images/breeds/cavalier-king-charles-spaniel.jpg",
   "commonsFile": "CavalierKgChas2 wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "CavalierKgChas2 wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:CavalierKgChas2_wb.jpg",
+   "author": ":en:user:Elf, Ellen Levy Finch",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1015,7 +1110,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dobermann",
   "image": "images/breeds/doberman-pinscher.jpg",
   "commonsFile": "Dobermann Father-and-son.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Dobermann Father-and-son.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dobermann_Father-and-son.jpg",
+   "author": "Fran Hogan",
+   "license": "CC BY 2.5"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -1067,7 +1167,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
   "image": "images/breeds/miniature-schnauzer.jpg",
   "commonsFile": "Питомник \"Ассон Ари\" Цвергшнауцеры белые и черные с серебром 12.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Питомник \"Ассон Ари\" Цвергшнауцеры белые и черные с серебром 12.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA_%22%D0%90%D1%81%D1%81%D0%BE%D0%BD_%D0%90%D1%80%D0%B8%22_%D0%A6%D0%B2%D0%B5%D1%80%D0%B3%D1%88%D0%BD%D0%B0%D1%83%D1%86%D0%B5%D1%80%D1%8B_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B8_%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D1%81_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE%D0%BC_12.jpg",
+   "author": "Zorik07",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -1119,7 +1224,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Shih_Tzu",
   "image": "images/breeds/shih-tzu.jpg",
   "commonsFile": "Shih Tzu portrait show dog.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Shih Tzu portrait show dog.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shih_Tzu_portrait_show_dog.jpg",
+   "author": null,
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1171,7 +1281,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Boston_Terrier",
   "image": "images/breeds/boston-terrier.jpg",
   "commonsFile": "BOSTON TERRIER, Vingårdens Essi von Richards (23995273800).2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "BOSTON TERRIER, Vingårdens Essi von Richards (23995273800).2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BOSTON_TERRIER%2C_Ving%C3%A5rdens_Essi_von_Richards_%2823995273800%29.2.jpg",
+   "author": "Svenska Mässan from Sweden",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -1223,7 +1338,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog",
   "image": "images/breeds/bernese-mountain-dog.jpg",
   "commonsFile": "Bouviers Bernois Ganjo.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bouviers Bernois Ganjo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bouviers_Bernois_Ganjo.jpg",
+   "author": "Ganjo http://fr.wikipedia.org/wiki/Utilisateur:Ganjo",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1275,7 +1395,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pomeranian_dog",
   "image": "images/breeds/pomeranian.jpg",
   "commonsFile": "Померанский шпиц (Pomeranian) 01.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Померанский шпиц (Pomeranian) 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%88%D0%BF%D0%B8%D1%86_%28Pomeranian%29_01.jpg",
+   "author": "Novoklimov",
+   "license": "CC0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -1327,7 +1452,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Havanese_dog",
   "image": "images/breeds/havanese.jpg",
   "commonsFile": "A havanese dog.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "A havanese dog.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:A_havanese_dog.jpg",
+   "author": "QHuge",
+   "license": "CC BY 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1379,7 +1509,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cane_Corso",
   "image": "images/breeds/cane-corso.jpg",
   "commonsFile": "FINLEY DE LA MIRAGE DE TORRELLAS 01.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "FINLEY DE LA MIRAGE DE TORRELLAS 01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:FINLEY_DE_LA_MIRAGE_DE_TORRELLAS_01.jpg",
+   "author": "Marta García, juan Manuel Morato",
+   "license": "CC BY-SA 2.1"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -1431,7 +1566,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/English_Springer_Spaniel",
   "image": "images/breeds/english-springer-spaniel.jpg",
   "commonsFile": "Englishspringerspaniel Winston.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Englishspringerspaniel Winston.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Englishspringerspaniel_Winston.jpg",
+   "author": "SuviLindholm",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -1483,7 +1623,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Shetland_Sheepdog",
   "image": "images/breeds/shetland-sheepdog.jpg",
   "commonsFile": "ShetlandShpdogBlue2 wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "ShetlandShpdogBlue2 wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:ShetlandShpdogBlue2_wb.jpg",
+   "author": "Ellen Levy Finch (Elf)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1535,7 +1680,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Brittany_Spaniel",
   "image": "images/breeds/brittany.jpg",
   "commonsFile": "American Brittany standing.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "American Brittany standing.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:American_Brittany_standing.jpg",
+   "author": "Pharaoh Hound",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 3,
   "kids": 4,
   "dogs": 4,
@@ -1587,7 +1737,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pug",
   "image": "images/breeds/pug.jpg",
   "commonsFile": "2.5-year-old fawn male pug.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "2.5-year-old fawn male pug.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2.5-year-old_fawn_male_pug.jpg",
+   "author": "Abuk SABUK",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -1639,7 +1794,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cocker_Spaniel",
   "image": "images/breeds/cocker-spaniel.jpg",
   "commonsFile": "Zahir the English Cocker Spaniel.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Zahir the English Cocker Spaniel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Zahir_the_English_Cocker_Spaniel.jpg",
+   "author": "Allymcpink",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -1691,7 +1851,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd",
   "image": "images/breeds/miniature-american-shepherd.jpg",
   "commonsFile": "Miniature-american-shepherd-energies.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Miniature-american-shepherd-energies.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Miniature-american-shepherd-energies.jpg",
+   "author": "TanSinVic",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -1743,7 +1908,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Border_Collie",
   "image": "images/breeds/border-collie.jpg",
   "commonsFile": "Argentine border collie.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Argentine border collie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Argentine_border_collie.jpg",
+   "author": "Horacio Cambeiro",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -1795,7 +1965,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/English_Mastiff",
   "image": "images/breeds/mastiff.jpg",
   "commonsFile": "Mastif angielski pregowany nn.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Mastif angielski pregowany nn.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mastif_angielski_pregowany_nn.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -1847,7 +2022,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Chihuahua_(dog_breed)",
   "image": "images/breeds/chihuahua.jpg",
   "commonsFile": "Chihuahuas- Holly, Nina, Doralice.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Chihuahuas- Holly, Nina, Doralice.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chihuahuas-_Holly%2C_Nina%2C_Doralice.jpg",
+   "author": "Caterinarufo",
+   "license": "Public domain"
+  },
   "affection": 4,
   "kids": 1,
   "dogs": 3,
@@ -1899,7 +2079,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Vizsla",
   "image": "images/breeds/vizsla.jpg",
   "commonsFile": "Wyżeł węgierski gładkowłosy 500.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Wyżeł węgierski gładkowłosy 500.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -1951,7 +2136,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Basset_Hound",
   "image": "images/breeds/basset-hound.jpg",
   "commonsFile": "Basset Hound 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Basset Hound 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Basset_Hound_600.jpg",
+   "author": "Sannse",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 5,
@@ -2003,7 +2193,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Malinois_dog",
   "image": "images/breeds/belgian-malinois.jpg",
   "commonsFile": "HMKC Christmas Fun Run 2012 (8265428196).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "HMKC Christmas Fun Run 2012 (8265428196).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:HMKC_Christmas_Fun_Run_2012_%288265428196%29.jpg",
+   "author": "SheltieBoy from USA",
+   "license": "CC BY 2.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -2055,7 +2250,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Maltese_dog",
   "image": "images/breeds/maltese.jpg",
   "commonsFile": "Maltezer Vereniging Belgie.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Maltezer Vereniging Belgie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Maltezer_Vereniging_Belgie.jpg",
+   "author": "Maltezervereniging",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -2107,7 +2307,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Weimaraner",
   "image": "images/breeds/weimaraner.jpg",
   "commonsFile": "Weimaraner Amigo.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Weimaraner Amigo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Weimaraner_Amigo.jpg",
+   "author": "Alexander Gratz",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -2159,7 +2364,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Collie",
   "image": "images/breeds/collie.jpg",
   "commonsFile": "Border collie (dog).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Border collie (dog).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Border_collie_%28dog%29.jpg",
+   "author": "Lemming81",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 3,
@@ -2211,7 +2421,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Newfoundland_dog",
   "image": "images/breeds/newfoundland.jpg",
   "commonsFile": "201210071658d.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "201210071658d.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:201210071658d.jpg",
+   "author": "Hartmann Linge",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -2263,7 +2478,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback",
   "image": "images/breeds/rhodesian-ridgeback.jpg",
   "commonsFile": "Grupp 6 RHODESIAN RIDGEBACK, NO JV-15 SE VCH Kadamo I’m In It For The Gold (23920356649).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Grupp 6 RHODESIAN RIDGEBACK, NO JV-15 SE VCH Kadamo I’m In It For The Gold (23920356649).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Grupp_6_RHODESIAN_RIDGEBACK%2C_NO_JV-15_SE_VCH_Kadamo_I%E2%80%99m_In_It_For_The_Gold_%2823920356649%29.jpg",
+   "author": "Svenska Mässan from Sweden",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -2315,7 +2535,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Shiba_Inu",
   "image": "images/breeds/shiba-inu.jpg",
   "commonsFile": "Shiba inu taiki.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Shiba inu taiki.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shiba_inu_taiki.jpg",
+   "author": "Roberto Vasarri",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -2367,7 +2592,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/West_Highland_White_Terrier",
   "image": "images/breeds/west-highland-white-terrier.jpg",
   "commonsFile": "West Highland White Terrier Krakow.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "West Highland White Terrier Krakow.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_Krakow.jpg",
+   "author": "Christopher Walker from Krakow, Poland",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -2419,7 +2649,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9",
   "image": "images/breeds/bichon-frise.jpg",
   "commonsFile": "Bichon Frisé - studdogbichon.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bichon Frisé - studdogbichon.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bichon_Fris%C3%A9_-_studdogbichon.jpg",
+   "author": "Heike Andres",
+   "license": null
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -2471,7 +2706,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bloodhound",
   "image": "images/breeds/bloodhound.jpg",
   "commonsFile": "Perro de San Huberto.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Perro de San Huberto.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Perro_de_San_Huberto.jpg",
+   "author": "Mary Bloom, American Kennel Club",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -2523,7 +2763,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/English_Cocker_Spaniel",
   "image": "images/breeds/english-cocker-spaniel.jpg",
   "commonsFile": "\"Bill\" - Cocker spaniel anglais 1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "\"Bill\" - Cocker spaniel anglais 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%22Bill%22_-_Cocker_spaniel_anglais_1.jpg",
+   "author": "Jean-Pol GRANDMONT",
+   "license": "CC BY 4.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -2575,7 +2820,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Akita_(dog_breed)",
   "image": "images/breeds/akita.jpg",
   "commonsFile": "Akita inu criado por Tsutsui Kennel.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Akita inu criado por Tsutsui Kennel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Akita_inu_criado_por_Tsutsui_Kennel.jpg",
+   "author": "TsutsuiKennel",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 1,
@@ -2627,7 +2877,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog",
   "image": "images/breeds/portuguese-water-dog.jpg",
   "commonsFile": "Cão de agua Português 2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cão de agua Português 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:C%C3%A3o_de_agua_Portugu%C3%AAs_2.jpg",
+   "author": "Silke Hollje-Schumacher",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -2679,7 +2934,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever",
   "image": "images/breeds/chesapeake-bay-retriever.jpg",
   "commonsFile": "Chesapeakebayretriever01-l.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Chesapeakebayretriever01-l.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chesapeakebayretriever01-l.jpg",
+   "author": "Nevilley",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -2731,7 +2991,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dalmatian_dog",
   "image": "images/breeds/dalmatian.jpg",
   "commonsFile": "Dalmatien.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Dalmatien.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dalmatien.jpg",
+   "author": "Desaix83, d'après le travail de Le dalmatien",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -2783,7 +3048,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/St._Bernard_(dog_breed)",
   "image": "images/breeds/saint-bernard.jpg",
   "commonsFile": "Rey nieve.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Rey nieve.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Rey_nieve.jpg",
+   "author": "Rafael Dominguez Rodriguez",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -2835,7 +3105,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Continental_Toy_Spaniel",
   "image": "images/breeds/papillon.jpg",
   "commonsFile": "Outdoor Continental Toy Spaniel Papillon.jpeg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Outdoor Continental Toy Spaniel Papillon.jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Outdoor_Continental_Toy_Spaniel_Papillon.jpeg",
+   "author": "Gvdmoort",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -2887,7 +3162,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
   "image": "images/breeds/australian-cattle-dog.jpg",
   "commonsFile": "ACD-blue-spud.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "ACD-blue-spud.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:ACD-blue-spud.jpg",
+   "author": "Zingpix",
+   "license": "CC BY 3.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -2939,7 +3219,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bullmastiff",
   "image": "images/breeds/bullmastiff.jpg",
   "commonsFile": "Dog Bullmastiff 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Dog Bullmastiff 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dog_Bullmastiff_600.jpg",
+   "author": ":en:user:sannse",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -2991,7 +3276,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Samoyed_dog",
   "image": "images/breeds/samoyed.jpg",
   "commonsFile": "Samojed00.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Samojed00.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Samojed00.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -3043,7 +3333,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Scottish_Terrier",
   "image": "images/breeds/scottish-terrier.jpg",
   "commonsFile": "Scotish terrier burleska 2005.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Scotish terrier burleska 2005.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Scotish_terrier_burleska_2005.jpg",
+   "author": "Mider",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 2,
@@ -3095,7 +3390,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier",
   "image": "images/breeds/soft-coated-wheaten-terrier.jpg",
   "commonsFile": "Soft Coated Wheaten Terrier 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Soft Coated Wheaten Terrier 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Soft_Coated_Wheaten_Terrier_600.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -3147,7 +3447,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Whippet",
   "image": "images/breeds/whippet.jpg",
   "commonsFile": "Whippet stacked.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Whippet stacked.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Whippet_stacked.jpg",
+   "author": "Sagaciousphil",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -3199,7 +3504,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer",
   "image": "images/breeds/german-wirehaired-pointer.jpg",
   "commonsFile": "GermanWirehrPtr1 wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "GermanWirehrPtr1 wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:GermanWirehrPtr1_wb.jpg",
+   "author": "Ellen Levy Finch (Elf)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -3251,7 +3561,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Shar_Pei",
   "image": "images/breeds/chinese-shar-pei.jpg",
   "commonsFile": "Shar pei.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Shar pei.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Shar_pei.jpg",
+   "author": "UpdOWN.",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -3303,7 +3618,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Airedale_Terrier",
   "image": "images/breeds/airedale-terrier.jpg",
   "commonsFile": "Airedale Terrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Airedale Terrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Airedale_Terrier.jpg",
+   "author": "Jane@rangeairevision.com",
+   "license": "Copyrighted free use"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -3355,7 +3675,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon",
   "image": "images/breeds/wirehaired-pointing-griffon.jpg",
   "commonsFile": "Korthalsgriffon.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Korthalsgriffon.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Korthalsgriffon.jpg",
+   "author": "Elf",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -3407,7 +3732,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bull_Terrier",
   "image": "images/breeds/bull-terrier.jpg",
   "commonsFile": "Bullterier 089 LM.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bullterier 089 LM.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bullterier_089_LM.jpg",
+   "author": "Lilly M",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 1,
@@ -3459,7 +3789,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Alaskan_Malamute",
   "image": "images/breeds/alaskan-malamute.jpg",
   "commonsFile": "Alaskan Malamute.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Alaskan Malamute.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg",
+   "author": "SCMW",
+   "license": "CC BY 3.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -3511,7 +3846,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
   "image": "images/breeds/cardigan-welsh-corgi.jpg",
   "commonsFile": "Cardigan Welsh Corgi 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cardigan Welsh Corgi 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cardigan_Welsh_Corgi_600.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 4,
   "dogs": 3,
@@ -3563,7 +3903,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Giant_Schnauzer",
   "image": "images/breeds/giant-schnauzer.jpg",
   "commonsFile": "Stablemaster's NORTHERN HOPE(Poznan2006).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Stablemaster's NORTHERN HOPE(Poznan2006).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Stablemaster%27s_NORTHERN_HOPE%28Poznan2006%29.jpg",
+   "author": "Kkrzysiu o2",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -3615,7 +3960,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Old_English_Sheepdog",
   "image": "images/breeds/old-english-sheepdog.jpg",
   "commonsFile": "Bobtail.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bobtail.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Bobtail.JPG",
+   "author": "Mona (uploaded by Caronna 08:14, 15 Apr 2005 (UTC))",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -3667,7 +4017,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Italian_Greyhound",
   "image": "images/breeds/italian-greyhound.jpg",
   "commonsFile": "Charciki Włoskie, dorosły i szczeniak.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Charciki Włoskie, dorosły i szczeniak.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Charciki_W%C5%82oskie%2C_doros%C5%82y_i_szczeniak.jpg",
+   "author": "Tesori di Carli",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -3719,7 +4074,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog",
   "image": "images/breeds/great-pyrenees.jpg",
   "commonsFile": "Pyrenean Mountain Dog 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Pyrenean Mountain Dog 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pyrenean_Mountain_Dog_600.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -3771,7 +4131,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dogue_de_Bordeaux",
   "image": "images/breeds/dogue-de-bordeaux.jpg",
   "commonsFile": "DJT 0086.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "DJT 0086.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:DJT_0086.jpg",
+   "author": "Multichill",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -3823,7 +4188,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier",
   "image": "images/breeds/russell-terrier.jpg",
   "commonsFile": "Jack Russell Terrier 1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Jack Russell Terrier 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg",
+   "author": "Plank",
+   "license": "CC BY 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -3875,7 +4245,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cairn_Terrier",
   "image": "images/breeds/cairn-terrier.jpg",
   "commonsFile": "Cairn-Terrier-Garten1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cairn-Terrier-Garten1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cairn-Terrier-Garten1.jpg",
+   "author": "Ronald Müller-Hagen (Ketterechts)",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -3927,7 +4302,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Irish_Wolfhound",
   "image": "images/breeds/irish-wolfhound.jpg",
   "commonsFile": "Irish wolfhound giaccomo.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Irish wolfhound giaccomo.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Irish_wolfhound_giaccomo.JPG",
+   "author": "Camillo 60",
+   "license": "CC BY-SA 3.0, GFDL, Free Art License"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -3979,7 +4359,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Irish_Setter",
   "image": "images/breeds/irish-setter.jpg",
   "commonsFile": "Can Setter dog GFDL.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Can Setter dog GFDL.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg",
+   "author": "Luis Miguel Bugallo Sánchez (Lmbuga Commons)(Lmbuga Galipedia)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -4031,7 +4416,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog",
   "image": "images/breeds/greater-swiss-mountain-dog.jpg",
   "commonsFile": "Swissy-2009-11-02.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Swissy-2009-11-02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Swissy-2009-11-02.jpg",
+   "author": "*Swissy.JPG: KIKKUZZO88",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -4083,7 +4473,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Miniature_Pinscher",
   "image": "images/breeds/miniature-pinscher.jpg",
   "commonsFile": "Zwergpinscher adult Ch. Mirzan del Piervez.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Zwergpinscher adult Ch. Mirzan del Piervez.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Zwergpinscher_adult_Ch._Mirzan_del_Piervez.jpg",
+   "author": "Sanacorekennel",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -4135,7 +4530,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Lhasa_Apso",
   "image": "images/breeds/lhasa-apso.jpg",
   "commonsFile": "Grupp 9, LHASA APSO, DK JV-13 DK V-14 DK V-15 NO UCH NO V-15 SE UCH Chic Choix Some Like It Chic (24014621720).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Grupp 9, LHASA APSO, DK JV-13 DK V-14 DK V-15 NO UCH NO V-15 SE UCH Chic Choix Some Like It Chic (24014621720).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Grupp_9%2C_LHASA_APSO%2C_DK_JV-13_DK_V-14_DK_V-15_NO_UCH_NO_V-15_SE_UCH_Chic_Choix_Some_Like_It_Chic_%2824014621720%29.jpg",
+   "author": "Svenska Mässan from Sweden",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -4187,7 +4587,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
   "image": "images/breeds/chinese-crested.jpg",
   "commonsFile": "IndyStands.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "IndyStands.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:IndyStands.jpg",
+   "author": "Tommy Gildseth",
+   "license": "CC BY 3.0, GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -4239,7 +4644,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Coton_de_Tulear",
   "image": "images/breeds/coton-de-tulear.jpg",
   "commonsFile": "Coton de Tular 2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Coton de Tular 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Coton_de_Tular_2.jpg",
+   "author": "Uschi Goess (eingestellt von Caronna)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -4291,7 +4701,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
   "image": "images/breeds/staffordshire-bull-terrier.jpg",
   "commonsFile": "Staffie.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Staffie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Staffie.jpg",
+   "author": "Aixeneta",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -4343,7 +4758,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier",
   "image": "images/breeds/american-staffordshire-terrier.jpg",
   "commonsFile": "AMERICAN STAFFORDSHIRE TERRIER, Zican’s Bz Ez Dragon (24208348891).2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "AMERICAN STAFFORDSHIRE TERRIER, Zican’s Bz Ez Dragon (24208348891).2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
+   "author": "Svenska Mässan from Sweden",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -4395,7 +4815,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Rat_Terrier",
   "image": "images/breeds/rat-terrier.jpg",
   "commonsFile": "AmRatTerr11 fx wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "AmRatTerr11 fx wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AmRatTerr11_fx_wb.jpg",
+   "author": "Elf",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -4447,7 +4872,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Chow_Chow",
   "image": "images/breeds/chow-chow.jpg",
   "commonsFile": "01 Chow Chow.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "01 Chow Chow.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:01_Chow_Chow.jpg",
+   "author": "Prayitno/more than 2.5 millions views: thank you!",
+   "license": "CC BY 2.0"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 2,
@@ -4499,7 +4929,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Anatolian_Shepherd",
   "image": "images/breeds/anatolian-shepherd-dog.jpg",
   "commonsFile": "Kangal-welpen-de 003.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Kangal-welpen-de 003.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kangal-welpen-de_003.jpg",
+   "author": "Dfence~commonswiki",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 1,
   "kids": 3,
   "dogs": 3,
@@ -4551,7 +4986,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Basenji",
   "image": "images/breeds/basenji.jpg",
   "commonsFile": "Басенджи (Basenji) 02.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Басенджи (Basenji) 02.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8_%28Basenji%29_02.jpg",
+   "author": "Novoklimov",
+   "license": "CC0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -4603,7 +5043,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Boykin_Spaniel",
   "image": "images/breeds/boykin-spaniel.jpg",
   "commonsFile": "Boykin Spaniel Relaxing2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Boykin Spaniel Relaxing2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Boykin_Spaniel_Relaxing2.jpg",
+   "author": "PCullomO",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 5,
@@ -4655,7 +5100,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo",
   "image": "images/breeds/lagotto-romagnolo.jpg",
   "commonsFile": "Lagotto Romagnolo.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Lagotto Romagnolo.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg",
+   "author": "Canecorsodog",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -4707,7 +5157,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Griffon_Bruxellois",
   "image": "images/breeds/brussels-griffon.jpg",
   "commonsFile": "Monkey Bizniz Drama Queen.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Monkey Bizniz Drama Queen.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Monkey_Bizniz_Drama_Queen.jpg",
+   "author": "Arne Fagerholt",
+   "license": "CC BY 3.0"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -4759,7 +5214,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever",
   "image": "images/breeds/nova-scotia-duck-tolling-retriever.jpg",
   "commonsFile": "Duck Toller.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Duck Toller.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Duck_Toller.jpg",
+   "author": "Cal119",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -4811,7 +5271,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
   "image": "images/breeds/norwegian-elkhound.jpg",
   "commonsFile": "Norwegian Elkhound.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Norwegian Elkhound.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Norwegian_Elkhound.jpg",
+   "author": "Sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -4863,7 +5328,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Standard_Schnauzer",
   "image": "images/breeds/standard-schnauzer.jpg",
   "commonsFile": "Emppumenossa.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Emppumenossa.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Emppumenossa.jpg",
+   "author": "Original uploader was Ninalle at fi.wikipedia",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -4915,7 +5385,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dogo_Argentino",
   "image": "images/breeds/dogo-argentino.jpg",
   "commonsFile": "Dogo Argentino -Argentijnse dog 14-04-2010 17-00-50.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Dogo Argentino -Argentijnse dog 14-04-2010 17-00-50.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dogo_Argentino_-Argentijnse_dog_14-04-2010_17-00-50.jpg",
+   "author": "Paul Hermans",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -4967,7 +5442,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bouvier_des_Flandres",
   "image": "images/breeds/bouvier-des-flandres.jpg",
   "commonsFile": "Bouvier.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bouvier.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Bouvier.JPG",
+   "author": "Basco",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -5019,7 +5499,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pekingese",
   "image": "images/breeds/pekingese.jpg",
   "commonsFile": "1AKC Pekingese Dog Show 2011.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "1AKC Pekingese Dog Show 2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:1AKC_Pekingese_Dog_Show_2011.jpg",
+   "author": "SheltieBoy",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -5071,7 +5556,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Keeshond",
   "image": "images/breeds/keeshond.jpg",
   "commonsFile": "Keeshond Majic standing cropped.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Keeshond Majic standing cropped.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Keeshond_Majic_standing_cropped.jpg",
+   "author": "dancing with wolves",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -5123,7 +5613,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Border_Terrier",
   "image": "images/breeds/border-terrier.jpg",
   "commonsFile": "Border Terriër.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Border Terriër.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Border_Terri%C3%ABr.JPG",
+   "author": "Floris16",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 3,
@@ -5175,7 +5670,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Leonberger",
   "image": "images/breeds/leonberger.jpg",
   "commonsFile": "Leonberger male.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Leonberger male.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Leonberger_male.jpg",
+   "author": "Kurre92",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -5227,7 +5727,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Tibetan_Terrier",
   "image": "images/breeds/tibetan-terrier.jpg",
   "commonsFile": "Tibetan Terrier Image 001.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Tibetan Terrier Image 001.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tibetan_Terrier_Image_001.jpg",
+   "author": "Flickr user skaty222",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -5279,7 +5784,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
   "image": "images/breeds/neapolitan-mastiff.jpg",
   "commonsFile": "Neapolitan Mastiff Male Head.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Neapolitan Mastiff Male Head.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Neapolitan_Mastiff_Male_Head.JPG",
+   "author": "Philip Thompson",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -5331,7 +5841,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/English_Setter",
   "image": "images/breeds/english-setter.jpg",
   "commonsFile": "English setter.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "English setter.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:English_setter.jpg",
+   "author": "Elf April '04",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 4,
@@ -5383,7 +5898,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
   "image": "images/breeds/flat-coated-retriever.jpg",
   "commonsFile": "Flat Coated Retriever - black.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Flat Coated Retriever - black.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Flat_Coated_Retriever_-_black.jpg",
+   "author": "Gunnandreassen",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -5435,7 +5955,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Borzoi",
   "image": "images/breeds/borzoi.jpg",
   "commonsFile": "Borzoi female.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Borzoi female.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Borzoi_female.jpg",
+   "author": "Taru T Torpström",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -5487,7 +6012,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Wire_Fox_Terrier",
   "image": "images/breeds/wire-fox-terrier.jpg",
   "commonsFile": "Elias1červen2006.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Elias1červen2006.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Elias1%C4%8Derven2006.jpg",
+   "author": "Simona Nováková, owner",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -5539,7 +6069,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier",
   "image": "images/breeds/miniature-bull-terrier.jpg",
   "commonsFile": "Bull Terrier Miniature.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bull Terrier Miniature.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bull_Terrier_Miniature.jpg",
+   "author": "Desaix83, d'après le travail de Darmaninjl",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -5591,7 +6126,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Tervuren_dog",
   "image": "images/breeds/belgian-tervuren.jpg",
   "commonsFile": "Tervuren.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Tervuren.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tervuren.jpg",
+   "author": "Patty Carlson",
+   "license": "CC BY 2.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -5643,7 +6183,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Gordon_Setter",
   "image": "images/breeds/gordon-setter.jpg",
   "commonsFile": "Orrvilas enska w800px.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Orrvilas enska w800px.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg",
+   "author": "Jukka Puro",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -5695,7 +6240,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
   "image": "images/breeds/silky-terrier.jpg",
   "commonsFile": "02 Australian Silky Terrier, Zack, spring 2012.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "02 Australian Silky Terrier, Zack, spring 2012.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:02_Australian_Silky_Terrier%2C_Zack%2C_spring_2012.jpg",
+   "author": "island silks",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -5747,7 +6297,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Norwich_Terrier",
   "image": "images/breeds/norwich-terrier.jpg",
   "commonsFile": "Norwichterrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Norwichterrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Norwichterrier.jpg",
+   "author": "H. Gisin",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -5799,7 +6354,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Spinone_Italiano",
   "image": "images/breeds/spinone-italiano.jpg",
   "commonsFile": "Spinone italiano Daisy.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Spinone italiano Daisy.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Spinone_italiano_Daisy.JPG",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -5851,7 +6411,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Japanese_Chin",
   "image": "images/breeds/japanese-chin.jpg",
   "commonsFile": "Japanese Chin adult.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Japanese Chin adult.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Japanese_Chin_adult.jpg",
+   "author": "Trysha",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -5903,7 +6468,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Welsh_Terrier",
   "image": "images/breeds/welsh-terrier.jpg",
   "commonsFile": "Welshterrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Welshterrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Welshterrier.jpg",
+   "author": "Fotograf: Ebba Persson.",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -5955,7 +6525,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Toy_Fox_Terrier",
   "image": "images/breeds/toy-fox-terrier.jpg",
   "commonsFile": "Toy Fox Terrier 2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Toy Fox Terrier 2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Toy_Fox_Terrier_2.jpg",
+   "author": "Terry Best",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -6007,7 +6582,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Schipperke",
   "image": "images/breeds/schipperke.jpg",
   "commonsFile": "Schipperke1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Schipperke1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Schipperke1.jpg",
+   "author": "Mijobe",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -6059,7 +6639,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Parson_Russell_Terrier",
   "image": "images/breeds/parson-russell-terrier.jpg",
   "commonsFile": "Parson Russell Terrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Parson Russell Terrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Parson_Russell_Terrier.jpg",
+   "author": "Ellen Levy Finch (:en:User:Elf)",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -6111,7 +6696,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pointer_(dog_breed)",
   "image": "images/breeds/pointer.jpg",
   "commonsFile": "English pointer.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "English pointer.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:English_pointer.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -6163,7 +6753,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Groenendael_dog",
   "image": "images/breeds/belgian-sheepdog.jpg",
   "commonsFile": "European Groenendael male.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "European Groenendael male.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:European_Groenendael_male.jpg",
+   "author": "Nachoferreyra",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -6215,7 +6810,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Tibetan_spaniel",
   "image": "images/breeds/tibetan-spaniel.jpg",
   "commonsFile": "Tibetansk spaniel.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Tibetansk spaniel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Tibetansk_spaniel.jpg",
+   "author": "Wolfman1",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -6267,7 +6867,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_Eskimo_Dog",
   "image": "images/breeds/american-eskimo-dog.jpg",
   "commonsFile": "American Eskimo Dog 1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "American Eskimo Dog 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:American_Eskimo_Dog_1.jpg",
+   "author": "Christmas w/a K",
+   "license": "CC BY-SA 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -6319,7 +6924,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Irish_Terrier",
   "image": "images/breeds/irish-terrier.jpg",
   "commonsFile": "Irish Terrier P1060074.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Irish Terrier P1060074.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Irish_Terrier_P1060074.jpg",
+   "author": "Goldmull",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 1,
@@ -6371,7 +6981,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Beauceron",
   "image": "images/breeds/beauceron.jpg",
   "commonsFile": "BeauceronStand.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "BeauceronStand.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg",
+   "author": "Stefan Schmitz",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -6423,7 +7038,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Afghan_Hound",
   "image": "images/breeds/afghan-hound.jpg",
   "commonsFile": "AKC Helena Fall Dog Show 2011.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "AKC Helena Fall Dog Show 2011.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AKC_Helena_Fall_Dog_Show_2011.jpg",
+   "author": "SheltieBoy",
+   "license": "CC BY 2.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -6475,7 +7095,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Boerboel",
   "image": "images/breeds/boerboel.jpg",
   "commonsFile": "Boerboel.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Boerboel.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Boerboel.jpg",
+   "author": "Caronna",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 2,
@@ -6527,7 +7152,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Smooth_Fox_Terrier",
   "image": "images/breeds/smooth-fox-terrier.jpg",
   "commonsFile": "Terrier mix sh klaas.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Terrier mix sh klaas.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Terrier_mix_sh_klaas.jpg",
+   "author": "Hans863",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -6579,7 +7209,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bearded_Collie",
   "image": "images/breeds/bearded-collie.jpg",
   "commonsFile": "Bearded Collie.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bearded Collie.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bearded_Collie.jpg",
+   "author": "marbla123",
+   "license": "CC BY 2.0"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -6631,7 +7266,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Black_Russian_Terrier",
   "image": "images/breeds/black-russian-terrier.jpg",
   "commonsFile": "Russianblack.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Russianblack.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Russianblack.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -6683,7 +7323,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound",
   "image": "images/breeds/black-and-tan-coonhound.jpg",
   "commonsFile": "Black and Tan Coonhound.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Black and Tan Coonhound.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Black_and_Tan_Coonhound.jpg",
+   "author": "Steffen Heinz (Caronna)",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -6735,7 +7380,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel",
   "image": "images/breeds/welsh-springer-spaniel.jpg",
   "commonsFile": "Welsh Springer Spaniel 1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Welsh Springer Spaniel 1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Welsh_Springer_Spaniel_1.jpg",
+   "author": "Udo Tjalsma",
+   "license": "CC0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -6787,7 +7437,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_Hairless_Terrier",
   "image": "images/breeds/american-hairless-terrier.jpg",
   "commonsFile": "American Hairless Terrier Adelor.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "American Hairless Terrier Adelor.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:American_Hairless_Terrier_Adelor.jpg",
+   "author": "Nyaah",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -6839,7 +7494,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Norfolk_Terrier",
   "image": "images/breeds/norfolk-terrier.jpg",
   "commonsFile": "Charmonty Norfolkterrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Charmonty Norfolkterrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Charmonty_Norfolkterrier.jpg",
+   "author": "Robin Wellmann",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -6891,7 +7551,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Xoloitzcuintle",
   "image": "images/breeds/xoloitzcuintli.jpg",
   "commonsFile": "XoloLarge1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "XoloLarge1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:XoloLarge1.jpg",
+   "author": "Canarian",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -6943,7 +7608,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Toy_Manchester_Terrier",
   "image": "images/breeds/manchester-terrier-toy.jpg",
   "commonsFile": "Toy-manchester-terrier-weave.png",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Toy-manchester-terrier-weave.png",
+   "page": "https://commons.wikimedia.org/wiki/File:Toy-manchester-terrier-weave.png",
+   "author": "User Coneslayer on en.wikipedia",
+   "license": "CC BY-SA 2.0"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 3,
@@ -6995,7 +7665,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Manchester_Terrier",
   "image": "images/breeds/manchester-terrier-standard.jpg",
   "commonsFile": "Manchesterterrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Manchesterterrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Manchesterterrier.jpg",
+   "author": "|Date=2008-04-24",
+   "license": "CC BY 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 3,
@@ -7047,7 +7722,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Kerry_Blue_Terrier",
   "image": "images/breeds/kerry-blue-terrier.jpg",
   "commonsFile": "Kerry Blue Terrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Kerry Blue Terrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg",
+   "author": "Peter Kumpert, Germany",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 2,
@@ -7099,7 +7779,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Australian_Terrier",
   "image": "images/breeds/australian-terrier.jpg",
   "commonsFile": "Australian Terrier 002 U.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Australian Terrier 002 U.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Australian_Terrier_002_U.jpg",
+   "author": "Lilly M",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 3,
@@ -7151,7 +7836,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Clumber_Spaniel",
   "image": "images/breeds/clumber-spaniel.jpg",
   "commonsFile": "Clumber spaniel glowa rybnik-kamien ppl.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Clumber spaniel glowa rybnik-kamien ppl.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Clumber_spaniel_glowa_rybnik-kamien_ppl.jpg",
+   "author": "Pleple2000",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -7203,7 +7893,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Lakeland_Terrier",
   "image": "images/breeds/lakeland-terrier.jpg",
   "commonsFile": "Lakeland Terrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Lakeland Terrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lakeland_Terrier.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -7255,7 +7950,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bluetick_Coonhound",
   "image": "images/breeds/bluetick-coonhound.jpg",
   "commonsFile": "BluetickCoonhound.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "BluetickCoonhound.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:BluetickCoonhound.jpg",
+   "author": "Mark Riordan (me)",
+   "license": "Public domain"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 5,
@@ -7307,7 +8007,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/King_Charles_Spaniel",
   "image": "images/breeds/english-toy-spaniel.jpg",
   "commonsFile": "King Charles Spaniel Mike 3.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "King Charles Spaniel Mike 3.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:King_Charles_Spaniel_Mike_3.jpg",
+   "author": "Karelj",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -7359,7 +8064,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/German_Pinscher",
   "image": "images/breeds/german-pinscher.jpg",
   "commonsFile": "German Pinscher.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "German Pinscher.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:German_Pinscher.JPG",
+   "author": "stesi",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -7411,7 +8121,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Tibetan_Mastiff",
   "image": "images/breeds/tibetan-mastiff.jpg",
   "commonsFile": "2013 Westminster Kennel Club Dog Show- Tibetan Mastiff GCH Sierras'Sasha-Yakone Nanuk (8469240739) (cropped).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "2013 Westminster Kennel Club Dog Show- Tibetan Mastiff GCH Sierras'Sasha-Yakone Nanuk (8469240739) (cropped).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2013_Westminster_Kennel_Club_Dog_Show-_Tibetan_Mastiff_GCH_Sierras%27Sasha-Yakone_Nanuk_%288469240739%29_%28cropped%29.jpg",
+   "author": "Pets Adviser from Brooklyn, USA",
+   "license": "CC BY 2.0"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -7463,7 +8178,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bedlington_Terrier",
   "image": "images/breeds/bedlington-terrier.jpg",
   "commonsFile": "Bedlington terrier.jpeg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bedlington terrier.jpeg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bedlington_terrier.jpeg",
+   "author": "David Owsiany",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -7515,7 +8235,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Greyhound",
   "image": "images/breeds/greyhound.jpg",
   "commonsFile": "GraceTheGreyhound.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "GraceTheGreyhound.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg",
+   "author": "Neurodoc",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 4,
@@ -7567,7 +8292,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Puli_dog",
   "image": "images/breeds/puli.jpg",
   "commonsFile": "Puli 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Puli 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Puli_600.jpg",
+   "author": "Sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -7619,7 +8349,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Saluki",
   "image": "images/breeds/saluki.jpg",
   "commonsFile": "Red Smooth Saluki.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Red Smooth Saluki.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Red_Smooth_Saluki.jpg",
+   "author": "r.",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -7671,7 +8406,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Barbet_(dog_breed)",
   "image": "images/breeds/barbet.jpg",
   "commonsFile": "Chien de race Barbet.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Chien de race Barbet.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Chien_de_race_Barbet.jpg",
+   "author": null,
+   "license": "Public domain"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -7723,7 +8463,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Redbone_Coonhound",
   "image": "images/breeds/redbone-coonhound.jpg",
   "commonsFile": "Memphis the Redbone Coonhound (7 Nov 2004).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Memphis the Redbone Coonhound (7 Nov 2004).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Memphis_the_Redbone_Coonhound_%287_Nov_2004%29.jpg",
+   "author": "Craig Pemberton",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -7775,7 +8520,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Swedish_Vallhund",
   "image": "images/breeds/swedish-vallhund.jpg",
   "commonsFile": "SwedishVallhundAgility wb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "SwedishVallhundAgility wb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SwedishVallhundAgility_wb.jpg",
+   "author": "Elf",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -7827,7 +8577,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Sealyham_Terrier",
   "image": "images/breeds/sealyham-terrier.jpg",
   "commonsFile": "SealyhamTerrier01.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "SealyhamTerrier01.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:SealyhamTerrier01.jpg",
+   "author": "Dr. Sabine Schumann",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -7879,7 +8634,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Spanish_Water_Dog",
   "image": "images/breeds/spanish-water-dog.jpg",
   "commonsFile": "Perro agua.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Perro agua.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Perro_agua.jpg",
+   "author": "Brindis320~commonswiki",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 3,
@@ -7931,7 +8691,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Briard",
   "image": "images/breeds/briard.jpg",
   "commonsFile": "Briard fauve.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Briard fauve.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Briard_fauve.JPG",
+   "author": "Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC))",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -7983,7 +8748,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Berger_Picard",
   "image": "images/breeds/berger-picard.jpg",
   "commonsFile": "Owczarek pikardyjski 63.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Owczarek pikardyjski 63.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Owczarek_pikardyjski_63.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -8035,7 +8805,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog",
   "image": "images/breeds/entlebucher-mountain-dog.jpg",
   "commonsFile": "Entlebucher sennenhond.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Entlebucher sennenhond.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Entlebucher_sennenhond.jpg",
+   "author": "Entlebucher",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -8087,7 +8862,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound",
   "image": "images/breeds/treeing-walker-coonhound.jpg",
   "commonsFile": "Treeing-walker-coonhound-standing.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Treeing-walker-coonhound-standing.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Treeing-walker-coonhound-standing.jpg",
+   "author": "Kingkong954",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -8139,7 +8919,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Icelandic_Sheepdog",
   "image": "images/breeds/icelandic-sheepdog.jpg",
   "commonsFile": "Ulfur.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Ulfur.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Ulfur.jpg",
+   "author": "User Zonjah on en.wikipedia",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -8191,7 +8976,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Wirehaired_Vizsla",
   "image": "images/breeds/wirehaired-vizsla.jpg",
   "commonsFile": "Anka vom Rudolfsforst.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Anka vom Rudolfsforst.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Anka_vom_Rudolfsforst.jpg",
+   "author": "Broneder",
+   "license": "CC BY-SA 3.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -8243,7 +9033,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pumi_dog",
   "image": "images/breeds/pumi.jpg",
   "commonsFile": "Hungarianpumi.JPG",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Hungarianpumi.JPG",
+   "page": "https://commons.wikimedia.org/wiki/File:Hungarianpumi.JPG",
+   "author": "Taru T Torpström",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -8295,7 +9090,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Portuguese_Podengo",
   "image": "images/breeds/portuguese-podengo-pequeno.jpg",
   "commonsFile": "Podengo Portugues.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Podengo Portugues.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Podengo_Portugues.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -8347,7 +9147,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_Water_Spaniel",
   "image": "images/breeds/american-water-spaniel.jpg",
   "commonsFile": "AmWaterSpan1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "AmWaterSpan1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AmWaterSpan1.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -8399,7 +9204,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Curly-coated_Retriever",
   "image": "images/breeds/curly-coated-retriever.jpg",
   "commonsFile": "Curley coated retriever5.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Curley coated retriever5.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg",
+   "author": "Mattias Agar",
+   "license": "CC BY-SA 2.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -8451,7 +9261,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Field_Spaniel",
   "image": "images/breeds/field-spaniel.jpg",
   "commonsFile": "Field spaniel 581.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Field spaniel 581.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Field_spaniel_581.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -8503,7 +9318,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/L%C3%B6wchen",
   "image": "images/breeds/lowchen.jpg",
   "commonsFile": "LowchenFemale.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "LowchenFemale.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:LowchenFemale.jpg",
+   "author": "Jappitoo",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 3,
@@ -8555,7 +9375,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Kooikerhondje",
   "image": "images/breeds/nederlandse-kooikerhondje.jpg",
   "commonsFile": "Kooiker03.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Kooiker03.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Kooiker03.jpg",
+   "author": "Burner83",
+   "license": "CC BY 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -8607,7 +9432,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Affenpinscher",
   "image": "images/breeds/affenpinscher.jpg",
   "commonsFile": "Affenpinscher breed.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Affenpinscher breed.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg",
+   "author": "Futurebreak",
+   "license": "CC0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -8659,7 +9489,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Petit_Basset_Griffon_Vend%C3%A9en",
   "image": "images/breeds/petit-basset-griffon-vendeen.jpg",
   "commonsFile": "P Basset Griffon Vendeen 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "P Basset Griffon Vendeen 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:P_Basset_Griffon_Vendeen_600.jpg",
+   "author": "Sannse",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -8711,7 +9546,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Finnish_Lapphund",
   "image": "images/breeds/finnish-lapphund.jpg",
   "commonsFile": "Finselappenhond louhi-no watermark.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Finselappenhond louhi-no watermark.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Finselappenhond_louhi-no_watermark.jpg",
+   "author": "SandyA",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 3,
@@ -8763,7 +9603,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Scottish_Deerhound",
   "image": "images/breeds/scottish-deerhound.jpg",
   "commonsFile": "Grupp 10, SKOTSK HJORTHUND, SEJV-12 SE UCH Necesse’s Ars Amandi (23664806293).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Grupp 10, SKOTSK HJORTHUND, SEJV-12 SE UCH Necesse’s Ars Amandi (23664806293).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Grupp_10%2C_SKOTSK_HJORTHUND%2C_SEJV-12_SE_UCH_Necesse%E2%80%99s_Ars_Amandi_%2823664806293%29.jpg",
+   "author": "Svenska Mässan from Sweden",
+   "license": "CC BY 2.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -8815,7 +9660,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Plott_Hound",
   "image": "images/breeds/plott-hound.jpg",
   "commonsFile": "Plotthound-red1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Plotthound-red1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Plotthound-red1.jpg",
+   "author": "Canarian",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 0,
   "kids": 0,
   "dogs": 0,
@@ -8867,7 +9717,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Norwegian_Buhund",
   "image": "images/breeds/norwegian-buhund.jpg",
   "commonsFile": "Norwegian Buhund 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Norwegian Buhund 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Norwegian_Buhund_600.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -8919,7 +9774,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier",
   "image": "images/breeds/glen-of-imaal-terrier.jpg",
   "commonsFile": "Adult Glen of Imaal terrier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Adult Glen of Imaal terrier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Adult_Glen_of_Imaal_terrier.jpg",
+   "author": "photo by Scoo",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -8971,7 +9831,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter",
   "image": "images/breeds/irish-red-and-white-setter.jpg",
   "commonsFile": "Irish Red And White Setter 2005.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Irish Red And White Setter 2005.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Irish_Red_And_White_Setter_2005.jpg",
+   "author": "Missledwidge",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -9023,7 +9888,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Ibizan_Hound",
   "image": "images/breeds/ibizan-hound.jpg",
   "commonsFile": "Podenco z ibizy 645.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Podenco z ibizy 645.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Podenco_z_ibizy_645.jpg",
+   "author": "Jan Eduard, corrected by Pleple2000",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -9075,7 +9945,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Sussex_Spaniel",
   "image": "images/breeds/sussex-spaniel.jpg",
   "commonsFile": "Sussex spaniel t43.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Sussex spaniel t43.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sussex_spaniel_t43.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9127,7 +10002,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Bergamasco_Shepherd_Dog",
   "image": "images/breeds/bergamasco-sheepdog.jpg",
   "commonsFile": "Bergamasco 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Bergamasco 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Bergamasco_600.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -9179,7 +10059,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
   "image": "images/breeds/irish-water-spaniel.jpg",
   "commonsFile": "Irlandzki spaniel wodny 676.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Irlandzki spaniel wodny 676.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Irlandzki_spaniel_wodny_676.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9231,7 +10116,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog",
   "image": "images/breeds/polish-lowland-sheepdog.jpg",
   "commonsFile": "Polski owczarek nizinny.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Polski owczarek nizinny.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Polski_owczarek_nizinny.jpg",
+   "author": "Pleple2000",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9283,7 +10173,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Otterhound",
   "image": "images/breeds/otterhound.jpg",
   "commonsFile": "Two otterhounds.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Two otterhounds.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Two_otterhounds.jpg",
+   "author": "Machinecha~commonswiki",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9335,7 +10230,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Kuvasz",
   "image": "images/breeds/kuvasz.jpg",
   "commonsFile": "2-kuvasz.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "2-kuvasz.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:2-kuvasz.jpg",
+   "author": "Czimbalmos.de",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9387,7 +10287,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Komondor",
   "image": "images/breeds/komondor.jpg",
   "commonsFile": "Komondor Westminster Dog Show crop.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Komondor Westminster Dog Show crop.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Komondor_Westminster_Dog_Show_crop.jpg",
+   "author": "Photo taken by Flickr user whartonds. Edit (cropped) by Pharaoh Hound.",
+   "license": "CC BY-SA 2.5"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 2,
@@ -9439,7 +10344,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cirneco_dell%27Etna",
   "image": "images/breeds/cirneco-delletna.jpg",
   "commonsFile": "Cirneco dell Etna 611.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cirneco dell Etna 611.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna_611.jpg",
+   "author": ":de:Benutzer:Jan Eduard, contrast Pleple2000",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 4,
@@ -9491,7 +10401,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pharaoh_Hound",
   "image": "images/breeds/pharaoh-hound.jpg",
   "commonsFile": "Pies faraona e34.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Pies faraona e34.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Pies_faraona_e34.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 5,
@@ -9543,7 +10458,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier",
   "image": "images/breeds/dandie-dinmont-terrier.jpg",
   "commonsFile": "Dandie Dinmont Terrier 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Dandie Dinmont Terrier 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Dandie_Dinmont_Terrier_600.jpg",
+   "author": "Sannse",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -9592,7 +10512,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Pyrenean_Sheepdog",
   "image": "images/breeds/pyrenean-shepherd.jpg",
   "commonsFile": "Berger-des-Pyrenees Adeux 0302x0214.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Berger-des-Pyrenees Adeux 0302x0214.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Berger-des-Pyrenees_Adeux_0302x0214.jpg",
+   "author": null,
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9644,7 +10569,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Skye_Terrier",
   "image": "images/breeds/skye-terrier.jpg",
   "commonsFile": "Skye terrier 800.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Skye terrier 800.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Skye_terrier_800.jpg",
+   "author": "Pleple2000",
+   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 3,
@@ -9696,7 +10626,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Canaan_Dog",
   "image": "images/breeds/canaan-dog.jpg",
   "commonsFile": "CanaanDogChakede1.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "CanaanDogChakede1.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:CanaanDogChakede1.jpg",
+   "author": "Samorodokhanaana",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -9748,7 +10683,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_English_Coonhound",
   "image": "images/breeds/american-english-coonhound.jpg",
   "commonsFile": "Maddie (8416820450).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Maddie (8416820450).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Maddie_%288416820450%29.jpg",
+   "author": "BurnAway",
+   "license": "CC BY 2.0"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 5,
@@ -9800,7 +10740,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Chinook_(dog_breed)",
   "image": "images/breeds/chinook.jpg",
   "commonsFile": "Mountan Laurel Ajax the Chinook dog.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Mountan Laurel Ajax the Chinook dog.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Mountan_Laurel_Ajax_the_Chinook_dog.jpg",
+   "author": "Chinookfan",
+   "license": "Copyrighted free use"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 5,
@@ -9852,7 +10797,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Finnish_Spitz",
   "image": "images/breeds/finnish-spitz.jpg",
   "commonsFile": "Finnish Spitz 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Finnish Spitz 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Finnish_Spitz_600.jpg",
+   "author": "sannse",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 4,
@@ -9904,7 +10854,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vend%C3%A9en",
   "image": "images/breeds/grand-basset-griffon-vendeen.jpg",
   "commonsFile": "G Basset Griffon Vendeen 600.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "G Basset Griffon Vendeen 600.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:G_Basset_Griffon_Vendeen_600.jpg",
+   "author": "Original uploader was Sannse at en.wikipedia",
+   "license": "GFDL"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,
@@ -9956,7 +10911,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Sloughi",
   "image": "images/breeds/sloughi.jpg",
   "commonsFile": "Sloughi.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Sloughi.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Sloughi.jpg",
+   "author": "Dr. Sabine Schlenkrich",
+   "license": "GFDL"
+  },
   "affection": 4,
   "kids": 3,
   "dogs": 3,
@@ -10008,7 +10968,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Harrier_(dog_breed)",
   "image": "images/breeds/harrier.jpg",
   "commonsFile": "Harrier tricolour.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Harrier tricolour.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg",
+   "author": "Smcmilla (edited by Pharaoh Hound)",
+   "license": "Public domain"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -10060,7 +11025,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cesky_Terrier",
   "image": "images/breeds/cesky-terrier.jpg",
   "commonsFile": "Cesky-Terier.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cesky-Terier.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cesky-Terier.jpg",
+   "author": "Steffen Heinz",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 4,
   "kids": 5,
   "dogs": 3,
@@ -10112,7 +11082,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/American_Foxhound",
   "image": "images/breeds/american-foxhound.jpg",
   "commonsFile": "AmericanFoxhound2.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "AmericanFoxhound2.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:AmericanFoxhound2.jpg",
+   "author": "|permission=",
+   "license": "GFDL"
+  },
   "affection": 3,
   "kids": 5,
   "dogs": 5,
@@ -10164,7 +11139,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Azawakh",
   "image": "images/breeds/azawakh.jpg",
   "commonsFile": "Azawakh bitch Shira-tb.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Azawakh bitch Shira-tb.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Azawakh_bitch_Shira-tb.jpg",
+   "author": "ToB (2004)",
+   "license": "Public domain"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -10216,7 +11196,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/English_Foxhound",
   "image": "images/breeds/english-foxhound.jpg",
   "commonsFile": "English Foxhound.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "English Foxhound.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:English_Foxhound.jpg",
+   "author": "*Chasse_a_courre.jpg: Luna04 at fr.wikipedia",
+   "license": "CC BY-SA 3.0, GFDL"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -10268,7 +11253,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Norwegian_Lundehund",
   "image": "images/breeds/norwegian-lundehund.jpg",
   "commonsFile": "Lundehund-2003.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Lundehund-2003.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Lundehund-2003.jpg",
+   "author": "Karen Elise Dahlmo",
+   "license": "CC BY-SA 2.5, GFDL"
+  },
   "affection": 3,
   "kids": 3,
   "dogs": 3,
@@ -10320,7 +11310,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Goldendoodle",
   "image": "images/breeds/goldendoodle.jpg",
   "commonsFile": "Finnegan the Goldendoodle having fun in the snow.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Finnegan the Goldendoodle having fun in the snow.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Finnegan_the_Goldendoodle_having_fun_in_the_snow.jpg",
+   "author": "Chris Rue",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -10372,7 +11367,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Labradoodle",
   "image": "images/breeds/labradoodle.jpg",
   "commonsFile": "Labradoodle-Brown-Male-SideFace.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Labradoodle-Brown-Male-SideFace.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Labradoodle-Brown-Male-SideFace.jpg",
+   "author": "Anton Porsche",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 5,
   "dogs": 5,
@@ -10424,7 +11424,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cavapoo",
   "image": "images/breeds/cavapoo.jpg",
   "commonsFile": "Cavoodle Dog.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Cavoodle Dog.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Cavoodle_Dog.jpg",
+   "author": "Minisini",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 5,
@@ -10476,7 +11481,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Cockapoo",
   "image": "images/breeds/cockapoo.jpg",
   "commonsFile": "Honey cockapoo Colombia.jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Honey cockapoo Colombia.jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Honey_cockapoo_Colombia.jpg",
+   "author": "Breogan2008",
+   "license": "CC BY 4.0"
+  },
   "affection": 5,
   "kids": 4,
   "dogs": 4,
@@ -10528,7 +11538,12 @@
   "wikiUrl": "https://en.wikipedia.org/wiki/Maltipoo",
   "image": "images/breeds/maltipoo.jpg",
   "commonsFile": "Maltipoo (95574).jpg",
-  "imageCredit": null,
+  "imageCredit": {
+   "file": "Maltipoo (95574).jpg",
+   "page": "https://commons.wikimedia.org/wiki/File:Maltipoo_%2895574%29.jpg",
+   "author": "Rhododendrites",
+   "license": "CC BY-SA 4.0"
+  },
   "affection": 5,
   "kids": 3,
   "dogs": 4,

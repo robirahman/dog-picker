@@ -71,6 +71,7 @@ LICENSE_PATTERNS = [
     (r"\bGFDL", "GFDL"),
     (r"\bPD-", "Public domain"),
     (r"FAL\b", "Free Art License"),
+    (r"Copyrighted free use", "Copyrighted free use"),
 ]
 
 
@@ -83,6 +84,12 @@ def parse_credit(wikitext):
         m = re.search(r"[Pp]hoto(?:graph)? by (.+?)(?: at | on |,|\.|\n)", wikitext)
         if m:
             author = strip_wiki(m.group(1)) or None
+    if not author:  # fall back to the first user page linked (usually the uploader)
+        m = re.search(r"\[\[:?(?:\w\w:)?(?:User|Benutzer|Utilisateur|Usuario):([^|\]]+)", wikitext, re.I)
+        if m:
+            author = m.group(1).strip()
+    if author and author.lower().startswith("by "):
+        author = author[3:]
     licenses = []
     for pat, fmt in LICENSE_PATTERNS:
         for mm in re.finditer(pat, wikitext, re.I):
@@ -128,7 +135,8 @@ def main():
                 failures.append((b["id"], repr(e)))
                 print("FAIL ", b["id"], e)
             time.sleep(1)
-        if args.force or b["id"] not in credits:
+        cur = credits.get(b["id"]) or {}
+        if args.force or not cur.get("author") or not cur.get("license"):
             try:
                 page = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(fn.replace(" ", "_"))
                 wikitext = get(page + "?action=raw").decode("utf-8", "replace")

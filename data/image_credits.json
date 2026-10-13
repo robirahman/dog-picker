@@ -248,7 +248,7 @@
  "collie": {
   "file": "Border collie (dog).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Border_collie_%28dog%29.jpg",
-  "author": null,
+  "author": "Lemming81",
   "license": "GFDL"
  },
  "newfoundland": {
@@ -344,7 +344,7 @@
  "samoyed": {
   "file": "Samojed00.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Samojed00.jpg",
-  "author": null,
+  "author": "Pleple2000",
   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
  },
  "scottish-terrier": {
@@ -380,13 +380,13 @@
  "airedale-terrier": {
   "file": "Airedale Terrier.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Airedale_Terrier.jpg",
-  "author": "by Jane@rangeairevision.com",
-  "license": null
+  "author": "Jane@rangeairevision.com",
+  "license": "Copyrighted free use"
  },
  "wirehaired-pointing-griffon": {
   "file": "Korthalsgriffon.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Korthalsgriffon.jpg",
-  "author": null,
+  "author": "Elf",
   "license": "GFDL"
  },
  "bull-terrier": {
@@ -410,7 +410,7 @@
  "giant-schnauzer": {
   "file": "Stablemaster's NORTHERN HOPE(Poznan2006).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Stablemaster%27s_NORTHERN_HOPE%28Poznan2006%29.jpg",
-  "author": null,
+  "author": "Kkrzysiu o2",
   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
  },
  "old-english-sheepdog": {
@@ -434,7 +434,7 @@
  "dogue-de-bordeaux": {
   "file": "DJT 0086.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:DJT_0086.jpg",
-  "author": null,
+  "author": "Multichill",
   "license": "CC BY-SA 2.5"
  },
  "russell-terrier": {
@@ -494,7 +494,7 @@
  "staffordshire-bull-terrier": {
   "file": "Staffie.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Staffie.jpg",
-  "author": null,
+  "author": "Aixeneta",
   "license": "Public domain"
  },
  "american-staffordshire-terrier": {
@@ -506,7 +506,7 @@
  "rat-terrier": {
   "file": "AmRatTerr11 fx wb.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:AmRatTerr11_fx_wb.jpg",
-  "author": null,
+  "author": "Elf",
   "license": "GFDL"
  },
  "chow-chow": {
@@ -518,7 +518,7 @@
  "anatolian-shepherd-dog": {
   "file": "Kangal-welpen-de 003.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Kangal-welpen-de_003.jpg",
-  "author": null,
+  "author": "Dfence~commonswiki",
   "license": "CC BY-SA 3.0, GFDL"
  },
  "basenji": {
@@ -536,7 +536,7 @@
  "lagotto-romagnolo": {
   "file": "Lagotto Romagnolo.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Lagotto_Romagnolo.jpg",
-  "author": null,
+  "author": "Canecorsodog",
   "license": "GFDL"
  },
  "brussels-griffon": {
@@ -548,7 +548,7 @@
  "nova-scotia-duck-tolling-retriever": {
   "file": "Duck Toller.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Duck_Toller.jpg",
-  "author": null,
+  "author": "Cal119",
   "license": "Public domain"
  },
  "norwegian-elkhound": {
@@ -572,7 +572,7 @@
  "bouvier-des-flandres": {
   "file": "Bouvier.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:Bouvier.JPG",
-  "author": null,
+  "author": "Basco",
   "license": "CC BY-SA 3.0, GFDL"
  },
  "pekingese": {
@@ -716,7 +716,7 @@
  "tibetan-spaniel": {
   "file": "Tibetansk spaniel.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Tibetansk_spaniel.jpg",
-  "author": null,
+  "author": "Wolfman1",
   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
  },
  "american-eskimo-dog": {
@@ -746,7 +746,7 @@
  "boerboel": {
   "file": "Boerboel.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Boerboel.jpg",
-  "author": null,
+  "author": "Caronna",
   "license": "GFDL"
  },
  "smooth-fox-terrier": {
@@ -848,7 +848,7 @@
  "german-pinscher": {
   "file": "German Pinscher.JPG",
   "page": "https://commons.wikimedia.org/wiki/File:German_Pinscher.JPG",
-  "author": null,
+  "author": "stesi",
   "license": "GFDL"
  },
  "tibetan-mastiff": {
@@ -890,13 +890,13 @@
  "redbone-coonhound": {
   "file": "Memphis the Redbone Coonhound (7 Nov 2004).jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Memphis_the_Redbone_Coonhound_%287_Nov_2004%29.jpg",
-  "author": null,
+  "author": "Craig Pemberton",
   "license": "GFDL"
  },
  "swedish-vallhund": {
   "file": "SwedishVallhundAgility wb.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:SwedishVallhundAgility_wb.jpg",
-  "author": null,
+  "author": "Elf",
   "license": "GFDL"
  },
  "sealyham-terrier": {
@@ -908,7 +908,7 @@
  "spanish-water-dog": {
   "file": "Perro agua.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Perro_agua.jpg",
-  "author": null,
+  "author": "Brindis320~commonswiki",
   "license": "Public domain"
  },
  "briard": {
@@ -920,13 +920,301 @@
  "berger-picard": {
   "file": "Owczarek pikardyjski 63.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Owczarek_pikardyjski_63.jpg",
-  "author": null,
+  "author": "Pleple2000",
   "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
  },
  "entlebucher-mountain-dog": {
   "file": "Entlebucher sennenhond.jpg",
   "page": "https://commons.wikimedia.org/wiki/File:Entlebucher_sennenhond.jpg",
   "author": "Entlebucher",
+  "license": "CC BY-SA 4.0"
+ },
+ "treeing-walker-coonhound": {
+  "file": "Treeing-walker-coonhound-standing.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Treeing-walker-coonhound-standing.jpg",
+  "author": "Kingkong954",
+  "license": "Public domain"
+ },
+ "icelandic-sheepdog": {
+  "file": "Ulfur.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Ulfur.jpg",
+  "author": "User Zonjah on en.wikipedia",
+  "license": "GFDL"
+ },
+ "wirehaired-vizsla": {
+  "file": "Anka vom Rudolfsforst.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Anka_vom_Rudolfsforst.jpg",
+  "author": "Broneder",
+  "license": "CC BY-SA 3.0"
+ },
+ "pumi": {
+  "file": "Hungarianpumi.JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Hungarianpumi.JPG",
+  "author": "Taru T Torpström",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "portuguese-podengo-pequeno": {
+  "file": "Podengo Portugues.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Podengo_Portugues.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "american-water-spaniel": {
+  "file": "AmWaterSpan1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:AmWaterSpan1.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "curly-coated-retriever": {
+  "file": "Curley coated retriever5.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Curley_coated_retriever5.jpg",
+  "author": "Mattias Agar",
+  "license": "CC BY-SA 2.0"
+ },
+ "field-spaniel": {
+  "file": "Field spaniel 581.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Field_spaniel_581.jpg",
+  "author": "Pleple2000",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "lowchen": {
+  "file": "LowchenFemale.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:LowchenFemale.jpg",
+  "author": "Jappitoo",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "nederlandse-kooikerhondje": {
+  "file": "Kooiker03.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Kooiker03.jpg",
+  "author": "Burner83",
+  "license": "CC BY 2.5, GFDL"
+ },
+ "affenpinscher": {
+  "file": "Affenpinscher breed.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Affenpinscher_breed.jpg",
+  "author": "Futurebreak",
+  "license": "CC0"
+ },
+ "petit-basset-griffon-vendeen": {
+  "file": "P Basset Griffon Vendeen 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:P_Basset_Griffon_Vendeen_600.jpg",
+  "author": "Sannse",
+  "license": "GFDL"
+ },
+ "finnish-lapphund": {
+  "file": "Finselappenhond louhi-no watermark.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Finselappenhond_louhi-no_watermark.jpg",
+  "author": "SandyA",
+  "license": "Public domain"
+ },
+ "scottish-deerhound": {
+  "file": "Grupp 10, SKOTSK HJORTHUND, SEJV-12 SE UCH Necesse’s Ars Amandi (23664806293).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grupp_10%2C_SKOTSK_HJORTHUND%2C_SEJV-12_SE_UCH_Necesse%E2%80%99s_Ars_Amandi_%2823664806293%29.jpg",
+  "author": "Svenska Mässan from Sweden",
+  "license": "CC BY 2.0"
+ },
+ "plott-hound": {
+  "file": "Plotthound-red1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Plotthound-red1.jpg",
+  "author": "Canarian",
+  "license": "CC BY-SA 4.0"
+ },
+ "norwegian-buhund": {
+  "file": "Norwegian Buhund 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Norwegian_Buhund_600.jpg",
+  "author": "sannse",
+  "license": "GFDL"
+ },
+ "glen-of-imaal-terrier": {
+  "file": "Adult Glen of Imaal terrier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Adult_Glen_of_Imaal_terrier.jpg",
+  "author": "photo by Scoo",
+  "license": "CC BY-SA 2.5"
+ },
+ "irish-red-and-white-setter": {
+  "file": "Irish Red And White Setter 2005.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Irish_Red_And_White_Setter_2005.jpg",
+  "author": "Missledwidge",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "ibizan-hound": {
+  "file": "Podenco z ibizy 645.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Podenco_z_ibizy_645.jpg",
+  "author": "Jan Eduard, corrected by Pleple2000",
+  "license": "GFDL"
+ },
+ "sussex-spaniel": {
+  "file": "Sussex spaniel t43.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sussex_spaniel_t43.jpg",
+  "author": "Pleple2000",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "bergamasco-sheepdog": {
+  "file": "Bergamasco 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Bergamasco_600.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "irish-water-spaniel": {
+  "file": "Irlandzki spaniel wodny 676.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Irlandzki_spaniel_wodny_676.jpg",
+  "author": "Pleple2000",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "polish-lowland-sheepdog": {
+  "file": "Polski owczarek nizinny.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Polski_owczarek_nizinny.jpg",
+  "author": "Pleple2000",
+  "license": "GFDL"
+ },
+ "otterhound": {
+  "file": "Two otterhounds.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Two_otterhounds.jpg",
+  "author": "Machinecha~commonswiki",
+  "license": "Public domain"
+ },
+ "kuvasz": {
+  "file": "2-kuvasz.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:2-kuvasz.jpg",
+  "author": "Czimbalmos.de",
+  "license": "GFDL"
+ },
+ "komondor": {
+  "file": "Komondor Westminster Dog Show crop.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Komondor_Westminster_Dog_Show_crop.jpg",
+  "author": "Photo taken by Flickr user whartonds. Edit (cropped) by Pharaoh Hound.",
+  "license": "CC BY-SA 2.5"
+ },
+ "cirneco-delletna": {
+  "file": "Cirneco dell Etna 611.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cirneco_dell_Etna_611.jpg",
+  "author": ":de:Benutzer:Jan Eduard, contrast Pleple2000",
+  "license": "GFDL"
+ },
+ "pharaoh-hound": {
+  "file": "Pies faraona e34.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Pies_faraona_e34.jpg",
+  "author": "Pleple2000",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "dandie-dinmont-terrier": {
+  "file": "Dandie Dinmont Terrier 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dandie_Dinmont_Terrier_600.jpg",
+  "author": "Sannse",
+  "license": "GFDL"
+ },
+ "pyrenean-shepherd": {
+  "file": "Berger-des-Pyrenees Adeux 0302x0214.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Berger-des-Pyrenees_Adeux_0302x0214.jpg",
+  "author": null,
+  "license": "GFDL"
+ },
+ "skye-terrier": {
+  "file": "Skye terrier 800.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Skye_terrier_800.jpg",
+  "author": "Pleple2000",
+  "license": "CC BY-SA 3.0, CC BY-SA 2.5, GFDL"
+ },
+ "canaan-dog": {
+  "file": "CanaanDogChakede1.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CanaanDogChakede1.jpg",
+  "author": "Samorodokhanaana",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "american-english-coonhound": {
+  "file": "Maddie (8416820450).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maddie_%288416820450%29.jpg",
+  "author": "BurnAway",
+  "license": "CC BY 2.0"
+ },
+ "chinook": {
+  "file": "Mountan Laurel Ajax the Chinook dog.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Mountan_Laurel_Ajax_the_Chinook_dog.jpg",
+  "author": "Chinookfan",
+  "license": "Copyrighted free use"
+ },
+ "finnish-spitz": {
+  "file": "Finnish Spitz 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Finnish_Spitz_600.jpg",
+  "author": "sannse",
+  "license": "GFDL"
+ },
+ "grand-basset-griffon-vendeen": {
+  "file": "G Basset Griffon Vendeen 600.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:G_Basset_Griffon_Vendeen_600.jpg",
+  "author": "Original uploader was Sannse at en.wikipedia",
+  "license": "GFDL"
+ },
+ "sloughi": {
+  "file": "Sloughi.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sloughi.jpg",
+  "author": "Dr. Sabine Schlenkrich",
+  "license": "GFDL"
+ },
+ "harrier": {
+  "file": "Harrier tricolour.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Harrier_tricolour.jpg",
+  "author": "Smcmilla (edited by Pharaoh Hound)",
+  "license": "Public domain"
+ },
+ "cesky-terrier": {
+  "file": "Cesky-Terier.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cesky-Terier.jpg",
+  "author": "Steffen Heinz",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "american-foxhound": {
+  "file": "AmericanFoxhound2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:AmericanFoxhound2.jpg",
+  "author": "|permission=",
+  "license": "GFDL"
+ },
+ "azawakh": {
+  "file": "Azawakh bitch Shira-tb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Azawakh_bitch_Shira-tb.jpg",
+  "author": "ToB (2004)",
+  "license": "Public domain"
+ },
+ "english-foxhound": {
+  "file": "English Foxhound.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:English_Foxhound.jpg",
+  "author": "*Chasse_a_courre.jpg: Luna04 at fr.wikipedia",
+  "license": "CC BY-SA 3.0, GFDL"
+ },
+ "norwegian-lundehund": {
+  "file": "Lundehund-2003.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Lundehund-2003.jpg",
+  "author": "Karen Elise Dahlmo",
+  "license": "CC BY-SA 2.5, GFDL"
+ },
+ "goldendoodle": {
+  "file": "Finnegan the Goldendoodle having fun in the snow.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Finnegan_the_Goldendoodle_having_fun_in_the_snow.jpg",
+  "author": "Chris Rue",
+  "license": "CC BY-SA 4.0"
+ },
+ "labradoodle": {
+  "file": "Labradoodle-Brown-Male-SideFace.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Labradoodle-Brown-Male-SideFace.jpg",
+  "author": "Anton Porsche",
+  "license": "CC BY-SA 4.0"
+ },
+ "cavapoo": {
+  "file": "Cavoodle Dog.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cavoodle_Dog.jpg",
+  "author": "Minisini",
+  "license": "CC BY-SA 4.0"
+ },
+ "cockapoo": {
+  "file": "Honey cockapoo Colombia.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Honey_cockapoo_Colombia.jpg",
+  "author": "Breogan2008",
+  "license": "CC BY 4.0"
+ },
+ "maltipoo": {
+  "file": "Maltipoo (95574).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Maltipoo_%2895574%29.jpg",
+  "author": "Rhododendrites",
   "license": "CC BY-SA 4.0"
  }
 }
