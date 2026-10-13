@@ -1,0 +1,8 @@
+# Popular crossbreeds that are not AKC-recognized. Ratings use the AKC 1-5 trait scales but are
+# editorial estimates: individual mixed-breed dogs vary a lot, especially in coat and shedding.
+Breed,Affectionate With Family,Good With Young Children,Good With Other Dogs,Shedding Level,Coat Grooming Frequency,Drooling Level,Coat Type,Coat Length,Openness To Strangers,Playfulness Level,Watchdog/Protective Nature,Adaptability Level,Trainability Level,Energy Level,Barking Level,Mental Stimulation Needs,min_weight_lb,max_weight_lb,min_height_in,max_height_in,min_expectancy,max_expectancy,temperament
+Goldendoodle,5,5,5,2,4,1,Curly,Medium,5,5,2,4,5,4,2,4,50,90,20,26,10,15,"Friendly, Playful, Smart"
+Labradoodle,5,5,5,2,4,1,Wavy,Medium,5,5,2,4,5,4,2,4,45,75,21,24,12,14,"Friendly, Energetic, Clever"
+Cavapoo,5,4,5,2,4,1,Wavy,Medium,5,4,2,4,4,3,3,3,10,25,9,14,12,15,"Affectionate, Gentle, Playful"
+Cockapoo,5,4,4,2,4,1,Curly,Medium,4,4,3,4,4,4,3,3,12,25,10,15,12,15,"Cheerful, Affectionate, Smart"
+Maltipoo,5,3,4,1,4,1,Curly,Medium,4,4,3,4,4,3,4,3,5,15,8,14,12,15,"Affectionate, Playful, Alert"

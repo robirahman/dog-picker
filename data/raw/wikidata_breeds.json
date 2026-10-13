@@ -1,0 +1,4292 @@
+[
+{
+"label": "Danish Spitz",
+"qid": "Q1779696",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dansk%20spids.jpg",
+"article": "https://en.wikipedia.org/wiki/Danish_Spitz"
+},
+{
+"label": "Dogue Brasileiro",
+"qid": "Q1780869",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doguebrasileiro.jpg",
+"article": "https://en.wikipedia.org/wiki/Dogue_Brasileiro"
+},
+{
+"label": "Dogue Brasileiro",
+"qid": "Q1780869",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dogue%20Brasileiro%20Orelha%20Cortada.jpg",
+"article": "https://en.wikipedia.org/wiki/Dogue_Brasileiro"
+},
+{
+"label": "Königsberger Paukenhund",
+"qid": "Q1796295",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paukenhund.JPG",
+"article": "https://en.wikipedia.org/wiki/K%C3%B6nigsberger_Paukenhund"
+},
+{
+"label": "Black and Tan Terrier",
+"qid": "Q1800312",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20black%20and%20tan%20terrier.%20Wood%20engraving.%20Wellcome%20V0021863.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_and_Tan_Terrier"
+},
+{
+"label": "Abyssinian Sand Terrier",
+"qid": "Q1806071",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Africanhairless.jpg",
+"article": "https://en.wikipedia.org/wiki/Abyssinian_sand_terrier"
+},
+{
+"label": "hairless dog",
+"qid": "Q1958596",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MexicaanseHairless.jpg",
+"article": "https://en.wikipedia.org/wiki/Hairless_dog"
+},
+{
+"label": "Bulgarian Hound",
+"qid": "Q2503464",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgarian%20barak.jpg",
+"article": "https://en.wikipedia.org/wiki/Bulgarian_Hound"
+},
+{
+"label": "Karelo-Finnish Laika",
+"qid": "Q2642504",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karelo%20Finnish%20Laika.jpg",
+"article": "https://en.wikipedia.org/wiki/Karelo-Finnish_Laika"
+},
+{
+"label": "basset",
+"qid": "Q2887401",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basset%20Art%C3%A9sien%20Normand%20Fond%20Blanc.jpg",
+"article": "https://en.wikipedia.org/wiki/Basset"
+},
+{
+"label": "Chow Chow",
+"qid": "Q29013",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20Chow%20Chow.jpg",
+"article": "https://en.wikipedia.org/wiki/Chow_Chow"
+},
+{
+"label": "English Springer Spaniel",
+"qid": "Q29022",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Englishspringerspaniel%20Winston.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Springer_Spaniel"
+},
+{
+"label": "Combai",
+"qid": "Q29028",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kombai%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Kombai_dog"
+},
+{
+"label": "Canadian Eskimo Dog",
+"qid": "Q29040",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cedpup.jpg",
+"article": "https://en.wikipedia.org/wiki/Canadian_Eskimo_Dog"
+},
+{
+"label": "Cantabrian Water Dog",
+"qid": "Q29047",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perro%20de%20Agua%20del%20Cant%C3%A1brico%20Macho%20Exposici%C3%B3n.jpg",
+"article": "https://en.wikipedia.org/wiki/Cantabrian_Water_Dog"
+},
+{
+"label": "Catalan Sheepdog",
+"qid": "Q29058",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catalaanse%20herder.JPG",
+"article": "https://en.wikipedia.org/wiki/Catalan_Sheepdog"
+},
+{
+"label": "Cardigan Welsh Corgi",
+"qid": "Q29072",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardigan%20Welsh%20Corgi%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi"
+},
+{
+"label": "Chesapeake Bay Retriever",
+"qid": "Q29084",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chesapeakebayretriever01-l.jpg",
+"article": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever"
+},
+{
+"label": "Chesapeake Bay Retriever",
+"qid": "Q29084",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chesapeake%20Bay%20Retriever1.jpg",
+"article": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever"
+},
+{
+"label": "Bolognese",
+"qid": "Q37566",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bolognese%20Image%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Bolognese_(dog_breed)"
+},
+{
+"label": "Bolognese",
+"qid": "Q37566",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bolo%C5%84czyk%205e3.jpg",
+"article": "https://en.wikipedia.org/wiki/Bolognese_(dog_breed)"
+},
+{
+"label": "Fawn Brittany Basset",
+"qid": "Q37570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basset%20Fauve%20de%20Bretagne%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Basset_Fauve_de_Bretagne"
+},
+{
+"label": "Bluetick Coonhound",
+"qid": "Q37568",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BluetickCoonhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Bluetick_Coonhound"
+},
+{
+"label": "Serbian Hound",
+"qid": "Q37574",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Serbian%20Hound%20Face.JPG",
+"article": "https://en.wikipedia.org/wiki/Serbian_Hound"
+},
+{
+"label": "Biewer Terrier",
+"qid": "Q37575",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macho%20Biewer.%20.jpg",
+"article": "https://en.wikipedia.org/wiki/Biewer_Terrier"
+},
+{
+"label": "Biewer Terrier",
+"qid": "Q37575",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BiewerH%C3%BCndin.jpg",
+"article": "https://en.wikipedia.org/wiki/Biewer_Terrier"
+},
+{
+"label": "Perro majorero",
+"qid": "Q37572",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bardina-Donna-1.jpg",
+"article": "https://en.wikipedia.org/wiki/Perro_Majorero"
+},
+{
+"label": "American English Coonhound",
+"qid": "Q37578",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maddie%20%288416820450%29.jpg",
+"article": "https://en.wikipedia.org/wiki/American_English_Coonhound"
+},
+{
+"label": "Blue Lacy",
+"qid": "Q37579",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BlueLacyPhoto1.jpg",
+"article": "https://en.wikipedia.org/wiki/Blue_Lacy"
+},
+{
+"label": "Bavarian Mountain Hound",
+"qid": "Q37576",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BayerischerGebirgsSchweisshund.jpg",
+"article": "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound"
+},
+{
+"label": "Bavarian Mountain Hound",
+"qid": "Q37576",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2005-09%20Zoran%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound"
+},
+{
+"label": "Bedlington Terrier",
+"qid": "Q37582",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bedlington%20terrier.jpeg",
+"article": "https://en.wikipedia.org/wiki/Bedlington_Terrier"
+},
+{
+"label": "Dutch Smoushond",
+"qid": "Q37969",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hollandsche%20smoushonden%202.JPG",
+"article": "https://en.wikipedia.org/wiki/Dutch_Smoushond"
+},
+{
+"label": "Kerry Beagle",
+"qid": "Q37974",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kerry%20Beagle.jpg",
+"article": "https://en.wikipedia.org/wiki/Kerry_Beagle"
+},
+{
+"label": "Lancashire Heeler",
+"qid": "Q37972",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%201%2C%20LANCASHIRE%20HEELER%2C%20NO%20UCH%20NO%20V-14%20NO%20V-15%20SE%20UCH%20St%C3%A5hlskyttens%20Longed%20For%20Antony%20%2824284065606%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Lancashire_Heeler"
+},
+{
+"label": "Hamiltonstövare",
+"qid": "Q37978",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamiltonstovare%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Hamiltonst%C3%B6vare"
+},
+{
+"label": "Japanese Terrier",
+"qid": "Q37976",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Terrier%2022.04.2012%202pl.jpg",
+"article": "https://en.wikipedia.org/wiki/Japanese_Terrier"
+},
+{
+"label": "Kromfohrländer",
+"qid": "Q38403",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kromfohrlaender%20glatt.jpg",
+"article": "https://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder"
+},
+{
+"label": "Griffon Nivernais",
+"qid": "Q38409",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Griffon%20nivernais.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_Nivernais"
+},
+{
+"label": "English Mastiff",
+"qid": "Q38418",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mastif%20angielski%20pregowany%20nn.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Mastiff"
+},
+{
+"label": "East Siberian Laika",
+"qid": "Q38416",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/East%20Siberian%20Laika%2003.jpg",
+"article": "https://en.wikipedia.org/wiki/East_Siberian_Laika"
+},
+{
+"label": "Austrian Pinscher",
+"qid": "Q38426",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pinczer%20austiacki%20678.jpg",
+"article": "https://en.wikipedia.org/wiki/Austrian_Pinscher"
+},
+{
+"label": "Huntaway",
+"qid": "Q38425",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Huntaway.JPG",
+"article": "https://en.wikipedia.org/wiki/Huntaway"
+},
+{
+"label": "Rat Terrier",
+"qid": "Q38431",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AmRatTerr11%20fx%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/Rat_Terrier"
+},
+{
+"label": "Treeing Tennessee Brindle",
+"qid": "Q38443",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sienna%20TTBD.jpg",
+"article": "https://en.wikipedia.org/wiki/Treeing_Tennessee_Brindle"
+},
+{
+"label": "Chukotka sled dog",
+"qid": "Q38440",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Gartenlaube%20%281882%29%20b%20829.jpg",
+"article": "https://en.wikipedia.org/wiki/Chukotka_sled_dog"
+},
+{
+"label": "Havanese",
+"qid": "Q38449",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20havanese%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Havanese_dog"
+},
+{
+"label": "Karakachan Dog",
+"qid": "Q38452",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karakatschan.jpg",
+"article": "https://en.wikipedia.org/wiki/Karakachan_dog"
+},
+{
+"label": "Kuvasz",
+"qid": "Q38467",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2-kuvasz.jpg",
+"article": "https://en.wikipedia.org/wiki/Kuvasz"
+},
+{
+"label": "Chien Français Blanc et Noir",
+"qid": "Q38468",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ais%20noir%20et%20blanc.JPG",
+"article": "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Noir"
+},
+{
+"label": "French Tricolour Hound",
+"qid": "Q38475",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Anglo-Fran%C3%A7ais%20Tricolore.jpg",
+"article": "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Tricolore"
+},
+{
+"label": "Français Blanc et Orange",
+"qid": "Q38472",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Anglo-Fran%C3%A7ais%20Blanc%20Et%20Orange.jpg",
+"article": "https://en.wikipedia.org/wiki/Chien_Fran%C3%A7ais_Blanc_et_Orange"
+},
+{
+"label": "Norwegian Buhund",
+"qid": "Q38478",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Buhund%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Norwegian_Buhund"
+},
+{
+"label": "Leonberger",
+"qid": "Q38487",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonberger%20male.jpg",
+"article": "https://en.wikipedia.org/wiki/Leonberger"
+},
+{
+"label": "Belgian Malinois",
+"qid": "Q38494",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/HMKC%20Christmas%20Fun%20Run%202012%20%288265428196%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Malinois_dog"
+},
+{
+"label": "Belgian Malinois",
+"qid": "Q38494",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%201%2C%20BELGISK%20VALLHUND%2C%20MALINOIS%2C%20Krokasmedens%20Epic%20%2824014622180%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Malinois_dog"
+},
+{
+"label": "English Foxhound",
+"qid": "Q37789",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20Foxhound.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Foxhound"
+},
+{
+"label": "Romanian Raven Shepherd Dog",
+"qid": "Q37795",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Romanianravencorb1.jpg",
+"article": "https://en.wikipedia.org/wiki/Romanian_Raven_Shepherd_Dog"
+},
+{
+"label": "German Pinscher",
+"qid": "Q37793",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/German%20Pinscher.JPG",
+"article": "https://en.wikipedia.org/wiki/German_Pinscher"
+},
+{
+"label": "Blue Picardy Spaniel",
+"qid": "Q37798",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epagneul%20bleu%20de%20picardie%20g%C5%82owa%20098.jpg",
+"article": "https://en.wikipedia.org/wiki/Blue_Picardy_Spaniel"
+},
+{
+"label": "Blue Picardy Spaniel",
+"qid": "Q37798",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epagneul%20bleu%20de%20picardie%20868.jpg",
+"article": "https://en.wikipedia.org/wiki/Blue_Picardy_Spaniel"
+},
+{
+"label": "Pyrenean Mountain Dog",
+"qid": "Q37803",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pyrenean%20Mountain%20Dog%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog"
+},
+{
+"label": "German Wirehaired Pointer",
+"qid": "Q37811",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GermanWirehrPtr1%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer"
+},
+{
+"label": "Fila Brasileiro",
+"qid": "Q37808",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yacare%20De%20El%20Siledin.JPG",
+"article": "https://en.wikipedia.org/wiki/Fila_Brasileiro"
+},
+{
+"label": "Laekenois",
+"qid": "Q37815",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgian%20Laekenois%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Laekenois_dog"
+},
+{
+"label": "Briard",
+"qid": "Q37821",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Briard%20fauve.JPG",
+"article": "https://en.wikipedia.org/wiki/Briard"
+},
+{
+"label": "Drentse Patrijshond",
+"qid": "Q37827",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drentse%20Patrijshond.jpg",
+"article": "https://en.wikipedia.org/wiki/Drentse_Patrijshond"
+},
+{
+"label": "German Spaniel",
+"qid": "Q37824",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Wachtel%202.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Spaniel"
+},
+{
+"label": "Chihuahua",
+"qid": "Q653",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chihuahuas-%20Holly%2C%20Nina%2C%20Doralice.jpg",
+"article": "https://en.wikipedia.org/wiki/Chihuahua_(dog_breed)"
+},
+{
+"label": "Saint-Usuge Spaniel",
+"qid": "Q4898",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Usuge%20Spaniel.jpg",
+"article": "https://en.wikipedia.org/wiki/Saint-Usuge_Spaniel"
+},
+{
+"label": "Saint-Usuge Spaniel",
+"qid": "Q4898",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/EpagneuldeSaintUsuge.jpg",
+"article": "https://en.wikipedia.org/wiki/Saint-Usuge_Spaniel"
+},
+{
+"label": "Great Dane",
+"qid": "Q5414",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/8675eds%20win.jpg",
+"article": "https://en.wikipedia.org/wiki/Great_Dane"
+},
+{
+"label": "Pungsan",
+"qid": "Q29174",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poongsandogs.JPG",
+"article": "https://en.wikipedia.org/wiki/Pungsan_dog"
+},
+{
+"label": "Sapsali",
+"qid": "Q29178",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Korea-Jeonju-Sapsal%20dog%20in%20front%20of%20a%20Hanok%20Village-01.jpg",
+"article": "https://en.wikipedia.org/wiki/Sapsali"
+},
+{
+"label": "Field Spaniel",
+"qid": "Q29177",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Field%20spaniel%20581.jpg",
+"article": "https://en.wikipedia.org/wiki/Field_Spaniel"
+},
+{
+"label": "Finnish Lapphund",
+"qid": "Q29188",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Finselappenhond%20louhi-no%20watermark.jpg",
+"article": "https://en.wikipedia.org/wiki/Finnish_Lapphund"
+},
+{
+"label": "Finnish Spitz",
+"qid": "Q29195",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnish%20Spitz%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Finnish_Spitz"
+},
+{
+"label": "Australian Kelpie",
+"qid": "Q37520",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bashyr.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Kelpie"
+},
+{
+"label": "Australian Silky Terrier",
+"qid": "Q37524",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/02%20Australian%20Silky%20Terrier%2C%20Zack%2C%20spring%202012.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier"
+},
+{
+"label": "Australian Terrier",
+"qid": "Q37530",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Terrier%20002%20U.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Terrier"
+},
+{
+"label": "Armenian Gampr dog",
+"qid": "Q38219",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Armenian%20Gampr%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/Armenian_Gampr"
+},
+{
+"label": "Kai Ken",
+"qid": "Q38223",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Image%20of%20Kai%20%28dog%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Kai_Ken"
+},
+{
+"label": "Greek Harehound",
+"qid": "Q38233",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hellinikos%20Ichnilatis%20%28Georging%29%20cropped.jpg",
+"article": "https://en.wikipedia.org/wiki/Greek_Harehound"
+},
+{
+"label": "Australian Stumpy Tail Cattle Dog",
+"qid": "Q37503",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Stumpy%20Tail%20Cattle%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog"
+},
+{
+"label": "Toy Fox Terrier",
+"qid": "Q37510",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toy%20Fox%20Terrier%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Toy_Fox_Terrier"
+},
+{
+"label": "American Hairless Terrier",
+"qid": "Q37508",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Hairless%20Terrier%20Adelor.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Hairless_Terrier"
+},
+{
+"label": "American foxhound",
+"qid": "Q37514",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AmericanFoxhound2.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Foxhound"
+},
+{
+"label": "Rampur Greyhound",
+"qid": "Q38179",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rampurgreyhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Rampur_Greyhound"
+},
+{
+"label": "Petit Bleu de Gascogne",
+"qid": "Q38176",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%C5%82y%20go%C5%84czy%20gasko%C5%84ski%20Cita%20z%20Beckova%20Cb5.jpg",
+"article": "https://en.wikipedia.org/wiki/Petit_Bleu_de_Gascogne"
+},
+{
+"label": "Perro de pastor garafiano",
+"qid": "Q38182",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch-Rasti.jpg",
+"article": "https://en.wikipedia.org/wiki/Pastor_Garafiano"
+},
+{
+"label": "Poitevin hound",
+"qid": "Q38185",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poitevin%20Hound.jpg",
+"article": "https://en.wikipedia.org/wiki/Poitevin_(dog_breed)"
+},
+{
+"label": "Glen of Imaal Terrier",
+"qid": "Q38189",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adult%20Glen%20of%20Imaal%20terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier"
+},
+{
+"label": "Burgos Retriever",
+"qid": "Q38199",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burgos%20Pointer%20or%20Perdiguero%20de%20Burgos.JPG",
+"article": "https://en.wikipedia.org/wiki/Burgos_Pointer"
+},
+{
+"label": "Volpino Italiano",
+"qid": "Q38196",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volpino04.jpg",
+"article": "https://en.wikipedia.org/wiki/Volpino_Italiano"
+},
+{
+"label": "Rastreador-brasileiro",
+"qid": "Q38202",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rastreadora%20Brasileira%20Gaya.jpg",
+"article": "https://en.wikipedia.org/wiki/Rastreador_Brasileiro"
+},
+{
+"label": "Gos Rater Valencià",
+"qid": "Q38206",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ratonero%20valenciano%20dunkel.jpg",
+"article": "https://en.wikipedia.org/wiki/Ratonero_Valenciano"
+},
+{
+"label": "Istrian Coarse-haired Hound",
+"qid": "Q38211",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istrian%20hound2.jpg",
+"article": "https://en.wikipedia.org/wiki/Istrian_Coarse-haired_Hound"
+},
+{
+"label": "Ratonero Bodeguero Andaluz COOPER",
+"qid": "Q38209",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bodeguero%20young.jpg",
+"article": "https://en.wikipedia.org/wiki/Andalusian_Terrier"
+},
+{
+"label": "Polish Hound",
+"qid": "Q38217",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG",
+"article": "https://en.wikipedia.org/wiki/Polish_Hound"
+},
+{
+"label": "Welsh Corgi",
+"qid": "Q858459",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pembroke%20and%20Cardigan%20Welsh%20Corgi.jpg",
+"article": "https://en.wikipedia.org/wiki/Welsh_Corgi"
+},
+{
+"label": "Xiasi Dog",
+"qid": "Q1000049",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xiasi%20Quan%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Xiasi_Dog"
+},
+{
+"label": "griffon",
+"qid": "Q1028186",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grif%C3%B3n%20pelo%20duro%20nieve.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_(dog_type)"
+},
+{
+"label": "Belgian Mastiff",
+"qid": "Q1072469",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belgian%20dogs%20trained%20to%20draw%20quick-firing%20guns.JPG",
+"article": "https://en.wikipedia.org/wiki/Belgian_Mastiff"
+},
+{
+"label": "Carpathian Shepherd Dog",
+"qid": "Q1092646",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carpatin.jpg",
+"article": "https://en.wikipedia.org/wiki/Carpathian_Shepherd_Dog"
+},
+{
+"label": "bloodhound",
+"qid": "Q21098",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perro%20de%20San%20Huberto.jpg",
+"article": "https://en.wikipedia.org/wiki/Bloodhound"
+},
+{
+"label": "beagle",
+"qid": "Q21102",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MiloSmet.JPG",
+"article": "https://en.wikipedia.org/wiki/Beagle"
+},
+{
+"label": "American Akita",
+"qid": "Q37534",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akita%20Americano%20v3.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Akita"
+},
+{
+"label": "Black and Tan Coonhound",
+"qid": "Q37537",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Black%20and%20Tan%20Coonhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound"
+},
+{
+"label": "Anatolian Shepherd",
+"qid": "Q37541",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kangal-welpen-de%20003.jpg",
+"article": "https://en.wikipedia.org/wiki/Anatolian_Shepherd"
+},
+{
+"label": "Boston Terrier",
+"qid": "Q37550",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BOSTON%20TERRIER%2C%20Ving%C3%A5rdens%20Essi%20von%20Richards%20%2823995273800%29.2.jpg",
+"article": "https://en.wikipedia.org/wiki/Boston_Terrier"
+},
+{
+"label": "Basset Bleu de Gascogne",
+"qid": "Q37552",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basset%20bleu%20de%20Gascogne.jpg",
+"article": "https://en.wikipedia.org/wiki/Basset_Bleu_de_Gascogne"
+},
+{
+"label": "Border Terrier",
+"qid": "Q37558",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20Terri%C3%ABr.JPG",
+"article": "https://en.wikipedia.org/wiki/Border_Terrier"
+},
+{
+"label": "Basset Artésien Normand",
+"qid": "Q37561",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%206%20BASSET%20ART%C3%89SIEN%20NORMAND%2C%20Skogvaktarens%20Queen%20Sally%20%2824180074612%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Basset_Art%C3%A9sien_Normand"
+},
+{
+"label": "Armant dog",
+"qid": "Q37872",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Armant%20dog%2C%20with%20some%20orange%20stuff%20and%20trees%20in%20background.jpg",
+"article": "https://en.wikipedia.org/wiki/Armant_(dog_breed)"
+},
+{
+"label": "Dogue de Bordeaux",
+"qid": "Q37878",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/DJT%200086.jpg",
+"article": "https://en.wikipedia.org/wiki/Dogue_de_Bordeaux"
+},
+{
+"label": "Thai Bangkaew Dog",
+"qid": "Q37880",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thai%20Bangkaew%20Dog%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Thai_Bangkaew_Dog"
+},
+{
+"label": "Cairn Terrier",
+"qid": "Q37888",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cairn-Terrier-Garten1.jpg",
+"article": "https://en.wikipedia.org/wiki/Cairn_Terrier"
+},
+{
+"label": "Chinese Crested Dog",
+"qid": "Q37892",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/IndyStands.jpg",
+"article": "https://en.wikipedia.org/wiki/Chinese_Crested_Dog"
+},
+{
+"label": "Jagdterrier",
+"qid": "Q37899",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Terier%20niemiecki%20my%C5%9Bliwski%20721.jpg",
+"article": "https://en.wikipedia.org/wiki/Jagdterrier"
+},
+{
+"label": "Bouvier des Flandres",
+"qid": "Q37896",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bouvier.JPG",
+"article": "https://en.wikipedia.org/wiki/Bouvier_des_Flandres"
+},
+{
+"label": "Aidi",
+"qid": "Q37904",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aidi.jpg",
+"article": "https://en.wikipedia.org/wiki/Aidi"
+},
+{
+"label": "Dogo Argentino",
+"qid": "Q37909",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dogo%20Argentino%20-Argentijnse%20dog%2014-04-2010%2017-00-50.jpg",
+"article": "https://en.wikipedia.org/wiki/Dogo_Argentino"
+},
+{
+"label": "Dogo Argentino",
+"qid": "Q37909",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/0Dogo-argentino-22122251920.jpg",
+"article": "https://en.wikipedia.org/wiki/Dogo_Argentino"
+},
+{
+"label": "Bergamasco Shepherd",
+"qid": "Q38238",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergamasco%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Bergamasco_Shepherd_Dog"
+},
+{
+"label": "Bracco Italiano",
+"qid": "Q38255",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BIR%20Grupp%207-%20BRACCO%20ITALIANO%2C%20Nuits%20Di%20Montemassi%20%2823866391829%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Bracco_Italiano"
+},
+{
+"label": "Cirneco dell'Etna",
+"qid": "Q38262",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cirneco%20dell%20Etna%20611.jpg",
+"article": "https://en.wikipedia.org/wiki/Cirneco_dell%27Etna"
+},
+{
+"label": "Russkaya tsvetnaya bolonka",
+"qid": "Q38263",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irsika.jpg",
+"article": "https://en.wikipedia.org/wiki/Bolonka"
+},
+{
+"label": "German Shepherd",
+"qid": "Q38280",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20aleman%20a.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Shepherd"
+},
+{
+"label": "Jack Russell Terrier",
+"qid": "Q38287",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Russell%20Terrier%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier"
+},
+{
+"label": "Irish Red and White Setter",
+"qid": "Q38289",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20Red%20And%20White%20Setter%202005.jpg",
+"article": "https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter"
+},
+{
+"label": "Coton de Tulear",
+"qid": "Q38295",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coton%20de%20Tular%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Coton_de_Tulear"
+},
+{
+"label": "Gordon Setter",
+"qid": "Q38301",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Orrvilas%20enska%20w800px.jpg",
+"article": "https://en.wikipedia.org/wiki/Gordon_Setter"
+},
+{
+"label": "Small Međimurje Dog",
+"qid": "Q2943769",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Small%20Me%C4%91imurje%20dog%202%20%28cropped%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Small_Me%C4%91imurje_Dog"
+},
+{
+"label": "Argentine Pila Dog",
+"qid": "Q3092983",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pilas%20Argentinos-Felix-%26-Fortuna-04-1912.jpg",
+"article": "https://en.wikipedia.org/wiki/Argentine_Pila"
+},
+{
+"label": "Bohemian Spotted Dog",
+"qid": "Q3270663",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bohemian%20Spotted%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Bohemian_Spotted_Dog"
+},
+{
+"label": "Can de Palleiro",
+"qid": "Q3322296",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Can%20de%20Palleiro.jpg",
+"article": "https://en.wikipedia.org/wiki/Can_de_Palleiro"
+},
+{
+"label": "Morkie",
+"qid": "Q3324148",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Morkiedog.jpg",
+"article": "https://en.wikipedia.org/wiki/Morkie"
+},
+{
+"label": "Buryat-Mongolian Wolfhound",
+"qid": "Q3343819",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hotosho-1.jpg",
+"article": "https://en.wikipedia.org/wiki/Bankhar_dog"
+},
+{
+"label": "Welsh Hound",
+"qid": "Q3398688",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20a%20dog%2C%20Llansanffraid%20Glynceiriog%3F%20NLW3363932.jpg",
+"article": "https://en.wikipedia.org/wiki/Welsh_Hound"
+},
+{
+"label": "Nenets Herding Laika",
+"qid": "Q3438758",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%20%D0%BB%D0%B0%D0%B9%D0%BA%D0%B0%2010.jpg",
+"article": "https://en.wikipedia.org/wiki/Nenets_Herding_Laika"
+},
+{
+"label": "dachshund",
+"qid": "Q29099",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MiniDachshund1%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/Dachshund"
+},
+{
+"label": "Dutch Shepherd",
+"qid": "Q29114",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hollandse%20herder%20korthaar.jpg",
+"article": "https://en.wikipedia.org/wiki/Dutch_Shepherd"
+},
+{
+"label": "Barbet",
+"qid": "Q37585",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chien%20de%20race%20Barbet.jpg",
+"article": "https://en.wikipedia.org/wiki/Barbet_(dog_breed)"
+},
+{
+"label": "Boerboel",
+"qid": "Q37589",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boerboel.jpg",
+"article": "https://en.wikipedia.org/wiki/Boerboel"
+},
+{
+"label": "Australian Cattle Dog",
+"qid": "Q37595",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/ACD-blue-spud.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog"
+},
+{
+"label": "Bichon Frisé",
+"qid": "Q37600",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bichon%20Fris%C3%A9%20sitting.jpg",
+"article": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9"
+},
+{
+"label": "Bichon Frisé",
+"qid": "Q37600",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bichon%20Fris%C3%A9%20-%20studdogbichon.jpg",
+"article": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9"
+},
+{
+"label": "American Bulldog",
+"qid": "Q37604",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warrior%20American%20Bulldog%20puppy.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Bulldog"
+},
+{
+"label": "American Bulldog",
+"qid": "Q37604",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BUCKEYE%202010%20ANCHOR%20BULLY%20RASCALZ.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Bulldog"
+},
+{
+"label": "Bernese Mountain Dog",
+"qid": "Q37608",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bouviers%20Bernois%20Ganjo.jpg",
+"article": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog"
+},
+{
+"label": "American Pit Bull Terrier",
+"qid": "Q37612",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Pitbull%20001.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier"
+},
+{
+"label": "Bearded Collie",
+"qid": "Q37619",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bearded%20Collie.jpg",
+"article": "https://en.wikipedia.org/wiki/Bearded_Collie"
+},
+{
+"label": "Airedale Terrier",
+"qid": "Q37617",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Airedale%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Airedale_Terrier"
+},
+{
+"label": "Belgian Shepherd",
+"qid": "Q37624",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/04%20-%20Belgian%20shepherd%20dog%20varieties%20-%20Groenendael%2CTervuren%2C%20Malinois%2C%20Laekenois.jpg",
+"article": "https://en.wikipedia.org/wiki/Belgian_Shepherd"
+},
+{
+"label": "Australian Shepherd",
+"qid": "Q37629",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aussi.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Shepherd"
+},
+{
+"label": "Picardy Shepherd",
+"qid": "Q37635",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Owczarek%20pikardyjski%2063.jpg",
+"article": "https://en.wikipedia.org/wiki/Berger_Picard"
+},
+{
+"label": "Braque du Bourbonnais",
+"qid": "Q37632",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Braque%20du%20Bourbonnais.jpg",
+"article": "https://en.wikipedia.org/wiki/Braque_du_Bourbonnais"
+},
+{
+"label": "Billy",
+"qid": "Q37637",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Billy%28dog%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Billy_(dog_breed)"
+},
+{
+"label": "Cimarrón Uruguayo",
+"qid": "Q37644",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/PERRO%20CIMARRON.jpg",
+"article": "https://en.wikipedia.org/wiki/Cimarr%C3%B3n_Uruguayo"
+},
+{
+"label": "Briquet Griffon Vendéen",
+"qid": "Q37645",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Briquet%20Griffon%20Vendeen.jpg",
+"article": "https://en.wikipedia.org/wiki/Briquet_Griffon_Vend%C3%A9en"
+},
+{
+"label": "Dunker",
+"qid": "Q37650",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dunker.jpg",
+"article": "https://en.wikipedia.org/wiki/Dunker"
+},
+{
+"label": "Majorca Shepherd Dog",
+"qid": "Q37649",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20Bestiar.JPG",
+"article": "https://en.wikipedia.org/wiki/Ca_de_Bestiar"
+},
+{
+"label": "Bakharwal Dog",
+"qid": "Q37653",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakarwal.jpg",
+"article": "https://en.wikipedia.org/wiki/Bakharwal_dog"
+},
+{
+"label": "Braque du Puy",
+"qid": "Q37656",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Mahler%20-%20Braque%20du%20Puy.jpg",
+"article": "https://en.wikipedia.org/wiki/Braque_Dupuy"
+},
+{
+"label": "Halden Hound",
+"qid": "Q37982",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haldenstovare.jpg",
+"article": "https://en.wikipedia.org/wiki/Halden_Hound"
+},
+{
+"label": "Entlebucher Mountain Dog",
+"qid": "Q37986",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Entlebucher%20sennenhond.jpg",
+"article": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog"
+},
+{
+"label": "Entlebucher Mountain Dog",
+"qid": "Q37986",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Entlebucher.jpg",
+"article": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog"
+},
+{
+"label": "Blue Gascony Griffon",
+"qid": "Q37991",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/04031124%20Griffon%20Bleu%20de%20Gascogne.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne"
+},
+{
+"label": "Fawn Brittany Griffon",
+"qid": "Q37993",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GriffonFauveDeBretagne6Monate.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne"
+},
+{
+"label": "Fawn Brittany Griffon",
+"qid": "Q37993",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/08115500%20Griffon%20Fauve%20Bretagne.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne"
+},
+{
+"label": "Gascon Saintongeois",
+"qid": "Q37997",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petit%20Gascon%20Saintongeois%20croped.JPG",
+"article": "https://en.wikipedia.org/wiki/Gascon_Saintongeois"
+},
+{
+"label": "Large Vendeen Griffon Basset",
+"qid": "Q38000",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/G%20Basset%20Griffon%20Vendeen%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vend%C3%A9en"
+},
+{
+"label": "Boxer",
+"qid": "Q38496",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boxer%20female%20brown.jpg",
+"article": "https://en.wikipedia.org/wiki/Boxer_(dog_breed)"
+},
+{
+"label": "Italian Greyhound",
+"qid": "Q38503",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charciki%20W%C5%82oskie%2C%20doros%C5%82y%20i%20szczeniak.jpg",
+"article": "https://en.wikipedia.org/wiki/Italian_Greyhound"
+},
+{
+"label": "Celtic Hounds",
+"qid": "Q3556229",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronzen%20beeldje%20hazewindhond%20ForumHadriani%20015501%20RMO%20Leiden%20bis..png",
+"article": "https://en.wikipedia.org/wiki/Celtic_Hounds"
+},
+{
+"label": "Can de Chira",
+"qid": "Q3574099",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Can%20de%20Chira.jpg",
+"article": "https://en.wikipedia.org/wiki/Can_de_Chira"
+},
+{
+"label": "Bulgarian Scenthound",
+"qid": "Q3621454",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgarsko%20gonche.jpg",
+"article": "https://en.wikipedia.org/wiki/Bulgarian_Scenthound"
+},
+{
+"label": "Alopekis",
+"qid": "Q3635150",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alopekis%20white%20male.jpg",
+"article": "https://en.wikipedia.org/wiki/Alopekis"
+},
+{
+"label": "cocker spaniel",
+"qid": "Q4227301",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zahir%20the%20English%20Cocker%20Spaniel.jpg",
+"article": "https://en.wikipedia.org/wiki/Cocker_Spaniel"
+},
+{
+"label": "Hälleforshund",
+"qid": "Q4353804",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hades%20Mosshult%20H%C3%A4lleforsare.jpg",
+"article": "https://en.wikipedia.org/wiki/H%C3%A4llefors_Elkhound"
+},
+{
+"label": "Gaucho sheepdog",
+"qid": "Q4354350",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2%20Teimoso.jpg",
+"article": "https://en.wikipedia.org/wiki/Gaucho_sheepdog"
+},
+{
+"label": "Cane Toccatore",
+"qid": "Q5032220",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cane%20Paratore.jpg",
+"article": "https://en.wikipedia.org/wiki/Cane_Paratore"
+},
+{
+"label": "Danish Swedish Farmdog",
+"qid": "Q29127",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Swedish%20Farmdog%20cropped.jpg",
+"article": "https://en.wikipedia.org/wiki/Danish%E2%80%93Swedish_Farmdog"
+},
+{
+"label": "French Bulldog",
+"qid": "Q29149",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B3%D0%B8%202013-09-02%2011-36.JPG",
+"article": "https://en.wikipedia.org/wiki/French_Bulldog"
+},
+{
+"label": "French Spaniel",
+"qid": "Q29160",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epagneulfrancais.jpg",
+"article": "https://en.wikipedia.org/wiki/French_Spaniel"
+},
+{
+"label": "Mallorcan ratter",
+"qid": "Q37659",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ratero%20mallorquin.JPG",
+"article": "https://en.wikipedia.org/wiki/Ca_Rater_Mallorqu%C3%AD"
+},
+{
+"label": "Braque Saint-Germain",
+"qid": "Q37657",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Braque%20saint-germain%20666.jpg",
+"article": "https://en.wikipedia.org/wiki/Braque_Saint-Germain"
+},
+{
+"label": "Cesky Fousek",
+"qid": "Q37666",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Czeski%20fousek%20777.jpg",
+"article": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Fousek"
+},
+{
+"label": "Cesky Fousek",
+"qid": "Q37666",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesky%20Fousek%20Flickr.jpg",
+"article": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Fousek"
+},
+{
+"label": "Chippiparai",
+"qid": "Q37667",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Female%20Chippiparai%20sitting.jpg",
+"article": "https://en.wikipedia.org/wiki/Chippiparai"
+},
+{
+"label": "Ariege Pointer",
+"qid": "Q37664",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pointer%20of%20Ariege%20from%201915.JPG",
+"article": "https://en.wikipedia.org/wiki/Ari%C3%A8ge_Pointer"
+},
+{
+"label": "Mudhol Hound",
+"qid": "Q37670",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caravan%20hound%20Closeupfire.jpg",
+"article": "https://en.wikipedia.org/wiki/Mudhol_Hound"
+},
+{
+"label": "Chinese Chongqing Dog",
+"qid": "Q37673",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinese%20Chongqing%20Dog%20H%C3%BCndin.jpg",
+"article": "https://en.wikipedia.org/wiki/Chongqing_dog"
+},
+{
+"label": "Chortai",
+"qid": "Q37678",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hortaya%20Borzaya.jpg",
+"article": "https://en.wikipedia.org/wiki/Chortai"
+},
+{
+"label": "Perro de Presa Mallorquin",
+"qid": "Q37676",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20bou%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Ca_de_Bou"
+},
+{
+"label": "Bully Kutta",
+"qid": "Q37680",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/PakistaniMastiffPunjab.jpg",
+"article": "https://en.wikipedia.org/wiki/Bully_Kutta"
+},
+{
+"label": "Bully Kutta",
+"qid": "Q37680",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bully%20kutta%20naulakhia.tif",
+"article": "https://en.wikipedia.org/wiki/Bully_Kutta"
+},
+{
+"label": "Alano Español",
+"qid": "Q37690",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanishalanoblacktan1.jpg",
+"article": "https://en.wikipedia.org/wiki/Alano_Espa%C3%B1ol"
+},
+{
+"label": "Alano Español",
+"qid": "Q37690",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Alano%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Alano_Espa%C3%B1ol"
+},
+{
+"label": "American Staffordshire Terrier",
+"qid": "Q37688",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AMERICAN%20STAFFORDSHIRE%20TERRIER%2C%20Zican%E2%80%99s%20Bz%20Ez%20Dragon%20%2824208348891%29.2.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier"
+},
+{
+"label": "Barak hound",
+"qid": "Q37692",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BIR%20Grupp%206-%20BOSANSKI%20OSTRODLAKI%20GONIC-BARAK%2C%20Sandy%20%2823866392689%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Barak_hound"
+},
+{
+"label": "American Eskimo Dog",
+"qid": "Q37699",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Eskimo%20Dog%201.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Eskimo_Dog"
+},
+{
+"label": "Appenzeller Sennenhund",
+"qid": "Q37697",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abora%20z%20Velk%C3%A9ho%20%C3%9Ajezda5.jpg",
+"article": "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund"
+},
+{
+"label": "Miniature Australian Shepherd",
+"qid": "Q38004",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20Australian%20Shepherd%20red%20tricolour.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Australian_Shepherd"
+},
+{
+"label": "Dutch Tulip Dog",
+"qid": "Q38008",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Us%20babbe.jpg",
+"article": "https://en.wikipedia.org/wiki/Markiesje"
+},
+{
+"label": "Jonangi",
+"qid": "Q38013",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonangi%20from%20Krishna%20District.jpg",
+"article": "https://en.wikipedia.org/wiki/Jonangi"
+},
+{
+"label": "Hygen Hound",
+"qid": "Q38016",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Hygenhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Hygen_Hound"
+},
+{
+"label": "Lupo Italiano",
+"qid": "Q38023",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/LUPO%20ITALIANO%20-%20PALIO%20DI%20CENEDA%202018%2015.png",
+"article": "https://en.wikipedia.org/wiki/Lupo_Italiano"
+},
+{
+"label": "Yakutian Laika",
+"qid": "Q38020",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/618736210a13.jpg",
+"article": "https://en.wikipedia.org/wiki/Yakutian_Laika"
+},
+{
+"label": "Löwchen",
+"qid": "Q38027",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/LowchenFemale.jpg",
+"article": "https://en.wikipedia.org/wiki/L%C3%B6wchen"
+},
+{
+"label": "Kerry Blue Terrier",
+"qid": "Q38025",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kerry%20Blue%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Kerry_Blue_Terrier"
+},
+{
+"label": "Picardy Spaniel",
+"qid": "Q38030",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epagneul%20Picard%20ter.jpg",
+"article": "https://en.wikipedia.org/wiki/Picardy_Spaniel"
+},
+{
+"label": "Picardy Spaniel",
+"qid": "Q38030",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epagneul%20picard%20685.jpg",
+"article": "https://en.wikipedia.org/wiki/Picardy_Spaniel"
+},
+{
+"label": "Bruno Jura Hound",
+"qid": "Q38038",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/09057110%20Jura%20Laufhund.jpg",
+"article": "https://en.wikipedia.org/wiki/Bruno_Jura_Hound"
+},
+{
+"label": "Small Münsterländer",
+"qid": "Q38036",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleiner%20Munsterlander%20edit.jpg",
+"article": "https://en.wikipedia.org/wiki/Small_M%C3%BCnsterl%C3%A4nder"
+},
+{
+"label": "Hanover Hound",
+"qid": "Q38041",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannoverscher%20Schweisshund.jpg",
+"article": "https://en.wikipedia.org/wiki/Hanover_Hound"
+},
+{
+"label": "Soft-coated Wheaten Terrier",
+"qid": "Q38047",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soft%20Coated%20Wheaten%20Terrier%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier"
+},
+{
+"label": "Polish Hunting Dog",
+"qid": "Q38051",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg",
+"article": "https://en.wikipedia.org/wiki/Go%C5%84czy_Polski"
+},
+{
+"label": "American Cocker Spaniel",
+"qid": "Q38063",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cocker%20Spaniel%20Puppy.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Cocker_Spaniel"
+},
+{
+"label": "American Cocker Spaniel",
+"qid": "Q38063",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AmericanCockerSpaniel%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Cocker_Spaniel"
+},
+{
+"label": "East-European Shepherd",
+"qid": "Q38504",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vostochno%20Evropeiskaya%20Ovcharka.jpg",
+"article": "https://en.wikipedia.org/wiki/East_European_Shepherd"
+},
+{
+"label": "Bull and Terrier",
+"qid": "Q38510",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/01.%20Bull%20and%20Terrier%2C%20Paris%201863.%20%22Rose%22.png",
+"article": "https://en.wikipedia.org/wiki/Bull_and_terrier"
+},
+{
+"label": "Bull and Terrier",
+"qid": "Q38510",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/1837Decamps.jpg",
+"article": "https://en.wikipedia.org/wiki/Bull_and_terrier"
+},
+{
+"label": "Kangal Shepherd Dog",
+"qid": "Q38508",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kangal1.jpg",
+"article": "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog"
+},
+{
+"label": "Kangal Shepherd Dog",
+"qid": "Q38508",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kangal%20dog%20with%20spikey%20collar%2C%20Turkey.jpg",
+"article": "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog"
+},
+{
+"label": "Campeiro Bulldog",
+"qid": "Q38509",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buldogue%20Campeiro.jpg",
+"article": "https://en.wikipedia.org/wiki/Campeiro_Bulldog"
+},
+{
+"label": "Greenland Dog",
+"qid": "Q38515",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20dog%20upernavik%202007-06-02%20sample.jpg",
+"article": "https://en.wikipedia.org/wiki/Greenland_Dog"
+},
+{
+"label": "Moscow Watchdog",
+"qid": "Q38518",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscowwatchdog.jpg",
+"article": "https://en.wikipedia.org/wiki/Moscow_Watchdog"
+},
+{
+"label": "Neapolitan Mastiff",
+"qid": "Q38529",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neapolitan%20Mastiff%20Male%20Head.JPG",
+"article": "https://en.wikipedia.org/wiki/Neapolitan_Mastiff"
+},
+{
+"label": "English Cocker Spaniel",
+"qid": "Q38533",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%22Bill%22%20-%20Cocker%20spaniel%20anglais%201.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Cocker_Spaniel"
+},
+{
+"label": "Bull Arab",
+"qid": "Q1106478",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bull%20Arab%20%28dog%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Bull_Arab"
+},
+{
+"label": "nureongi",
+"qid": "Q1135818",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20Yellow%20Spitz%2C%20Gyeyang%2C%20South%20Korea%2C%2029%20August%202022%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Nureongi"
+},
+{
+"label": "collie",
+"qid": "Q1196071",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Border%20collie%20%28dog%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Collie"
+},
+{
+"label": "collie",
+"qid": "Q1196071",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/1Dog-rough-collie-portrait.jpg",
+"article": "https://en.wikipedia.org/wiki/Collie"
+},
+{
+"label": "Kintamani",
+"qid": "Q1742290",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kintamani.jpg",
+"article": "https://en.wikipedia.org/wiki/Kintamani_(dog_breed)"
+},
+{
+"label": "Segugio Maremmano",
+"qid": "Q1752116",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Segugio%20Maremmano.jpg",
+"article": "https://en.wikipedia.org/wiki/Segugio_Maremmano"
+},
+{
+"label": "Bakhmull",
+"qid": "Q1770291",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher-el-Bark.jpg",
+"article": "https://en.wikipedia.org/wiki/Bakhmull"
+},
+{
+"label": "Alaskan Malamute",
+"qid": "Q21206",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alaskan%20Malamute.jpg",
+"article": "https://en.wikipedia.org/wiki/Alaskan_Malamute"
+},
+{
+"label": "Hokkaido inu",
+"qid": "Q23853",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokkaido%2002.jpg",
+"article": "https://en.wikipedia.org/wiki/Hokkaido_(dog_breed)"
+},
+{
+"label": "Sertanejo Dog",
+"qid": "Q25865",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Um%20prov%C3%A1vel%20%27C%C3%A3o%20Boca-preta%20Sertanejo%27%20-%20IMG%203959.jpg",
+"article": "https://en.wikipedia.org/wiki/Boca-preta_sertanejo"
+},
+{
+"label": "Bucovina Shepherd Dog",
+"qid": "Q37917",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bucovina%20Sheepdog.jpg",
+"article": "https://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog"
+},
+{
+"label": "Galgo Español",
+"qid": "Q37920",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Galgo%20espagnol%20005.jpg",
+"article": "https://en.wikipedia.org/wiki/Galgo_Espa%C3%B1ol"
+},
+{
+"label": "Sloughi",
+"qid": "Q37925",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sloughi.jpg",
+"article": "https://en.wikipedia.org/wiki/Sloughi"
+},
+{
+"label": "Scottish Deerhound",
+"qid": "Q37929",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%2010%2C%20SKOTSK%20HJORTHUND%2C%20SEJV-12%20SE%20UCH%20Necesse%E2%80%99s%20Ars%20Amandi%20%2823664806293%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Scottish_Deerhound"
+},
+{
+"label": "Scottish Deerhound",
+"qid": "Q37929",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deerhound%20305.jpg",
+"article": "https://en.wikipedia.org/wiki/Scottish_Deerhound"
+},
+{
+"label": "White Swiss Shepherd",
+"qid": "Q37934",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/WhiteShepherd.jpg",
+"article": "https://en.wikipedia.org/wiki/White_Swiss_Shepherd_Dog"
+},
+{
+"label": "Spanish Mastiff",
+"qid": "Q37939",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mastspagn3.jpg",
+"article": "https://en.wikipedia.org/wiki/Spanish_Mastiff"
+},
+{
+"label": "Spanish Mastiff",
+"qid": "Q37939",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mast%C3%ADn%20espa%C3%B1ol%2C%20l%C3%ADnea%20original%20de%20trabajo.%2004.jpg",
+"article": "https://en.wikipedia.org/wiki/Spanish_Mastiff"
+},
+{
+"label": "Grand Griffon Vendéen",
+"qid": "Q37941",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Bonheur%20Grand%20Griffon%20Vendeen.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Griffon_Vend%C3%A9en"
+},
+{
+"label": "Eurasier",
+"qid": "Q37946",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eurasier.jpg",
+"article": "https://en.wikipedia.org/wiki/Eurasier"
+},
+{
+"label": "Karelian Bear Dog",
+"qid": "Q37950",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karelski%20pies%20na%20nied%C5%BAwiedzie%20sylwetka.JPG",
+"article": "https://en.wikipedia.org/wiki/Karelian_Bear_Dog"
+},
+{
+"label": "Karst Shepherd",
+"qid": "Q37954",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Owczarek%20kraski%20654.jpg",
+"article": "https://en.wikipedia.org/wiki/Karst_Shepherd"
+},
+{
+"label": "Miniature Bull Terrier",
+"qid": "Q37967",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bull%20Terrier%20Miniature.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier"
+},
+{
+"label": "English Setter",
+"qid": "Q38309",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20setter.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Setter"
+},
+{
+"label": "Rajapalayam",
+"qid": "Q38312",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/02.%20Bheem%20the%20male%20rajapalayam.jpg",
+"article": "https://en.wikipedia.org/wiki/Rajapalayam_dog"
+},
+{
+"label": "Rajapalayam",
+"qid": "Q38312",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%282%29%20Isha%20female%20rajapalayam.jpg",
+"article": "https://en.wikipedia.org/wiki/Rajapalayam_dog"
+},
+{
+"label": "Bull Terrier",
+"qid": "Q38322",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bullterier%20089%20LM.jpg",
+"article": "https://en.wikipedia.org/wiki/Bull_Terrier"
+},
+{
+"label": "Dandie Dinmont Terrier",
+"qid": "Q38336",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dandie%20Dinmont%20Terrier%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier"
+},
+{
+"label": "Kishu",
+"qid": "Q38342",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kishu.jpg",
+"article": "https://en.wikipedia.org/wiki/Kishu"
+},
+{
+"label": "Lhasa Apso",
+"qid": "Q38352",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%209%2C%20LHASA%20APSO%2C%20DK%20JV-13%20DK%20V-14%20DK%20V-15%20NO%20UCH%20NO%20V-15%20SE%20UCH%20Chic%20Choix%20Some%20Like%20It%20Chic%20%2824014621720%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Lhasa_Apso"
+},
+{
+"label": "Dobermann",
+"qid": "Q38358",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dobermann%20Father-and-son.jpg",
+"article": "https://en.wikipedia.org/wiki/Dobermann"
+},
+{
+"label": "Lapponian Herder",
+"qid": "Q38362",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lapskvallhund.jpg",
+"article": "https://en.wikipedia.org/wiki/Lapponian_Herder"
+},
+{
+"label": "Hovawart",
+"qid": "Q38368",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dog%20Hovavart.jpg",
+"article": "https://en.wikipedia.org/wiki/Hovawart"
+},
+{
+"label": "Curly Coated Retriever",
+"qid": "Q38375",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Curley%20coated%20retriever5.jpg",
+"article": "https://en.wikipedia.org/wiki/Curly-coated_Retriever"
+},
+{
+"label": "Bulldog",
+"qid": "Q38383",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Racib%C3%B3rz%202007%20082.jpg",
+"article": "https://en.wikipedia.org/wiki/Bulldog"
+},
+{
+"label": "Manchester Terrier",
+"qid": "Q38387",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manchesterterrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Manchester_Terrier"
+},
+{
+"label": "Transylvanian hound",
+"qid": "Q38394",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erdelyi%20kopo%20VadaszNimrodSzeder01.jpg",
+"article": "https://en.wikipedia.org/wiki/Transylvanian_Hound"
+},
+{
+"label": "Groenendael",
+"qid": "Q38399",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/European%20Groenendael%20male.jpg",
+"article": "https://en.wikipedia.org/wiki/Groenendael_dog"
+},
+{
+"label": "Barbado da Terceira",
+"qid": "Q168788",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbado%20da%20Terceira%20%28male%29.JPG",
+"article": "https://en.wikipedia.org/wiki/Barbado_da_Terceira"
+},
+{
+"label": "Cão de gado transmontano",
+"qid": "Q326532",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/TRANSMONTANO.jpg",
+"article": "https://en.wikipedia.org/wiki/C%C3%A3o_de_Gado_Transmontano"
+},
+{
+"label": "American Leopard Hound",
+"qid": "Q465537",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lep2.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Leopard_Hound"
+},
+{
+"label": "Jeju dog",
+"qid": "Q492644",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeju%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Jeju_dog"
+},
+{
+"label": "Africanis",
+"qid": "Q516079",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Africanis%20%281%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Africanis"
+},
+{
+"label": "English Pointer",
+"qid": "Q769804",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20pointer.jpg",
+"article": "https://en.wikipedia.org/wiki/Pointer_(dog_breed)"
+},
+{
+"label": "Polish Greyhound",
+"qid": "Q5429",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chart%20polski%2067u7.jpg",
+"article": "https://en.wikipedia.org/wiki/Polish_Greyhound"
+},
+{
+"label": "American Bully",
+"qid": "Q5570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Champion%20Charlie%20Muscles%20%282%29.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Bully"
+},
+{
+"label": "American Bully",
+"qid": "Q5570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%282x%20ch%20GRAN%20DALI%29%20BOTTIcelli%20.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Bully"
+},
+{
+"label": "Affenpinscher",
+"qid": "Q7254",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Affenpinscher%20breed.jpg",
+"article": "https://en.wikipedia.org/wiki/Affenpinscher"
+},
+{
+"label": "Affenpinscher",
+"qid": "Q7254",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borismindre.jpg",
+"article": "https://en.wikipedia.org/wiki/Affenpinscher"
+},
+{
+"label": "Austrian Black and Tan Hound",
+"qid": "Q11385",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brandlbracke.JPG",
+"article": "https://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound"
+},
+{
+"label": "Dalmatian",
+"qid": "Q17504",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dalmatien.jpg",
+"article": "https://en.wikipedia.org/wiki/Dalmatian_dog"
+},
+{
+"label": "West Highland White Terrier",
+"qid": "Q17510",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Highland%20White%20Terrier%20Krakow.jpg",
+"article": "https://en.wikipedia.org/wiki/West_Highland_White_Terrier"
+},
+{
+"label": "Wetterhoun",
+"qid": "Q20860",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fryzyjski%20pies%20wodny%20u68.jpg",
+"article": "https://en.wikipedia.org/wiki/Wetterhoun"
+},
+{
+"label": "Abruzzo-Maremma Sheepdog",
+"qid": "Q21074",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cane%20Pastore%20Abruzzese%20Abruzzo.jpg",
+"article": "https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog"
+},
+{
+"label": "Cane Corso",
+"qid": "Q21082",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/FINLEY%20DE%20LA%20MIRAGE%20DE%20TORRELLAS%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/Cane_Corso"
+},
+{
+"label": "Cane Corso",
+"qid": "Q21082",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anita%20Cane%20Corso%20Italiano%20allevato%20in%20Italia.jpg",
+"article": "https://en.wikipedia.org/wiki/Cane_Corso"
+},
+{
+"label": "Afghan Hound",
+"qid": "Q21080",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AKC%20Helena%20Fall%20Dog%20Show%202011.jpg",
+"article": "https://en.wikipedia.org/wiki/Afghan_Hound"
+},
+{
+"label": "Afghan Hound",
+"qid": "Q21080",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Afghan%20Hound%20in%20Tallinn.JPG",
+"article": "https://en.wikipedia.org/wiki/Afghan_Hound"
+},
+{
+"label": "Flat-Coated Retriever",
+"qid": "Q29200",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Coated%20Retriever%20-%20black.jpg",
+"article": "https://en.wikipedia.org/wiki/Flat-coated_Retriever"
+},
+{
+"label": "Flat-Coated Retriever",
+"qid": "Q29200",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flat%20Coated%20Retriever.jpg",
+"article": "https://en.wikipedia.org/wiki/Flat-coated_Retriever"
+},
+{
+"label": "Formosan Mountain Dog",
+"qid": "Q29212",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Formosan%20nina.jpg",
+"article": "https://en.wikipedia.org/wiki/Taiwan_Dog"
+},
+{
+"label": "Telomian",
+"qid": "Q37464",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Telomian.jpg",
+"article": "https://en.wikipedia.org/wiki/Telomian"
+},
+{
+"label": "American Staghound",
+"qid": "Q37473",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Staghound.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Staghound"
+},
+{
+"label": "Beagle-Harrier",
+"qid": "Q37478",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beagle%20harrier.JPG",
+"article": "https://en.wikipedia.org/wiki/Beagle-Harrier"
+},
+{
+"label": "Medium-sized Anglo-French Hound",
+"qid": "Q37482",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-fran%C3%A7ais%20de%20petite%20v%C3%A9nerie%2C%20%C2%ABOp%20dem%20Hut%C2%BB%2C%20Haanenhaff-112.jpg",
+"article": "https://en.wikipedia.org/wiki/Anglo-Fran%C3%A7ais_de_Petite_V%C3%A9nerie"
+},
+{
+"label": "Medium-sized Anglo-French Hound",
+"qid": "Q37482",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Fran%C3%A7ais%20de%20petite%20v%C3%A9nerie.jpg",
+"article": "https://en.wikipedia.org/wiki/Anglo-Fran%C3%A7ais_de_Petite_V%C3%A9nerie"
+},
+{
+"label": "Ariégeois",
+"qid": "Q37487",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariegeois.jpg",
+"article": "https://en.wikipedia.org/wiki/Ari%C3%A9geois"
+},
+{
+"label": "Alapaha Blue Blood Bulldog",
+"qid": "Q37489",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alapaha%20blue%20blood%20bulldog2.jpg",
+"article": "https://en.wikipedia.org/wiki/Alapaha_Blue_Blood_Bulldog"
+},
+{
+"label": "Old Danish Pointer",
+"qid": "Q37494",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20du%C5%84ski%20123.jpg",
+"article": "https://en.wikipedia.org/wiki/Old_Danish_Pointer"
+},
+{
+"label": "Alpine Dachsbracke",
+"qid": "Q37498",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alpejski%20go%C5%84czy%20kr%C3%B3tkono%C5%BCny%20g99.jpg",
+"article": "https://en.wikipedia.org/wiki/Alpine_Dachsbracke"
+},
+{
+"label": "English Shepherd",
+"qid": "Q37830",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/TricolorEnglishShepherdDog.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Shepherd"
+},
+{
+"label": "German Longhaired Pointer",
+"qid": "Q37834",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/DeutschLanghaarneu.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer"
+},
+{
+"label": "Mioritic",
+"qid": "Q37832",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mioritic.jpg",
+"article": "https://en.wikipedia.org/wiki/Romanian_Mioritic_Shepherd_Dog"
+},
+{
+"label": "Deutsche Bracke",
+"qid": "Q37838",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/DeutscheBracke.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Hound"
+},
+{
+"label": "Finnish Hound",
+"qid": "Q37840",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nuori-suomenajokoira.jpg",
+"article": "https://en.wikipedia.org/wiki/Finnish_Hound"
+},
+{
+"label": "Pont-Audemer Spaniel",
+"qid": "Q37844",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/04031158%20Epagneul%20Pont%20Audemer.jpg",
+"article": "https://en.wikipedia.org/wiki/Pont-Audemer_Spaniel"
+},
+{
+"label": "Clumber Spaniel",
+"qid": "Q37851",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clumber%20spaniel%20glowa%20rybnik-kamien%20ppl.jpg",
+"article": "https://en.wikipedia.org/wiki/Clumber_Spaniel"
+},
+{
+"label": "Clumber Spaniel",
+"qid": "Q37851",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clumber%20spaniel%20767.jpg",
+"article": "https://en.wikipedia.org/wiki/Clumber_Spaniel"
+},
+{
+"label": "Boykin Spaniel",
+"qid": "Q37848",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boykin%20Spaniel%20Relaxing2.jpg",
+"article": "https://en.wikipedia.org/wiki/Boykin_Spaniel"
+},
+{
+"label": "Azawakh",
+"qid": "Q37859",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Azawakh%20bitch%20Shira-tb.jpg",
+"article": "https://en.wikipedia.org/wiki/Azawakh"
+},
+{
+"label": "American Water Spaniel",
+"qid": "Q37856",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AmWaterSpan1.jpg",
+"article": "https://en.wikipedia.org/wiki/American_Water_Spaniel"
+},
+{
+"label": "Borzoi",
+"qid": "Q37866",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borzoi%20female.jpg",
+"article": "https://en.wikipedia.org/wiki/Borzoi"
+},
+{
+"label": "Basenji",
+"qid": "Q37871",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B0%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%20%28Basenji%29%2002.jpg",
+"article": "https://en.wikipedia.org/wiki/Basenji"
+},
+{
+"label": "Japanese Chin",
+"qid": "Q38146",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Chin%20adult.jpg",
+"article": "https://en.wikipedia.org/wiki/Japanese_Chin"
+},
+{
+"label": "Alaskan Klee Kai",
+"qid": "Q38152",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Alaskan%20Klee%20Kai.jpg",
+"article": "https://en.wikipedia.org/wiki/Alaskan_Klee_Kai"
+},
+{
+"label": "Brittany",
+"qid": "Q38156",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Brittany%20standing.jpg",
+"article": "https://en.wikipedia.org/wiki/Brittany_Spaniel"
+},
+{
+"label": "Irish Water Spaniel",
+"qid": "Q38162",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irlandzki%20spaniel%20wodny%20676.jpg",
+"article": "https://en.wikipedia.org/wiki/Irish_Water_Spaniel"
+},
+{
+"label": "Portuguese Pointer",
+"qid": "Q38165",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portuguese%20pointer%2011yo.jpg",
+"article": "https://en.wikipedia.org/wiki/Portuguese_Pointer"
+},
+{
+"label": "Olde English Bulldogge",
+"qid": "Q38168",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olde%20English%20Bulldogge%20Crop.jpg",
+"article": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge"
+},
+{
+"label": "Akbash",
+"qid": "Q38175",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akbash%20Dog%20male%202016.jpg",
+"article": "https://en.wikipedia.org/wiki/Akbash"
+},
+{
+"label": "Akbash",
+"qid": "Q38175",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akbash%20Dog%20in%20CA.jpg",
+"article": "https://en.wikipedia.org/wiki/Akbash"
+},
+{
+"label": "Czechoslovakian Wolfdog",
+"qid": "Q38651",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/TWH-jolly.JPG",
+"article": "https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog"
+},
+{
+"label": "German Spitz",
+"qid": "Q38655",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20chien%20Spitz%20allemand.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Spitz"
+},
+{
+"label": "Basque Shepherd Dog",
+"qid": "Q38653",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20vasco%20m%2014months%20loby%203018.jpg",
+"article": "https://en.wikipedia.org/wiki/Basque_Shepherd_Dog"
+},
+{
+"label": "Irish wolfhound",
+"qid": "Q38668",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20wolfhound%20giaccomo.JPG",
+"article": "https://en.wikipedia.org/wiki/Irish_Wolfhound"
+},
+{
+"label": "Komondor",
+"qid": "Q38675",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Komondor%20Westminster%20Dog%20Show%20crop.jpg",
+"article": "https://en.wikipedia.org/wiki/Komondor"
+},
+{
+"label": "Komondor",
+"qid": "Q38675",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Komondor%20dog%20breed.jpg",
+"article": "https://en.wikipedia.org/wiki/Komondor"
+},
+{
+"label": "Tervuren",
+"qid": "Q38679",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tervuren.jpg",
+"article": "https://en.wikipedia.org/wiki/Tervuren_dog"
+},
+{
+"label": "Golden Retriever",
+"qid": "Q38686",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Retriever%20Dukedestiny01%20drvd.jpg",
+"article": "https://en.wikipedia.org/wiki/Golden_Retriever"
+},
+{
+"label": "Mudi",
+"qid": "Q38690",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hondenras%20Mudi.jpg",
+"article": "https://en.wikipedia.org/wiki/Mudi"
+},
+{
+"label": "Georgian Shepherd",
+"qid": "Q38691",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgian%20Shepherd%20At%20The%20Vine.jpg",
+"article": "https://en.wikipedia.org/wiki/Georgian_Shepherd"
+},
+{
+"label": "Georgian Shepherd",
+"qid": "Q38691",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Shepherd.jpg",
+"article": "https://en.wikipedia.org/wiki/Georgian_Shepherd"
+},
+{
+"label": "Giant Schnauzer",
+"qid": "Q38688",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stablemaster%27s%20NORTHERN%20HOPE%28Poznan2006%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Giant_Schnauzer"
+},
+{
+"label": "Giant Schnauzer",
+"qid": "Q38688",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bvdb-riesen%20schnauzer.jpg",
+"article": "https://en.wikipedia.org/wiki/Giant_Schnauzer"
+},
+{
+"label": "pug",
+"qid": "Q38698",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2.5-year-old%20fawn%20male%20pug.jpg",
+"article": "https://en.wikipedia.org/wiki/Pug"
+},
+{
+"label": "Great Anglo-French White and Black Hound",
+"qid": "Q38722",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20anglo%20francais%20noir.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Blanc_et_Noir"
+},
+{
+"label": "Labrador Retriever",
+"qid": "Q38726",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20Labrador%20Retriever%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Labrador_Retriever"
+},
+{
+"label": "Great Anglo-French Tricolour Hound",
+"qid": "Q38724",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20anglo%20francais%20tricol%20mod.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Tricolore"
+},
+{
+"label": "Schweizerischer Niederlaufhund",
+"qid": "Q38731",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/08115491%20Schwyzer%20Niederlaufhund.jpg",
+"article": "https://en.wikipedia.org/wiki/Schweizerischer_Niederlaufhund"
+},
+{
+"label": "Schillerstövare",
+"qid": "Q38728",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Go%C5%84czy%20schillera%20g%C5%82owa%20j87.jpg",
+"article": "https://en.wikipedia.org/wiki/Schillerst%C3%B6vare"
+},
+{
+"label": "Estonian Hound",
+"qid": "Q38729",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Go%C5%84czy%20esto%C5%84ski%20MB%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/Estonian_Hound"
+},
+{
+"label": "Great Anglo-French White and Orange Hound",
+"qid": "Q38734",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/06101298%20Grand%20anglo%20francais%20orange.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Anglo-Fran%C3%A7ais_Blanc_et_Orange"
+},
+{
+"label": "Smaland Hound",
+"qid": "Q38738",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Smaland-St%C3%B6vare.jpg",
+"article": "https://en.wikipedia.org/wiki/Smaland_Hound"
+},
+{
+"label": "Gull Terr",
+"qid": "Q38737",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GULL%20TERR%20%28PAKISTANI%20BULL%20TERRIER%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Gull_Terrier"
+},
+{
+"label": "Maltese",
+"qid": "Q38751",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maltezer%20Vereniging%20Belgie.jpg",
+"article": "https://en.wikipedia.org/wiki/Maltese_dog"
+},
+{
+"label": "Irish Setter",
+"qid": "Q38761",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Can%20Setter%20dog%20GFDL.jpg",
+"article": "https://en.wikipedia.org/wiki/Irish_Setter"
+},
+{
+"label": "Pyrenean Mastiff",
+"qid": "Q38766",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MasPiri-Lula-ESP.jpg",
+"article": "https://en.wikipedia.org/wiki/Pyrenean_Mastiff"
+},
+{
+"label": "Red Decoy Dog",
+"qid": "Q11349773",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Decoy%20in%20action.png",
+"article": "https://en.wikipedia.org/wiki/Red_Decoy_Dog"
+},
+{
+"label": "Kawakami Ken",
+"qid": "Q11477572",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B7%9D%E4%B8%8A%E7%8A%AC.JPG",
+"article": "https://en.wikipedia.org/wiki/Kawakami_Inu"
+},
+{
+"label": "White Shepherd Dog",
+"qid": "Q11698316",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kandestack%2062406.jpg",
+"article": "https://en.wikipedia.org/wiki/White_Shepherd"
+},
+{
+"label": "Lobito Herreño",
+"qid": "Q11698989",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinha.jpg",
+"article": "https://en.wikipedia.org/wiki/Lobito_Herre%C3%B1o"
+},
+{
+"label": "Pariah dog",
+"qid": "Q12206278",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borneo%20dogs%20feeding.jpg",
+"article": "https://en.wikipedia.org/wiki/Pye-dog"
+},
+{
+"label": "Dong-gyeong",
+"qid": "Q12593214",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/White%20Donggyeongi%20%28Baekgu%29%2018%20September%202017.jpg",
+"article": "https://en.wikipedia.org/wiki/Donggyeongi"
+},
+{
+"label": "Macedonian Karaman",
+"qid": "Q12908317",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Makedoniankaraman1.jpg",
+"article": "https://en.wikipedia.org/wiki/Macedonian_Shepherd_Dog"
+},
+{
+"label": "Molossian hound",
+"qid": "Q13217219",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Molossian%20Hound%2C%20British%20Museum.jpg",
+"article": "https://en.wikipedia.org/wiki/Molossian_hound"
+},
+{
+"label": "Zuchon",
+"qid": "Q19283661",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zuchon%20on%20couch.png",
+"article": "https://en.wikipedia.org/wiki/Zuchon"
+},
+{
+"label": "Sarabi Mastiff",
+"qid": "Q19775816",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/5-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA%20%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%20%D8%B5%D9%88%D9%85%D8%B9%D9%87%20%D9%85%D9%84%DA%A9%D8%B4%D8%A7%D9%87%20%D8%B3%DA%AF%20%D8%B3%D8%B1%D8%A7%D8%A8.jpg",
+"article": "https://en.wikipedia.org/wiki/Sarabi_dog"
+},
+{
+"label": "Dogo español",
+"qid": "Q24702349",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dogo%20Espa%C3%B1ol%20Arturo%20de%20los%20Tarantos.jpg",
+"article": "https://en.wikipedia.org/wiki/Spanish_dogo"
+},
+{
+"label": "Polynesian Dog",
+"qid": "Q30594645",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuri%2C%20Maori%20or%20native%20dog%2C%20Dominion%20Museum%20collection%2C%201924.jpg",
+"article": "https://en.wikipedia.org/wiki/Polynesian_Dog"
+},
+{
+"label": "Calupoh",
+"qid": "Q57257840",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Movimiento%20Calupoh.jpg",
+"article": "https://en.wikipedia.org/wiki/Calupoh"
+},
+{
+"label": "Original Fila Brasileiro",
+"qid": "Q57258179",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Original%20Fila%20tigrado%20-%20perfil.jpg",
+"article": "https://en.wikipedia.org/wiki/Original_Fila_Brasileiro"
+},
+{
+"label": "Original Fila Brasileiro",
+"qid": "Q57258179",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A3o%20Original%20Fila%20Brasileiro%20-%20Drag%C3%A3o.jpg",
+"article": "https://en.wikipedia.org/wiki/Original_Fila_Brasileiro"
+},
+{
+"label": "Papillon",
+"qid": "Q38115",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Outdoor%20Continental%20Toy%20Spaniel%20Papillon.jpeg",
+"article": "https://en.wikipedia.org/wiki/Continental_Toy_Spaniel"
+},
+{
+"label": "Greater Swiss Mountain Dog",
+"qid": "Q38121",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swissy-2009-11-02.jpg",
+"article": "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog"
+},
+{
+"label": "Japanese Spitz",
+"qid": "Q38126",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/JapaneseSpitzPhoto1%20-%20hiro.jpg",
+"article": "https://en.wikipedia.org/wiki/Japanese_Spitz"
+},
+{
+"label": "King Charles Spaniel",
+"qid": "Q38132",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20Spaniel%20Mike%203.jpg",
+"article": "https://en.wikipedia.org/wiki/King_Charles_Spaniel"
+},
+{
+"label": "King Charles Spaniel",
+"qid": "Q38132",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Charles%20Spaniel%20200.jpg",
+"article": "https://en.wikipedia.org/wiki/King_Charles_Spaniel"
+},
+{
+"label": "Cesky Terrier",
+"qid": "Q38642",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesky-Terier.jpg",
+"article": "https://en.wikipedia.org/wiki/Cesky_Terrier"
+},
+{
+"label": "Irish Terrier",
+"qid": "Q38644",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irish%20Terrier%20P1060074.jpg",
+"article": "https://en.wikipedia.org/wiki/Irish_Terrier"
+},
+{
+"label": "Rough Collie",
+"qid": "Q38650",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rough%20Collie%20head.jpg",
+"article": "https://en.wikipedia.org/wiki/Rough_Collie"
+},
+{
+"label": "Rough Collie",
+"qid": "Q38650",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AmericanCollie2.jpg",
+"article": "https://en.wikipedia.org/wiki/Rough_Collie"
+},
+{
+"label": "Newfoundland dog",
+"qid": "Q38706",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/201210071658d.jpg",
+"article": "https://en.wikipedia.org/wiki/Newfoundland_dog"
+},
+{
+"label": "Icelandic Sheepdog",
+"qid": "Q38710",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulfur.jpg",
+"article": "https://en.wikipedia.org/wiki/Icelandic_Sheepdog"
+},
+{
+"label": "Kooikerhondje",
+"qid": "Q38716",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kooiker03.jpg",
+"article": "https://en.wikipedia.org/wiki/Kooikerhondje"
+},
+{
+"label": "Australian Cobberdog",
+"qid": "Q65229742",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Cobberdog%20at%209%20Weeks%20Profile.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Cobberdog"
+},
+{
+"label": "Australian Cobberdog",
+"qid": "Q65229742",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Cobberdog%20at%209%20Weeks.jpg",
+"article": "https://en.wikipedia.org/wiki/Australian_Cobberdog"
+},
+{
+"label": "Grand Fauve de Bretagne",
+"qid": "Q96379844",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Fauve%20de%20Bretagne.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Fauve_de_Bretagne"
+},
+{
+"label": "Buckhound",
+"qid": "Q107303989",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20H%20Hopkins%20%28active%201853-1890-d.%201892%29%20-%20Her%20Majesty%27s%20Buckhounds%20with%20the%20Earl%20of%20Hardwicke%2C%20Huntsmen%20and%20Whips%20-%20RCIN%20407840%20-%20Royal%20Collection.jpg",
+"article": "https://en.wikipedia.org/wiki/Buckhound"
+},
+{
+"label": "Staghound",
+"qid": "Q107444250",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Devon%20Staghounds.jpg",
+"article": "https://en.wikipedia.org/wiki/Staghound"
+},
+{
+"label": "West Country Harrier",
+"qid": "Q107448399",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hounds%20-%20their%20breeding%20and%20kennel%20management%20%281905%29%20%2814740587676%29.jpg",
+"article": "https://en.wikipedia.org/wiki/West_Country_Harrier"
+},
+{
+"label": "Sarail hound",
+"qid": "Q107804694",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarail%20Hound%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Sarail_Hound"
+},
+{
+"label": "Tonya Finosu",
+"qid": "Q109535791",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tonya%20Finosu.jpg",
+"article": "https://en.wikipedia.org/wiki/Tonya_Finosu"
+},
+{
+"label": "Valdueza",
+"qid": "Q113403824",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdueza4.jpg",
+"article": "https://en.wikipedia.org/wiki/Valdueza"
+},
+{
+"label": "Bắc Hà dog",
+"qid": "Q113640408",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%E1%BA%AFc%20H%C3%A0%20dog%20side.jpg",
+"article": "https://en.wikipedia.org/wiki/B%E1%BA%AFc_H%C3%A0_dog"
+},
+{
+"label": "Bắc Hà dog",
+"qid": "Q113640408",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%E1%BA%AFc%20H%C3%A0%20dog%20face.jpg",
+"article": "https://en.wikipedia.org/wiki/B%E1%BA%AFc_H%C3%A0_dog"
+},
+{
+"label": "Lài dog",
+"qid": "Q113697158",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A0i%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/L%C3%A0i_dog"
+},
+{
+"label": "Hmong bobtail dog",
+"qid": "Q113714849",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hmong%20Bobtail%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Hmong_bobtail_dog"
+},
+{
+"label": "Laizhou Red Dog",
+"qid": "Q123030292",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laizhoureddog6.jpg",
+"article": "https://en.wikipedia.org/wiki/Laizhou_Hong"
+},
+{
+"label": "Laconian",
+"qid": "Q130313860",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Athens%20Acropolis%20Museum%20Hunting%20Dog%2003.jpg",
+"article": "https://en.wikipedia.org/wiki/Laconian_(dog)"
+},
+{
+"label": "Mexican lapdog",
+"qid": "Q133854503",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mexican%20lap-dog%20by%20JG%20Keulemans.jpg",
+"article": "https://en.wikipedia.org/wiki/Mexican_lapdog"
+},
+{
+"label": "Large Münsterländer",
+"qid": "Q38777",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GrosserMuensterlaender.jpg",
+"article": "https://en.wikipedia.org/wiki/Large_M%C3%BCnsterl%C3%A4nder"
+},
+{
+"label": "Pembroke Welsh Corgi",
+"qid": "Q38783",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Pembroke%20Corgi.jpg",
+"article": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi"
+},
+{
+"label": "Smooth Fox Terrier",
+"qid": "Q38787",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Terrier%20mix%20sh%20klaas.jpg",
+"article": "https://en.wikipedia.org/wiki/Smooth_Fox_Terrier"
+},
+{
+"label": "Kleinspitz",
+"qid": "Q38784",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kleinspitz%20brown%20Lahti%20CACIB%202014.JPG",
+"article": "https://en.wikipedia.org/wiki/German_Spitz_Klein"
+},
+{
+"label": "Smooth Collie",
+"qid": "Q38790",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Smooth%20Collie%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Smooth_Collie"
+},
+{
+"label": "Tibetan Terrier",
+"qid": "Q38796",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tibetan%20Terrier%20Image%20001.jpg",
+"article": "https://en.wikipedia.org/wiki/Tibetan_Terrier"
+},
+{
+"label": "Norwegian Elkhound",
+"qid": "Q38803",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norwegian%20Elkhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Norwegian_Elkhound"
+},
+{
+"label": "Patterdale Terrier",
+"qid": "Q38800",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/05078045%20Patterdale%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Patterdale_Terrier"
+},
+{
+"label": "Pharaoh Hound",
+"qid": "Q38808",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pies%20faraona%20e34.jpg",
+"article": "https://en.wikipedia.org/wiki/Pharaoh_Hound"
+},
+{
+"label": "Vizsla",
+"qid": "Q38819",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20w%C4%99gierski%20g%C5%82adkow%C5%82osy%20500.jpg",
+"article": "https://en.wikipedia.org/wiki/Vizsla"
+},
+{
+"label": "Redbone Coonhound",
+"qid": "Q38820",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Memphis%20the%20Redbone%20Coonhound%20%287%20Nov%202004%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Redbone_Coonhound"
+},
+{
+"label": "Nova Scotia Duck Tolling Retriever",
+"qid": "Q38824",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duck%20Toller.jpg",
+"article": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever"
+},
+{
+"label": "Polish Lowland Sheepdog",
+"qid": "Q38836",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polski%20owczarek%20nizinny.jpg",
+"article": "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog"
+},
+{
+"label": "Keeshond",
+"qid": "Q38843",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keeshond%20Majic%20standing%20cropped.jpg",
+"article": "https://en.wikipedia.org/wiki/Keeshond"
+},
+{
+"label": "Xoloitzcuintle",
+"qid": "Q38856",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/XoloLarge1.jpg",
+"article": "https://en.wikipedia.org/wiki/Xoloitzcuintle"
+},
+{
+"label": "Puli",
+"qid": "Q38864",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Puli%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Puli_dog"
+},
+{
+"label": "Magyar agár",
+"qid": "Q38871",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/HungarianGreyhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Magyar_Ag%C3%A1r"
+},
+{
+"label": "Wirehaired Pointing Griffon",
+"qid": "Q38869",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Korthalsgriffon.jpg",
+"article": "https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon"
+},
+{
+"label": "Peruvian Hairless Dog",
+"qid": "Q38874",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taru%20metsa.jpg",
+"article": "https://en.wikipedia.org/wiki/Peruvian_Hairless_Dog"
+},
+{
+"label": "Parson Russell Terrier",
+"qid": "Q38880",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parson%20Russell%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Parson_Russell_Terrier"
+},
+{
+"label": "New Guinea singing dog",
+"qid": "Q38884",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20Guinea%20Singing%20Dog%20on%20trail-Cropped.jpg",
+"article": "https://en.wikipedia.org/wiki/New_Guinea_singing_dog"
+},
+{
+"label": "Griffon Bruxellois",
+"qid": "Q38889",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monkey%20Bizniz%20Drama%20Queen.jpg",
+"article": "https://en.wikipedia.org/wiki/Griffon_Bruxellois"
+},
+{
+"label": "Norwegian Lundehund",
+"qid": "Q38895",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lundehund-2003.jpg",
+"article": "https://en.wikipedia.org/wiki/Norwegian_Lundehund"
+},
+{
+"label": "Mountain Cur",
+"qid": "Q38892",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mtncur.png",
+"article": "https://en.wikipedia.org/wiki/Mountain_Cur"
+},
+{
+"label": "Pražský Krysařík",
+"qid": "Q38906",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ex%20perla%20moravy%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Pra%C5%BEsk%C3%BD_Krysa%C5%99%C3%ADk"
+},
+{
+"label": "poodle",
+"qid": "Q38904",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20poodle.jpg",
+"article": "https://en.wikipedia.org/wiki/Poodle"
+},
+{
+"label": "poodle",
+"qid": "Q38904",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20Poodle%20%28Hungary%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Poodle"
+},
+{
+"label": "Lagotto Romagnolo",
+"qid": "Q38910",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lagotto%20Romagnolo.jpg",
+"article": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo"
+},
+{
+"label": "Pumi",
+"qid": "Q38919",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hungarianpumi.JPG",
+"article": "https://en.wikipedia.org/wiki/Pumi_dog"
+},
+{
+"label": "Otterhound",
+"qid": "Q38922",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Two%20otterhounds.jpg",
+"article": "https://en.wikipedia.org/wiki/Otterhound"
+},
+{
+"label": "Indian Spitz",
+"qid": "Q38921",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20spitz.jpg",
+"article": "https://en.wikipedia.org/wiki/Indian_Spitz"
+},
+{
+"label": "Norrbottenspets",
+"qid": "Q38925",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordic%20Spitz.jpg",
+"article": "https://en.wikipedia.org/wiki/Norrbottenspets"
+},
+{
+"label": "Pudelpointer",
+"qid": "Q38930",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pudelpointer%20on%20point.jpg",
+"article": "https://en.wikipedia.org/wiki/Pudelpointer"
+},
+{
+"label": "Podenco Canario",
+"qid": "Q38932",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Podenco%20Canario%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Podenco_Canario"
+},
+{
+"label": "Portuguese Podengo",
+"qid": "Q39063",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Podengo%20Portugues.jpg",
+"article": "https://en.wikipedia.org/wiki/Portuguese_Podengo"
+},
+{
+"label": "Sealyham Terrier",
+"qid": "Q39068",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SealyhamTerrier01.jpg",
+"article": "https://en.wikipedia.org/wiki/Sealyham_Terrier"
+},
+{
+"label": "Swedish Vallhund",
+"qid": "Q39075",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SwedishVallhundAgility%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/Swedish_Vallhund"
+},
+{
+"label": "Rafeiro do Alentejo",
+"qid": "Q39073",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafeiro%20male.jpg",
+"article": "https://en.wikipedia.org/wiki/Rafeiro_do_Alentejo"
+},
+{
+"label": "Posavac Hound",
+"qid": "Q39078",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Posavac.jpg",
+"article": "https://en.wikipedia.org/wiki/Posavac_Hound"
+},
+{
+"label": "Porcelaine",
+"qid": "Q39083",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porcelaine%202009%20pl4.jpg",
+"article": "https://en.wikipedia.org/wiki/Porcelaine"
+},
+{
+"label": "Porcelaine",
+"qid": "Q39083",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porcelaine.jpg",
+"article": "https://en.wikipedia.org/wiki/Porcelaine"
+},
+{
+"label": "Petit Basset Griffon Vendéen",
+"qid": "Q39080",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/P%20Basset%20Griffon%20Vendeen%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Petit_Basset_Griffon_Vend%C3%A9en"
+},
+{
+"label": "Tyrolean Hound",
+"qid": "Q39084",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiroler%20Bracke.jpg",
+"article": "https://en.wikipedia.org/wiki/Tyrolean_Hound"
+},
+{
+"label": "Westphalian Dachsbracke",
+"qid": "Q39095",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westf%C3%A4lische%20Dachsbracke.jpg",
+"article": "https://en.wikipedia.org/wiki/Westphalian_Dachsbracke"
+},
+{
+"label": "Westphalian Dachsbracke",
+"qid": "Q39095",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westf%C3%A4lische-dachsbracke.JPG",
+"article": "https://en.wikipedia.org/wiki/Westphalian_Dachsbracke"
+},
+{
+"label": "Rottweiler",
+"qid": "Q39093",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rottweiler%20Moletai%20May%202014.2.jpg",
+"article": "https://en.wikipedia.org/wiki/Rottweiler"
+},
+{
+"label": "Tatra Shepherd Dog",
+"qid": "Q39096",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polski%20Owczarek%20Podhala%C5%84ski%2030.jpg",
+"article": "https://en.wikipedia.org/wiki/Tatra_Shepherd_Dog"
+},
+{
+"label": "Russian Spaniel",
+"qid": "Q39103",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russpaniel.jpg",
+"article": "https://en.wikipedia.org/wiki/Russian_Spaniel"
+},
+{
+"label": "Saluki",
+"qid": "Q39108",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Red%20Smooth%20Saluki.jpg",
+"article": "https://en.wikipedia.org/wiki/Saluki"
+},
+{
+"label": "Northern Inuit Dog",
+"qid": "Q39113",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Inuit%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Northern_Inuit_Dog"
+},
+{
+"label": "Phu Quoc ridgeback dog",
+"qid": "Q39116",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phu%20Quoc%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Phu_Quoc_Ridgeback"
+},
+{
+"label": "Whippet",
+"qid": "Q39122",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Whippet%20stacked.jpg",
+"article": "https://en.wikipedia.org/wiki/Whippet"
+},
+{
+"label": "Sabueso Español",
+"qid": "Q39126",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angoi%20de%20A%20Fonsagrada.JPG",
+"article": "https://en.wikipedia.org/wiki/Sabueso_Espa%C3%B1ol"
+},
+{
+"label": "Swedish Lapphund",
+"qid": "Q39130",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Svensk%20lapphund.JPG",
+"article": "https://en.wikipedia.org/wiki/Swedish_Lapphund"
+},
+{
+"label": "Tornjak",
+"qid": "Q39133",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bosniantornjak.jpg",
+"article": "https://en.wikipedia.org/wiki/Tornjak"
+},
+{
+"label": "Sussex Spaniel",
+"qid": "Q39138",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sussex%20spaniel%20t43.jpg",
+"article": "https://en.wikipedia.org/wiki/Sussex_Spaniel"
+},
+{
+"label": "Shikoku Ken",
+"qid": "Q39147",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shikoku%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Shikoku_dog"
+},
+{
+"label": "Segugio Italiano a Pelo Raso",
+"qid": "Q39152",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Segugioitalianopelorasofulvo%20%28cropped%29.JPG",
+"article": "https://en.wikipedia.org/wiki/Segugio_Italiano_a_Pelo_Raso"
+},
+{
+"label": "Schapendoes",
+"qid": "Q39157",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schapendoes.jpg",
+"article": "https://en.wikipedia.org/wiki/Schapendoes"
+},
+{
+"label": "Spinone Italiano",
+"qid": "Q39161",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spinone%20italiano%20Daisy.JPG",
+"article": "https://en.wikipedia.org/wiki/Spinone_Italiano"
+},
+{
+"label": "Thai Ridgeback",
+"qid": "Q39172",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thai-Ridgeback.jpg",
+"article": "https://en.wikipedia.org/wiki/Thai_Ridgeback"
+},
+{
+"label": "Russkiy Toy",
+"qid": "Q39176",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/RusskiyToyWelpe9Mon.JPG",
+"article": "https://en.wikipedia.org/wiki/Russian_Toy"
+},
+{
+"label": "Kokoni (dog)",
+"qid": "Q39182",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SmallGreekDomesticDog.jpg",
+"article": "https://en.wikipedia.org/wiki/Kokoni"
+},
+{
+"label": "Tibetan Spaniel",
+"qid": "Q39181",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tibetansk%20spaniel.jpg",
+"article": "https://en.wikipedia.org/wiki/Tibetan_spaniel"
+},
+{
+"label": "Tenterfield Terrier",
+"qid": "Q39185",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosie%20the%20Champion%20Tenterfield%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Tenterfield_Terrier"
+},
+{
+"label": "Plott Hound",
+"qid": "Q39195",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Plotthound-red1.jpg",
+"article": "https://en.wikipedia.org/wiki/Plott_Hound"
+},
+{
+"label": "Stabijhoun",
+"qid": "Q39192",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frisianstaby.jpg",
+"article": "https://en.wikipedia.org/wiki/Stabyhoun"
+},
+{
+"label": "Spanish Water Dog",
+"qid": "Q39200",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perro%20agua.jpg",
+"article": "https://en.wikipedia.org/wiki/Spanish_Water_Dog"
+},
+{
+"label": "Silken Windhound",
+"qid": "Q39207",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fallon%20the%20Silken%20Windhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Silken_Windhound"
+},
+{
+"label": "Slovakian Rough-haired Pointer",
+"qid": "Q39210",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bella%20z%20Milhostovskych%20poli.jpg",
+"article": "https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer"
+},
+{
+"label": "Styrian Coarse-haired Hound",
+"qid": "Q39214",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steirische%20Rauhhaarbracke.jpg",
+"article": "https://en.wikipedia.org/wiki/Styrian_Coarse-haired_Hound"
+},
+{
+"label": "Fox Terrier",
+"qid": "Q39220",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/01%20Wire%20Fox%20terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Fox_Terrier"
+},
+{
+"label": "Shiloh Shepherd",
+"qid": "Q39229",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SirHarley%20of%20Shenandoah%20Kennel.JPG",
+"article": "https://en.wikipedia.org/wiki/Shiloh_Shepherd_dog"
+},
+{
+"label": "Taigan",
+"qid": "Q39239",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tajgan%20MB%20002.jpg",
+"article": "https://en.wikipedia.org/wiki/Taigan"
+},
+{
+"label": "Treeing Walker Coonhound",
+"qid": "Q39244",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Treeing-walker-coonhound-standing.jpg",
+"article": "https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound"
+},
+{
+"label": "Villano de las Encartaciones",
+"qid": "Q39251",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trucios%20perro%20villano.jpg",
+"article": "https://en.wikipedia.org/wiki/Villano_de_Las_Encartaciones"
+},
+{
+"label": "Phalène",
+"qid": "Q39254",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spaniel%20miniaturowy%20kontynentalny%20phalene%2000.jpg",
+"article": "https://en.wikipedia.org/wiki/Phal%C3%A8ne"
+},
+{
+"label": "Andalusian Hound",
+"qid": "Q39262",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20%28podenco%20andaluz%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Podenco_Andaluz"
+},
+{
+"label": "Andalusian Hound",
+"qid": "Q39262",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Podenco%20chico.jpg",
+"article": "https://en.wikipedia.org/wiki/Podenco_Andaluz"
+},
+{
+"label": "Italian Rough-haired Segugio",
+"qid": "Q39273",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SIPF%20larger.jpg",
+"article": "https://en.wikipedia.org/wiki/Segugio_Italiano_a_Pelo_Forte"
+},
+{
+"label": "Welsh Sheepdog",
+"qid": "Q39278",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Sheepdog.jpg",
+"article": "https://en.wikipedia.org/wiki/Welsh_Sheepdog"
+},
+{
+"label": "Limer",
+"qid": "Q39283",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Limer.jpg",
+"article": "https://en.wikipedia.org/wiki/Limer"
+},
+{
+"label": "Staffordshire Bull Terrier",
+"qid": "Q39285",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Staffie.jpg",
+"article": "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
+},
+{
+"label": "Siberian Husky",
+"qid": "Q39295",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siberian%20Husky%20-%20Mika.jpg",
+"article": "https://en.wikipedia.org/wiki/Siberian_Husky"
+},
+{
+"label": "Afghan mastiff",
+"qid": "Q516648",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Afghan%20mastiff.jpg",
+"article": null
+},
+{
+"label": "Savoy Sheepdog",
+"qid": "Q819593",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Utah%201%20des%20Pays%20de%20Savoie%20-%20Inscrit%20au%20LOF.jpg",
+"article": null
+},
+{
+"label": "Bolonka Franzuska",
+"qid": "Q891548",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bolonka-Franzuska2.jpg",
+"article": null
+},
+{
+"label": "Q1318864",
+"qid": "Q1318864",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westerwaelder.Kuhhuendin.jpg",
+"article": null
+},
+{
+"label": "Silken Windsprite",
+"qid": "Q1719885",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Whippet%20d%C5%82ugow%C5%82osy%20suka%20MB%20001.jpg",
+"article": null
+},
+{
+"label": "Turkmen Alabai",
+"qid": "Q1748928",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ch.%2CIntCh.Odor%20Mortis%20Patisha%2Cimp.Russia.JPG",
+"article": null
+},
+{
+"label": "Pandikona",
+"qid": "Q1990683",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandikona.jpg",
+"article": null
+},
+{
+"label": "Boerenfox terrier",
+"qid": "Q2446076",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boerenfox.jpg",
+"article": null
+},
+{
+"label": "French Charnaigre Dog",
+"qid": "Q2961129",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charnigue01.jpg",
+"article": null
+},
+{
+"label": "Laobé",
+"qid": "Q3217682",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laob%C3%A9.jpg",
+"article": null
+},
+{
+"label": "Grecian Greyhound",
+"qid": "Q3272034",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/039.%20Grecian%20Greyhound.JPG",
+"article": null
+},
+{
+"label": "Long haired dachshund",
+"qid": "Q3516970",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Std%20Dachshund%20600.jpg",
+"article": null
+},
+{
+"label": "wire-haired dachshund",
+"qid": "Q3516971",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teckel%20-%2040.jpg",
+"article": null
+},
+{
+"label": "Q4354190",
+"qid": "Q4354190",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Perro-pila-pilichy.jpg",
+"article": null
+},
+{
+"label": "Svensk vit älghund",
+"qid": "Q4356976",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arctic%20Dog.jpg",
+"article": null
+},
+{
+"label": "Boxador",
+"qid": "Q5732926",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boxador.jpg",
+"article": null
+},
+{
+"label": "Q5766204",
+"qid": "Q5766204",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chihuahua1%20bvdb.jpg",
+"article": null
+},
+{
+"label": "Pyrenean Sheepdog Long-haired",
+"qid": "Q10345998",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berger-des-Pyrenees%20Aurore%200800x0600.jpg",
+"article": null
+},
+{
+"label": "Pomsky",
+"qid": "Q10351150",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pomsky%20Dog%20Breed%20-%20Pomeranian%20Husky%20Mix.jpg",
+"article": null
+},
+{
+"label": "Anglo-Russian Hound",
+"qid": "Q10411807",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Englantilais-ven%C3%A4l%C3%A4inenajokoira.jpg",
+"article": null
+},
+{
+"label": "Berger de Crau",
+"qid": "Q10428393",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berger%20de%20crau.jpg",
+"article": null
+},
+{
+"label": "Hedehund",
+"qid": "Q10519107",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedehund.JPG",
+"article": null
+},
+{
+"label": "Russian Hound",
+"qid": "Q10657975",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/6gRG.jpg",
+"article": null
+},
+{
+"label": "Trailhound",
+"qid": "Q11322087",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trail%20Hounds%20on%20Hill.jpg",
+"article": null
+},
+{
+"label": "Belgian Griffons",
+"qid": "Q11337107",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monkey%20Bizniz%20Drama%20Queen.jpg",
+"article": null
+},
+{
+"label": "Peruvian Inca Orchid",
+"qid": "Q11337512",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagi%20meksyka%C5%84czyk%20%C5%9Bredni%20657.jpg",
+"article": null
+},
+{
+"label": "Iwate Inu",
+"qid": "Q11474636",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iwate%20Inu%20Sentaroaka.png",
+"article": null
+},
+{
+"label": "Jōmon Dog",
+"qid": "Q11608113",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joumon%2004.jpg",
+"article": null
+},
+{
+"label": "Toy Poodle",
+"qid": "Q11831662",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Did%20you%20call%20me.jpg",
+"article": null
+},
+{
+"label": "Borneo dog",
+"qid": "Q11854538",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borneo%20dog.jpg",
+"article": null
+},
+{
+"label": "Westfal Terrier",
+"qid": "Q11902355",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westfalenterrier.jpg",
+"article": null
+},
+{
+"label": "Wurttemberg Pointer",
+"qid": "Q11902537",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pointer%20of%20Wurtemberg%20from%201915.JPG",
+"article": null
+},
+{
+"label": "Australian stock dog",
+"qid": "Q12208606",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilu%20the%20Australian%20Kelpie%20dog.jpg",
+"article": null
+},
+{
+"label": "Gollie",
+"qid": "Q12314116",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gollie.jpg",
+"article": null
+},
+{
+"label": "miniature dachshund",
+"qid": "Q12664827",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MiniDachshund1%20wb.jpg",
+"article": null
+},
+{
+"label": "Petit brabançon",
+"qid": "Q13631411",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petit-brabancon-gaystock-le-pas-de-tout.jpg",
+"article": null
+},
+{
+"label": "Grand Gascon Saintongeois",
+"qid": "Q14309341",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Virelade%20from%201915.JPG",
+"article": null
+},
+{
+"label": "Bone-mouth",
+"qid": "Q14766993",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shar-Pei%20bone%20mouth.JPG",
+"article": null
+},
+{
+"label": "American Blue Gascon Hound",
+"qid": "Q15263587",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Blue%20Gascon%20Hound.webp",
+"article": null
+},
+{
+"label": "French Pointing Dog - Pyrenean type",
+"qid": "Q15284257",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/0805%20braque%20francais%20text.jpg",
+"article": null
+},
+{
+"label": "Pyrenean Sheepdog Smooth-faced",
+"qid": "Q16039619",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berger-des-Pyrenees%20Ellea%20800x600.jpg",
+"article": null
+},
+{
+"label": "Großspitz",
+"qid": "Q16639970",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20chien%20Spitz%20allemand.jpg",
+"article": null
+},
+{
+"label": "Q16679215",
+"qid": "Q16679215",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurzhaardackel.jpg",
+"article": null
+},
+{
+"label": "Seskar Seal Dog",
+"qid": "Q16830750",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seiskarinkoira%20Seiskari%20dog.jpg",
+"article": null
+},
+{
+"label": "Chamuco",
+"qid": "Q18418019",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chamuco3.jpg",
+"article": null
+},
+{
+"label": "Brazilian Bull-mastiff",
+"qid": "Q18464858",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bull-mastif%20brasileiro%204.jpg",
+"article": null
+},
+{
+"label": "odis",
+"qid": "Q20379893",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Odessadogodis1.jpg",
+"article": null
+},
+{
+"label": "Sila Shepherd",
+"qid": "Q21193030",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scarpino8.png",
+"article": null
+},
+{
+"label": "Griffon Bruxellois",
+"qid": "Q26272045",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monkey%20Bizniz%20Drama%20Queen.jpg",
+"article": null
+},
+{
+"label": "Pulin",
+"qid": "Q28063845",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pulin%20002%2C%20Tre%C5%A1njavac.jpg",
+"article": null
+},
+{
+"label": "Auvergne Shepherd",
+"qid": "Q28495327",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chien%20de%20Berger%20Auvergne%201910.jpg",
+"article": null
+},
+{
+"label": "Medelyan",
+"qid": "Q30891717",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D0%BD%20%28%D0%BF%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%20%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%29.jpg",
+"article": null
+},
+{
+"label": "Cane Pecoraio Varbutu",
+"qid": "Q30898853",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cane%20pecoraio%20varbutu.jpg",
+"article": null
+},
+{
+"label": "Q48803479",
+"qid": "Q48803479",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lo%20Spinotto.jpg",
+"article": null
+},
+{
+"label": "Polish Hunting Spaniel",
+"qid": "Q55454389",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Polishhuntingmyzli.jpg",
+"article": null
+},
+{
+"label": "Tuvinskaya ovcharka",
+"qid": "Q55664359",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C%2010%20%D0%BB%D0%B5%D1%82.jpg",
+"article": null
+},
+{
+"label": "Branchiero siciliano",
+"qid": "Q56325365",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Branchiero%20Siciliano.jpg",
+"article": null
+},
+{
+"label": "Bullbras",
+"qid": "Q57305587",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupa%20do%20Canchin%2008.jpg",
+"article": null
+},
+{
+"label": "Bulgarian Shepherd Dog",
+"qid": "Q59617570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgarian%20Shepherd%20Dog%2016.jpg",
+"article": null
+},
+{
+"label": "Chuandong Hound",
+"qid": "Q60983318",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chuandong2.jpg",
+"article": null
+},
+{
+"label": "Ramanathapuram mandai dog",
+"qid": "Q64828740",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/RAMANATHAPURAM%20MANDAI%20MANTHAI%20INDIAN%20DOG%20BREED.jpg",
+"article": null
+},
+{
+"label": "Faroese Sheepdog",
+"qid": "Q65044709",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20stamp%20255%20sheepdog.jpg",
+"article": null
+},
+{
+"label": "westiepoo",
+"qid": "Q99640545",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westiepoo%20age%207.jpg",
+"article": null
+},
+{
+"label": "westiepoo",
+"qid": "Q99640545",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Westiepoo%20age%2011.jpg",
+"article": null
+},
+{
+"label": "Shepweiler",
+"qid": "Q105429234",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A9%D7%A4%D7%95%D7%95%D7%99%D7%9C%D7%A8%202.jpg",
+"article": null
+},
+{
+"label": "Chilean Dogo",
+"qid": "Q107337867",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dogo%20chileno.jpg",
+"article": null
+},
+{
+"label": "French Pointing Dog Gascogne Type",
+"qid": "Q112086063",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20Gasko%C5%84ski.jpg",
+"article": null
+},
+{
+"label": "Multi-Colored Poodle",
+"qid": "Q113957592",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pudel%20Zwerg%20Blackandtan.jpg",
+"article": null
+},
+{
+"label": "Q123786355",
+"qid": "Q123786355",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C3%A4lderdackel%20oder%20Schwarzw%C3%A4lder%20Bracke.jpg",
+"article": null
+},
+{
+"label": "St. Hubert",
+"qid": "Q124212270",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20new%20book%20of%20the%20dog%20-%20a%20comprehensive%20natural%20history%20of%20British%20dogs%20and%20their%20foreign%20relatives%2C%20with%20chapters%20on%20law%2C%20breeding%2C%20kennel%20management%2C%20and%20veterinary%20treatment%20%281911%29%20%2814576912960%29.jpg",
+"article": null
+},
+{
+"label": "Kattai dog",
+"qid": "Q135329578",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kattai%20dog%20alias%20kattakal%20dog%20approaching.jpg",
+"article": null
+},
+{
+"label": "Q136400685",
+"qid": "Q136400685",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koroskizigec2.jpg",
+"article": null
+},
+{
+"label": "Pashmi hound",
+"qid": "Q139764231",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pashmi%20Hound%20Dog%20Show%202026%20Ooty%20May26%20A7CR%2010774.jpg",
+"article": null
+},
+{
+"label": "Gegar",
+"qid": "Q25881",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue-eyed%20dog%20Muks.jpg",
+"article": null
+},
+{
+"label": "Bernese hound",
+"qid": "Q37491",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gonczy%20bernenski%20pl1.jpg",
+"article": null
+},
+{
+"label": "Mucuchies",
+"qid": "Q37963",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mucuchies%20dog%20in%20%C3%81vila%20Mont%20cut%20version.jpg",
+"article": null
+},
+{
+"label": "Lucernese Hound",
+"qid": "Q37964",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/09057120%20Luzerner%20Laufhund.jpg",
+"article": null
+},
+{
+"label": "Griffon à poil laineux",
+"qid": "Q38001",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Griffon%20Boulet%20from%201915.JPG",
+"article": null
+},
+{
+"label": "Leopard Tree Dog",
+"qid": "Q38032",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louisiana%20Cataholula%20Leopard%20Dog%20-%20Coahoma%20Arkansas.JPG",
+"article": null
+},
+{
+"label": "Leopard Tree Dog",
+"qid": "Q38032",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/02.%20Coahoma%20Arkansas%20Logan.jpg",
+"article": null
+},
+{
+"label": "Griffon Belge",
+"qid": "Q38055",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Griffon%20belge.jpg",
+"article": null
+},
+{
+"label": "Antebellum Bulldog",
+"qid": "Q38134",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antebellum%20Bulldog%20Puppies.jpg",
+"article": null
+},
+{
+"label": "American Alsatian",
+"qid": "Q38145",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlsatianShepalute.jpg",
+"article": null
+},
+{
+"label": "American Mastiff",
+"qid": "Q38192",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AM.Suma.jpg",
+"article": null
+},
+{
+"label": "Schafpudel",
+"qid": "Q38436",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schafpudel%20Stephanitz%2082.jpg",
+"article": null
+},
+{
+"label": "Schafpudel",
+"qid": "Q38436",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schafpudel%20met%20pup.jpg",
+"article": null
+},
+{
+"label": "Schafpudel",
+"qid": "Q38436",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schafpudel%201.jpg",
+"article": null
+},
+{
+"label": "Guatemalan Dogo",
+"qid": "Q38442",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dogo1.jpg",
+"article": null
+},
+{
+"label": "Black Slovakian Shepherd",
+"qid": "Q38520",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/8s45heryprobaobraz%20018.jpg",
+"article": null
+},
+{
+"label": "Mountain View Cur",
+"qid": "Q38894",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20View%20Cur.jpg",
+"article": null
+},
+{
+"label": "Waeller",
+"qid": "Q39265",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Waeller1.jpg",
+"article": null
+},
+{
+"label": "Schwyz Hound",
+"qid": "Q39280",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swiss%20Hound.jpg",
+"article": null
+},
+{
+"label": "Petit Gascon Saintongeois",
+"qid": "Q39331",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petit%20Gascon%20de%20Saintonge%202.JPG",
+"article": null
+},
+{
+"label": "White English Bulldog",
+"qid": "Q39405",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hedden%27s%20Buddy%20Roe.jpg",
+"article": null
+},
+{
+"label": "Pastor Americano",
+"qid": "Q44008",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20Americano.jpg",
+"article": null
+},
+{
+"label": "Ryukyu Inu",
+"qid": "Q5401146",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryukyu%20dog%20pair.jpg",
+"article": "https://en.wikipedia.org/wiki/Ryukyu_dog"
+},
+{
+"label": "German Spitz Mittel",
+"qid": "Q5408020",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GSMittel.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Spitz_Mittel"
+},
+{
+"label": "Zerdava",
+"qid": "Q6003137",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zerdava%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Zerdava"
+},
+{
+"label": "Fuegian dog",
+"qid": "Q6072879",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20of%20a%20Fuegian%2C%20Yapoo%20Tekenika%20Wellcome%20L0076886.jpg",
+"article": "https://en.wikipedia.org/wiki/Fuegian_dog"
+},
+{
+"label": "Miniature American Shepherd",
+"qid": "Q6865130",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature-american-shepherd-energies.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd"
+},
+{
+"label": "Miniature Fox Terrier",
+"qid": "Q6865135",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20Fox%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Fox_Terrier"
+},
+{
+"label": "Miniature Fox Terrier",
+"qid": "Q6865135",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mini%20Fox%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Fox_Terrier"
+},
+{
+"label": "Moscow Water Dog",
+"qid": "Q6915548",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow-Water%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Moscow_Water_Dog"
+},
+{
+"label": "Patagonian Sheepdog",
+"qid": "Q9053651",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ovejero%20magall%C3%A1nico%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Patagonian_Sheepdog"
+},
+{
+"label": "Techichi",
+"qid": "Q9356247",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colima%20-%20Dog%20Effigy%20-%20Walters%2020092051%20-%20Three%20Quarter%20Front.jpg",
+"article": "https://en.wikipedia.org/wiki/Techichi"
+},
+{
+"label": "Miniature Shar Pei",
+"qid": "Q14533392",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/XBlack.JPG",
+"article": "https://en.wikipedia.org/wiki/Miniature_Shar_Pei"
+},
+{
+"label": "Akita",
+"qid": "Q29164",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akita%20inu%20criado%20por%20Tsutsui%20Kennel.jpg",
+"article": "https://en.wikipedia.org/wiki/Akita_(dog_breed)"
+},
+{
+"label": "Old English sheepdog",
+"qid": "Q37704",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bobtail.JPG",
+"article": "https://en.wikipedia.org/wiki/Old_English_Sheepdog"
+},
+{
+"label": "border collie",
+"qid": "Q37710",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argentine%20border%20collie.jpg",
+"article": "https://en.wikipedia.org/wiki/Border_Collie"
+},
+{
+"label": "basset hound",
+"qid": "Q37716",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basset%20Hound%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Basset_Hound"
+},
+{
+"label": "Chinook",
+"qid": "Q37722",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mountan%20Laurel%20Ajax%20the%20Chinook%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Chinook_(dog_breed)"
+},
+{
+"label": "Beauceron",
+"qid": "Q37720",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BeauceronStand.jpg",
+"article": "https://en.wikipedia.org/wiki/Beauceron"
+},
+{
+"label": "Carolina Dog",
+"qid": "Q37721",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karol%C3%ADnsk%C3%BD%20pes.jpeg",
+"article": "https://en.wikipedia.org/wiki/Carolina_Dog"
+},
+{
+"label": "Carolina Dog",
+"qid": "Q37721",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carolina%20Strand.jpg",
+"article": "https://en.wikipedia.org/wiki/Carolina_Dog"
+},
+{
+"label": "Braque d'Auvergne",
+"qid": "Q37727",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Braque%20d%20Auvergne.jpg",
+"article": "https://en.wikipedia.org/wiki/Braque_d%27Auvergne"
+},
+{
+"label": "Azores Cattle Dog",
+"qid": "Q37730",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caofila.jpg",
+"article": "https://en.wikipedia.org/wiki/Saint_Miguel_Cattle_Dog"
+},
+{
+"label": "Braque Français",
+"qid": "Q37728",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wy%C5%BCe%C5%82%20pirenejski%20308.jpg",
+"article": "https://en.wikipedia.org/wiki/Braque_Fran%C3%A7ais"
+},
+{
+"label": "Portuguese Sheepdog",
+"qid": "Q37734",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cao%20de%20Serra%20de%20Aires600.jpg",
+"article": "https://en.wikipedia.org/wiki/Portuguese_Sheepdog"
+},
+{
+"label": "Broholmer",
+"qid": "Q37737",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Broholmer%20634.jpg",
+"article": "https://en.wikipedia.org/wiki/Broholmer"
+},
+{
+"label": "Bouvier des Ardennes",
+"qid": "Q37741",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boyero-de-las-ardenas7.jpg",
+"article": "https://en.wikipedia.org/wiki/Bouvier_des_Ardennes"
+},
+{
+"label": "Bohemian Shepherd",
+"qid": "Q37746",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/OREADY%20KROSANDRA%20%2815%29.JPG",
+"article": "https://en.wikipedia.org/wiki/Bohemian_Shepherd"
+},
+{
+"label": "Bohemian Shepherd",
+"qid": "Q37746",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/OREADY%20KROSANDRA%20%2814%29.JPG",
+"article": "https://en.wikipedia.org/wiki/Bohemian_Shepherd"
+},
+{
+"label": "Presa Canario",
+"qid": "Q37750",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Canary%20Mastiff%20red-brindle2.JPG",
+"article": "https://en.wikipedia.org/wiki/Presa_Canario"
+},
+{
+"label": "Cretan Hound",
+"qid": "Q38074",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kritikosichnilatis%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Cretan_Hound"
+},
+{
+"label": "Cavalier King Charles Spaniel",
+"qid": "Q38072",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/CavalierKgChas2%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
+},
+{
+"label": "Cavalier King Charles Spaniel",
+"qid": "Q38072",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Betty%20Verdure.Photo%20Ph.BRIZARD.JPG",
+"article": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel"
+},
+{
+"label": "Bullmastiff",
+"qid": "Q38080",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dog%20Bullmastiff%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Bullmastiff"
+},
+{
+"label": "Croatian Sheepdog",
+"qid": "Q38537",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GeraHojda09112055ZG.jpeg",
+"article": "https://en.wikipedia.org/wiki/Croatian_Sheepdog"
+},
+{
+"label": "Ukrainian Vivcharka",
+"qid": "Q38546",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Russian%20Ovcharka.jpg",
+"article": "https://en.wikipedia.org/wiki/South_Russian_Ovcharka"
+},
+{
+"label": "English Water Spaniel",
+"qid": "Q38550",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20Water%20Spaniel.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Water_Spaniel"
+},
+{
+"label": "Portuguese water dog",
+"qid": "Q38559",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A3o%20de%20agua%20Portugu%C3%AAs%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog"
+},
+{
+"label": "Black Mouth Cur",
+"qid": "Q38556",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BlackMouthCurPortrait.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_Mouth_Cur"
+},
+{
+"label": "Chilean Fox Terrier",
+"qid": "Q38563",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fox%20terrier%20chileno.JPG",
+"article": "https://en.wikipedia.org/wiki/Chilean_Terrier"
+},
+{
+"label": "Chilean Fox Terrier",
+"qid": "Q38563",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chilean%20Fox%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Chilean_Terrier"
+},
+{
+"label": "Cordoba Fighting Dog",
+"qid": "Q38566",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cordoba%20profile.jpg",
+"article": "https://en.wikipedia.org/wiki/C%C3%B3rdoba_fighting_dog"
+},
+{
+"label": "Central Asian Shepherd Dog",
+"qid": "Q38570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B2%D1%87%D0%B0%D1%80%D0%BA%D0%B0%2C%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C.jpg",
+"article": "https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog"
+},
+{
+"label": "Central Asian Shepherd Dog",
+"qid": "Q38570",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2.CAO%20in%20Hungary.jpg",
+"article": "https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog"
+},
+{
+"label": "greyhound",
+"qid": "Q38571",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/GraceTheGreyhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Greyhound"
+},
+{
+"label": "Caucasian Shepherd Dog",
+"qid": "Q38576",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Owczarek%20kaukaski%2065556.jpg",
+"article": "https://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog"
+},
+{
+"label": "Welsh Springer Spaniel",
+"qid": "Q39047",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Springer%20Spaniel%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel"
+},
+{
+"label": "Skye Terrier",
+"qid": "Q39052",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skye%20terrier%20800.jpg",
+"article": "https://en.wikipedia.org/wiki/Skye_Terrier"
+},
+{
+"label": "Shetland Sheepdog",
+"qid": "Q39058",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/ShetlandShpdogBlue2%20wb.jpg",
+"article": "https://en.wikipedia.org/wiki/Shetland_Sheepdog"
+},
+{
+"label": "Mantiqueira Shepherd",
+"qid": "Q10346001",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pastor%20mantiqueira.jpg",
+"article": "https://en.wikipedia.org/wiki/Mantiqueira_Shepherd"
+},
+{
+"label": "Pampas Deerhound",
+"qid": "Q10389422",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Veadeiro%20pampeano.JPG",
+"article": "https://en.wikipedia.org/wiki/Pampas_Deerhound"
+},
+{
+"label": "Serrano Bulldog",
+"qid": "Q10437609",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anuke.jpg",
+"article": "https://en.wikipedia.org/wiki/Serrano_Bulldog"
+},
+{
+"label": "Greek Shepherd",
+"qid": "Q10520346",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gr11.jpg",
+"article": "https://en.wikipedia.org/wiki/Greek_Shepherd"
+},
+{
+"label": "Molossus of Epirus",
+"qid": "Q10587816",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Molossus%20dog%20in%20Albania.jpeg",
+"article": "https://en.wikipedia.org/wiki/Molossus_of_Epirus"
+},
+{
+"label": "Catahoula Leopard Dog",
+"qid": "Q11294205",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/SasquatchCatahoulaCurDog.jpg",
+"article": "https://en.wikipedia.org/wiki/Catahoula_Leopard_Dog"
+},
+{
+"label": "Leavitt Bulldog",
+"qid": "Q15444134",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leavitt%20Bulldogs%202.jpg",
+"article": "https://en.wikipedia.org/wiki/Leavitt_Bulldog"
+},
+{
+"label": "Lucas Terrier",
+"qid": "Q15618573",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Lucas_Terrier"
+},
+{
+"label": "Aksaray Malaklisi dog",
+"qid": "Q16245559",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aksaray%20malaklisinin%20malaklari.jpg",
+"article": "https://en.wikipedia.org/wiki/Aksaray_Malaklisi"
+},
+{
+"label": "Smithfield (dog)",
+"qid": "Q16861551",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Smithfield%20Jack%201898%20ExhbSydne.jpg",
+"article": "https://en.wikipedia.org/wiki/Smithfield_(dog)"
+},
+{
+"label": "Tibetan kyi apso",
+"qid": "Q16892010",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tibetan%20Kyi%20Apso.jpg",
+"article": "https://en.wikipedia.org/wiki/Tibetan_Kyi_Apso"
+},
+{
+"label": "Terceira Mastiff",
+"qid": "Q16893163",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fila%20de%20Terceira.jpg",
+"article": "https://en.wikipedia.org/wiki/Terceira_Mastiff"
+},
+{
+"label": "Tong gau",
+"qid": "Q17023476",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/HK%20SW%20QR%20West%20pet%20Dog%20walking%20May%202021%20SS2%2008.jpg",
+"article": "https://en.wikipedia.org/wiki/Tang_Dog"
+},
+{
+"label": "Perro fino Colombiano",
+"qid": "Q17446281",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colombianus%20Finus.jpg",
+"article": "https://en.wikipedia.org/wiki/Colombian_Fino_Hound"
+},
+{
+"label": "Segugio Italiano",
+"qid": "Q17521154",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Segugioitalianopelorasofulvo.JPG",
+"article": "https://en.wikipedia.org/wiki/Segugio_Italiano"
+},
+{
+"label": "Ibizan Hound",
+"qid": "Q37755",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Podenco%20z%20ibizy%20645.jpg",
+"article": "https://en.wikipedia.org/wiki/Ibizan_Hound"
+},
+{
+"label": "Ibizan Hound",
+"qid": "Q37755",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/AdemasAout2021.ret.jpg",
+"article": "https://en.wikipedia.org/wiki/Ibizan_Hound"
+},
+{
+"label": "Artois Hound",
+"qid": "Q37758",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Artois%20from%201915.JPG",
+"article": "https://en.wikipedia.org/wiki/Artois_Hound"
+},
+{
+"label": "Coonhound",
+"qid": "Q37766",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20female%20redbone-coonhound-1.jpg",
+"article": "https://en.wikipedia.org/wiki/Coonhound"
+},
+{
+"label": "continental bulldog",
+"qid": "Q37764",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pitsch-Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Continental_Bulldog"
+},
+{
+"label": "Cursinu",
+"qid": "Q37771",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cursinu%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Corsican_Dog"
+},
+{
+"label": "Great Gascony Blue",
+"qid": "Q37769",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Bleu%20de%20Gascogne%20in%20a%20blue%20dogcollar.jpg",
+"article": "https://en.wikipedia.org/wiki/Grand_Bleu_de_Gascogne"
+},
+{
+"label": "Drever",
+"qid": "Q37775",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drever%20NUCh%20Tanjo.jpg",
+"article": "https://en.wikipedia.org/wiki/Drever"
+},
+{
+"label": "Stichelhaar",
+"qid": "Q37773",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/03030288%20Deutsch%20Stichelhaa.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer"
+},
+{
+"label": "English Toy Terrier",
+"qid": "Q37782",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/English%20Toy%20Terrier%20600%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)"
+},
+{
+"label": "Serbian Tricolour Hound",
+"qid": "Q37780",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Srpski%20Trobojni%20Gonic.gif",
+"article": "https://en.wikipedia.org/wiki/Serbian_Tricolour_Hound"
+},
+{
+"label": "Pyrenean Shepherd",
+"qid": "Q37786",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berger-des-Pyrenees%20Adeux%200302x0214.jpg",
+"article": "https://en.wikipedia.org/wiki/Pyrenean_Sheepdog"
+},
+{
+"label": "German Shorthaired Pointer",
+"qid": "Q38084",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duitse%20staande%20korthaar%2010-10-2.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer"
+},
+{
+"label": "German Shorthaired Pointer",
+"qid": "Q38084",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duitse%20staande%20korthaar%2010-10-1.jpg",
+"article": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer"
+},
+{
+"label": "St. Bernard",
+"qid": "Q38090",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rey%20nieve.jpg",
+"article": "https://en.wikipedia.org/wiki/St._Bernard_(dog_breed)"
+},
+{
+"label": "Kazakh tazy",
+"qid": "Q38092",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chart%20%C5%9Brodkowoazjatycki%20Zeila.jpg",
+"article": "https://en.wikipedia.org/wiki/Kazakh_Tazy"
+},
+{
+"label": "Portuguese Cattle Dog",
+"qid": "Q38099",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cao%20de%20castro%20laboreiro.jpg",
+"article": "https://en.wikipedia.org/wiki/Castro_Laboreiro_Dog"
+},
+{
+"label": "Estrela Mountain Dog",
+"qid": "Q38096",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Estrela%20Mountain%20Dog%206%20month%20old%20male.jpg",
+"article": "https://en.wikipedia.org/wiki/Estrela_Mountain_Dog"
+},
+{
+"label": "Slovenský kopov",
+"qid": "Q38102",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/MVP%20Nitra%202004%20%288%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Slovensk%C3%BD_kopov"
+},
+{
+"label": "Maneto",
+"qid": "Q38103",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maneto1.jpg",
+"article": "https://en.wikipedia.org/wiki/Maneto"
+},
+{
+"label": "Harrier",
+"qid": "Q38107",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harrier%20tricolour.jpg",
+"article": "https://en.wikipedia.org/wiki/Harrier_(dog_breed)"
+},
+{
+"label": "Jämthund",
+"qid": "Q38105",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamthlnd.jpg",
+"article": "https://en.wikipedia.org/wiki/J%C3%A4mthund"
+},
+{
+"label": "Lakeland Terrier",
+"qid": "Q38110",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakeland%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Lakeland_Terrier"
+},
+{
+"label": "dingo",
+"qid": "Q38584",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nullarbor%20Dingo.jpg",
+"article": "https://en.wikipedia.org/wiki/Dingo"
+},
+{
+"label": "dingo",
+"qid": "Q38584",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dingo%20Side.JPG",
+"article": "https://en.wikipedia.org/wiki/Dingo"
+},
+{
+"label": "Canaan Dog",
+"qid": "Q38602",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/CanaanDogChakede1.jpg",
+"article": "https://en.wikipedia.org/wiki/Canaan_Dog"
+},
+{
+"label": "Brazilian Terrier",
+"qid": "Q38621",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/TERRIER%20BRASILEIRO%2C%20DK%20JV-15%20DK%20V-15%20Jyv%C3%A4m%C3%A4en%20Zircon%20Zr%20%2824265479706%29.2.jpg",
+"article": "https://en.wikipedia.org/wiki/Brazilian_Terrier"
+},
+{
+"label": "Montenegrin Mountain Hound",
+"qid": "Q38631",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Montenegronak.jpg",
+"article": "https://en.wikipedia.org/wiki/Montenegrin_Mountain_Hound"
+},
+{
+"label": "Black Russian Terrier",
+"qid": "Q38634",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russianblack.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_Russian_Terrier"
+},
+{
+"label": "Black Russian Terrier",
+"qid": "Q38634",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malahovkaja%20Serenada.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_Russian_Terrier"
+},
+{
+"label": "Istrian Shorthaired Hound",
+"qid": "Q38638",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Istrische%20Bracke.jpg",
+"article": "https://en.wikipedia.org/wiki/Istrian_Shorthaired_Hound"
+},
+{
+"label": "Norwich Terrier",
+"qid": "Q38934",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norwichterrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Norwich_Terrier"
+},
+{
+"label": "Himalayan Sheepdog",
+"qid": "Q38938",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Himalayan%20sheepdog2.jpg",
+"article": "https://en.wikipedia.org/wiki/Himalayan_Sheepdog"
+},
+{
+"label": "Norfolk Terrier",
+"qid": "Q38940",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charmonty%20Norfolkterrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Norfolk_Terrier"
+},
+{
+"label": "mongrel",
+"qid": "Q38945",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Poligraf%20Poligrafovich.JPG",
+"article": "https://en.wikipedia.org/wiki/Mongrel"
+},
+{
+"label": "Landseer",
+"qid": "Q38950",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Landseer.jpg",
+"article": "https://en.wikipedia.org/wiki/Landseer_(dog_breed)"
+},
+{
+"label": "Koolie",
+"qid": "Q38951",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pete%20may01%20web.JPG",
+"article": "https://en.wikipedia.org/wiki/Koolie"
+},
+{
+"label": "Kunming wolfdog",
+"qid": "Q38948",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kunming%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Kunming_dog"
+},
+{
+"label": "Kanni",
+"qid": "Q38958",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kanni.jpg",
+"article": "https://en.wikipedia.org/wiki/Kanni"
+},
+{
+"label": "Pekingese",
+"qid": "Q38959",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/1AKC%20Pekingese%20Dog%20Show%202011.jpg",
+"article": "https://en.wikipedia.org/wiki/Pekingese"
+},
+{
+"label": "Slovak Cuvac",
+"qid": "Q38963",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cuvac%201.jpg",
+"article": "https://en.wikipedia.org/wiki/Slovak_Cuvac"
+},
+{
+"label": "Black Norwegian Elkhound",
+"qid": "Q38961",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/BlackNorwegianElkhound.jpg",
+"article": "https://en.wikipedia.org/wiki/Black_Norwegian_Elkhound"
+},
+{
+"label": "Weimaraner",
+"qid": "Q38965",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weimaraner%20Amigo.jpg",
+"article": "https://en.wikipedia.org/wiki/Weimaraner"
+},
+{
+"label": "Schweizer Laufhund",
+"qid": "Q38975",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vycvik%20Stopy%20%283%29.JPG",
+"article": "https://en.wikipedia.org/wiki/Schweizer_Laufhund"
+},
+{
+"label": "Shar Pei",
+"qid": "Q38972",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shar%20pei.jpg",
+"article": "https://en.wikipedia.org/wiki/Shar_Pei"
+},
+{
+"label": "Paisley Terrier",
+"qid": "Q38980",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paisley1903.jpg",
+"article": "https://en.wikipedia.org/wiki/Paisley_Terrier"
+},
+{
+"label": "Miniature Pinscher",
+"qid": "Q38990",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zwergpinscher%20adult%20Ch.%20Mirzan%20del%20Piervez.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Pinscher"
+},
+{
+"label": "Miniature Pinscher",
+"qid": "Q38990",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%202%20DV%C3%84RGPINCHER%2C%20Pincerella%E2%80%99s%20Rinaldo%20Rosso%20%2824260846206%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Pinscher"
+},
+{
+"label": "Tosa",
+"qid": "Q38991",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bukadai.jpg",
+"article": "https://en.wikipedia.org/wiki/Tosa_(dog_breed)"
+},
+{
+"label": "Miniature Schnauzer",
+"qid": "Q38999",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA%20%22%D0%90%D1%81%D1%81%D0%BE%D0%BD%20%D0%90%D1%80%D0%B8%22%20%D0%A6%D0%B2%D0%B5%D1%80%D0%B3%D1%88%D0%BD%D0%B0%D1%83%D1%86%D0%B5%D1%80%D1%8B%20%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5%20%D0%B8%20%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D1%81%20%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%BE%D0%BC%2012.jpg",
+"article": "https://en.wikipedia.org/wiki/Miniature_Schnauzer"
+},
+{
+"label": "Samoyed",
+"qid": "Q39002",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samojed00.jpg",
+"article": "https://en.wikipedia.org/wiki/Samoyed_dog"
+},
+{
+"label": "Schipperke",
+"qid": "Q39010",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schipperke1.jpg",
+"article": "https://en.wikipedia.org/wiki/Schipperke"
+},
+{
+"label": "Schipperke",
+"qid": "Q39010",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schipperke0001.jpg",
+"article": "https://en.wikipedia.org/wiki/Schipperke"
+},
+{
+"label": "Rhodesian Ridgeback",
+"qid": "Q39026",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grupp%206%20RHODESIAN%20RIDGEBACK%2C%20NO%20JV-15%20SE%20VCH%20Kadamo%20I%E2%80%99m%20In%20It%20For%20The%20Gold%20%2823920356649%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback"
+},
+{
+"label": "Scottish Terrier",
+"qid": "Q39035",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scotish%20terrier%20burleska%202005.jpg",
+"article": "https://en.wikipedia.org/wiki/Scottish_Terrier"
+},
+{
+"label": "Welsh Terrier",
+"qid": "Q39041",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Welshterrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Welsh_Terrier"
+},
+{
+"label": "Saarloos wolfdog",
+"qid": "Q39306",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saarlooswolfhond.jpg",
+"article": "https://en.wikipedia.org/wiki/Saarloos_wolfdog"
+},
+{
+"label": "Shiba Inu",
+"qid": "Q39315",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shiba%20inu%20taiki.jpg",
+"article": "https://en.wikipedia.org/wiki/Shiba_Inu"
+},
+{
+"label": "Tibetan Mastiff",
+"qid": "Q39322",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/2013%20Westminster%20Kennel%20Club%20Dog%20Show-%20Tibetan%20Mastiff%20GCH%20Sierras%27Sasha-Yakone%20Nanuk%20%288469240739%29%20%28cropped%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Tibetan_Mastiff"
+},
+{
+"label": "Yorkshire Terrier",
+"qid": "Q39330",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Imageyorkie.png",
+"article": "https://en.wikipedia.org/wiki/Yorkshire_Terrier"
+},
+{
+"label": "Pachón Navarro",
+"qid": "Q39334",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/NAFAR%20EPER%20TXAKURRA%201890.jpg",
+"article": "https://en.wikipedia.org/wiki/Pach%C3%B3n_Navarro"
+},
+{
+"label": "Russo-European Laika",
+"qid": "Q39332",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russo%20European%20Laika.jpg",
+"article": "https://en.wikipedia.org/wiki/Russo-European_Laika"
+},
+{
+"label": "Shih Tzu",
+"qid": "Q39357",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shih%20Tzu%20portrait%20show%20dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Shih_Tzu"
+},
+{
+"label": "Talbot",
+"qid": "Q39390",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haddon-Hall-Talbot.jpg",
+"article": "https://en.wikipedia.org/wiki/Talbot_(dog_breed)"
+},
+{
+"label": "Toy Manchester Terrier",
+"qid": "Q39407",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toy-manchester-terrier-weave.png",
+"article": "https://en.wikipedia.org/wiki/Toy_Manchester_Terrier"
+},
+{
+"label": "Yugoslavian Shepherd Dog",
+"qid": "Q39408",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarplaninac%20Urok1007.jpg",
+"article": "https://en.wikipedia.org/wiki/%C5%A0arplaninac"
+},
+{
+"label": "Teddy Roosevelt Terrier",
+"qid": "Q39412",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adult%20Male%20Teddy%20Roosevelt%20Terrier.jpg",
+"article": "https://en.wikipedia.org/wiki/Teddy_Roosevelt_Terrier"
+},
+{
+"label": "West Siberian Laika",
+"qid": "Q39435",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Siberian%20Laika.jpg",
+"article": "https://en.wikipedia.org/wiki/West_Siberian_Laika"
+},
+{
+"label": "Wire Fox Terrier",
+"qid": "Q39491",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elias1%C4%8Derven2006.jpg",
+"article": "https://en.wikipedia.org/wiki/Wire_Fox_Terrier"
+},
+{
+"label": "Scotch collie",
+"qid": "Q39587",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rough%20Collie%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Scotch_Collie"
+},
+{
+"label": "Standard Schnauzer",
+"qid": "Q39605",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emppumenossa.jpg",
+"article": "https://en.wikipedia.org/wiki/Standard_Schnauzer"
+},
+{
+"label": "Wirehaired Vizsla",
+"qid": "Q39608",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anka%20vom%20Rudolfsforst.jpg",
+"article": "https://en.wikipedia.org/wiki/Wirehaired_Vizsla"
+},
+{
+"label": "Ca de Conills",
+"qid": "Q44116",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20de%20conills%20de%20Menorca%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/Ca_de_Conills"
+},
+{
+"label": "Ca Mè Mallorquí",
+"qid": "Q59537",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20m%C3%A8%20mallorqu%C3%AD%2003a.jpg",
+"article": "https://en.wikipedia.org/wiki/Ca_M%C3%A8_Mallorqu%C3%AD"
+},
+{
+"label": "Xarnego Valenciano",
+"qid": "Q59540",
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Podencovalencianolisofawn1.jpg",
+"article": "https://en.wikipedia.org/wiki/Podenco_Valenciano"
+},
+{
+"label": "Pomeranian",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%88%D0%BF%D0%B8%D1%86%20%28Pomeranian%29%2001.jpg",
+"article": "https://en.wikipedia.org/wiki/Pomeranian_dog"
+},
+{
+"label": "Bichon Frise",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bichon%20Fris%C3%A9%20-%20studdogbichon.jpg",
+"article": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9"
+},
+{
+"label": "Soft Coated Wheaten Terrier",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soft%20Coated%20Wheaten%20Terrier%20600.jpg",
+"article": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier"
+},
+{
+"label": "Curly-Coated Retriever",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Curley%20coated%20retriever5.jpg",
+"article": "https://en.wikipedia.org/wiki/Curly-coated_Retriever"
+},
+{
+"label": "Goldendoodle",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Finnegan%20the%20Goldendoodle%20having%20fun%20in%20the%20snow.jpg",
+"article": "https://en.wikipedia.org/wiki/Goldendoodle"
+},
+{
+"label": "Labradoodle",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Labradoodle-Brown-Male-SideFace.jpg",
+"article": "https://en.wikipedia.org/wiki/Labradoodle"
+},
+{
+"label": "Cavapoo",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cavoodle%20Dog.jpg",
+"article": "https://en.wikipedia.org/wiki/Cavapoo"
+},
+{
+"label": "Cockapoo",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Honey%20cockapoo%20Colombia.jpg",
+"article": "https://en.wikipedia.org/wiki/Cockapoo"
+},
+{
+"label": "Maltipoo",
+"qid": null,
+"image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maltipoo%20%2895574%29.jpg",
+"article": "https://en.wikipedia.org/wiki/Maltipoo"
+}
+]

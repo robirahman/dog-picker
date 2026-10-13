@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dog Breed Ranker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="topbar">
+    <button class="brand" id="brand" type="button" aria-label="Back to start">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3l3.2 4.6 5.5-.9-.9 5.5L28 15.5l-4.6 3.2.9 5.5-5.5-.9L16 28l-3.2-4.6-5.5.9.9-5.5L4 15.5l4.6-3.2-.9-5.5 5.5.9z"/><circle cx="16" cy="15.5" r="5.2"/></svg>
+      <span>Dog Breed Ranker</span>
+    </button>
+    <nav class="topnav" id="topnav"></nav>
+  </header>
+
+  <main id="app" aria-live="polite"></main>
+
+  <footer class="foot">
+    <p>Breed ratings: American Kennel Club trait scores (1–5) via TidyTuesday and akcdata, plus our own estimates for prey drive, time alone, climate, recall, and health. Photos: Wikimedia Commons, credited on each breed. This is a starting point for research, not a substitute for meeting dogs and talking to breeders, rescues, and vets.</p>
+  </footer>
+</div>
+
+<script src="js/breeds-data.js"></script>
+<script src="js/questions.js"></script>
+<script src="js/scoring.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
